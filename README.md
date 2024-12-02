@@ -4,9 +4,13 @@ This repository contains the data, scripts, and documentation for the study "A S
 
 # Research Questions
 RQ1: How many repositories retrieved from Software Heritage are no longer valid on GitHub?
+
 RQ2: For the same keyword, how many overlapping repositories are retrieved from GitHub and Software Heritage?
+
 RQ3: How well does repositories’ metadata (full names, descriptions, and readme) match with search keywords via search tools?
+
 RQ4: What proportion of repositories are missing critical metadata like readme or description?
+
 RQ5: What are the differences in repository metadata(stars, forks, age) between the two platforms? 
 
 # Mining Process
@@ -24,7 +28,7 @@ So we only select 1000 repositories from each platform (2000 repositories in tot
 
 In keyword selection, we use "python" as an example. However, you can select any keyword to reproduce this study.
 
-Before starting this study, you need to get your **tokens** of GitHub and Software Heritage and write them in Program ** 1. Github Search.py and 2. SWH Search.py**.
+Before starting this study, you need to get your **tokens** of GitHub and Software Heritage and write them in Program **1. Github Search.py and 2. SWH Search.py**.
 
 Purpose of the Dataset
 The dataset includes:
