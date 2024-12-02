@@ -30,6 +30,7 @@ _The figure above shows the mining process._
 
 # Repository Structure
 ![Repository Structure](https://github.com/user-attachments/assets/79b191a9-558d-4bf1-af9d-dc250a43a415)
+
 _The figure above shows the Repository Structure._
 
 ---
