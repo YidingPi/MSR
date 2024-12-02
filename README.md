@@ -42,6 +42,7 @@ Guidance of GitHub token creation: https://docs.github.com/en/authentication/kee
 Data Source: Software Heritage API and GitHub API
 
 ## Step 1: Run 1. Github Search.py and Write "python"
+
 Input: Keyword "python"
 
 Output: Txt files of metadata and age of repositories from GitHub Search will be stored in raw_data/GITHUB_OUTPUT and raw_data/GITHUB_AGE.
@@ -85,6 +86,7 @@ In step 2, we also conduct filtering of Software Heritage to filter out reposito
 
 ## Step 3: Run 3. Random Selection.py
 Input: Get the currently valid number of repositories of Software Heritage from refined_data\SWH_VALID_COUNTER. 
+
         Randomly Select repositories from raw_data\GITHUB_OUTPUT and raw_data\GITHUB_AGE.
 
 Output: GitHub Repositories which have the same number of Repositories from Software Heritage.
@@ -174,59 +176,3 @@ Output: Visualization features of Fork and Star are stored in analysis\Star_Fork
 ![Distribution of Updated-Created](https://github.com/user-attachments/assets/5d9b3eee-d6e8-4d71-a2e5-f44dc8b50548)
 ![Distribution of Pushed-Created](https://github.com/user-attachments/assets/9bad0e96-fd34-4136-8958-dffb9cf7c947)
 
-
-Purpose of the Dataset
-The dataset includes:
-
-Raw Data: Search results and metadata collected directly from the APIs of GitHub and Software Heritage.
-Refined Data: Processed and analyzed data to address research questions on repository overlaps, metadata completeness, and semantic relevance.
-Repository Structure
-The repository is organized as follows:
-
-
-data/
-raw/: Contains raw datasets retrieved from GitHub and Software Heritage APIs.
-refined/: Contains processed datasets with metadata and analysis results.
-scripts/
-data_collection.py: Automates the retrieval of repository metadata from APIs.
-data_processing.py: Processes raw datasets into a refined format.
-semantic_similarity.py: Calculates semantic similarity for relevance analysis.
-docs/
-Contains the LaTeX files and PDF presentation of the study.
-Includes a diagram of the selection and extraction processes.
-results/
-Visualizations and statistical summaries of the refined dataset.
-Dataset and Selection Process
-Raw Dataset
-Sources
-
-GitHub API: https://api.github.com
-Software Heritage API: https://archive.softwareheritage.org/api/
-Accessed: November 2024
-Selection Criteria
-
-Repositories retrieved using the keyword "Python."
-API limits: 5,000 requests/hour for GitHub, 1,200 requests/hour for Software Heritage.
-Dataset limited to 1,000 repositories per platform due to constraints.
-Reproducibility
-
-Scripts for data collection (scripts/data_collection.py) are provided with detailed usage instructions.
-Instructions for API access and key setup are included in the docs/ folder.
-Availability
-
-The raw dataset is available in the data/raw/ directory in CSV format.
-Refined Dataset
-Extraction Process
-
-Scripts in scripts/data_processing.py extract and transform metadata, calculate statistics, and clean missing or inconsistent data.
-Descriptive Statistics
-
-Includes metadata summaries such as repository age, stars, forks, and missing fields.
-Availability
-
-The refined dataset is available in the data/refined/ directory in CSV format.
-Key Features
-Non-Proprietary Formats: Data is provided in widely accepted formats like CSV.
-Schema and Processes: A flowchart in docs/selection_schema.pdf illustrates the selection and extraction processes.
-Documentation: Comprehensive instructions for reproducing results are included.
-Licensing: This repository is licensed under the MIT License, ensuring open use and modification.
