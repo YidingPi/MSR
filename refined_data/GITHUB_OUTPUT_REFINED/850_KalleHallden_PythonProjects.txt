@@ -1,0 +1,22 @@
+ID: 850
+Full Name: KalleHallden/PythonProjects
+Description: None
+Created At: 2019-10-18T10:43:53Z
+Updated At: 2024-11-12T11:30:22Z
+Pushed At: 2024-04-16T11:09:36Z
+Language: Python
+URL: https://github.com/KalleHallden/PythonProjects
+Forks: 92
+Stars: 203
+Topics: 
+README:
+
+
+requirements for Database project:
+packages: 
+    imageio
+    opencv-python
+
+to install:
+    pip install imageio
+    pip install opencv-python

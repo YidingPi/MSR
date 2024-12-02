@@ -1,0 +1,19 @@
+Full Name: haijunsu/DockerImage-python-worker
+Description: Python worker
+created_at: 2019-04-18T15:15:00Z
+updated_at: 2020-06-09T16:31:58Z
+pushed_at: 2022-12-08T03:12:34Z
+Language: Dockerfile
+URL: https://github.com/haijunsu/DockerImage-python-worker
+Forks: 0
+Stars: 0
+Topics: 
+README:
+## Python Worker
+
+Usage:
+* create worker.sh and put python's script path in it.
+* cp or mount the file as /storage/wwwroot/worker.sh
+
+worker.sh is the start command.
+

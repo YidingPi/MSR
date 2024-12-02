@@ -1,0 +1,3 @@
+Full Name: trezor/python-mnemonic
+Updated - Created (days): 4300 days
+Pushed - Created (days): 4207 days

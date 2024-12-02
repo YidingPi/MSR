@@ -1,0 +1,3 @@
+Score: 0.5180
+victoraugusto6/csv-read-python Projeto para ler CSV utilizando python  # csv-read-python
+Projeto para ler CSV utilizando python

@@ -1,0 +1,2 @@
+Score: 0.3922
+lucasdionis10/DIO-ciencia-de-dados-python-panda Repositório para armazenar arquivos relacionados às aulas práticas do Bootcamp de Ciências de Dados usando Python e Pandas  

@@ -1,0 +1,12 @@
+Full Name: zwn29/python-file-utils2
+Description: read and write modes and others python
+created_at: 2022-07-15T20:41:24Z
+updated_at: 2022-07-30T17:36:42Z
+pushed_at: 2022-07-15T20:41:58Z
+Language: Python
+URL: https://github.com/zwn29/python-file-utils2
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

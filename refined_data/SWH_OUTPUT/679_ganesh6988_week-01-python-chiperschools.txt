@@ -1,0 +1,12 @@
+Full Name: ganesh6988/week-01-python-chiperschools
+Description: None
+created_at: 2022-12-01T13:45:20Z
+updated_at: 2022-12-01T13:45:20Z
+pushed_at: 2022-12-01T13:59:21Z
+Language: None
+URL: https://github.com/ganesh6988/week-01-python-chiperschools
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

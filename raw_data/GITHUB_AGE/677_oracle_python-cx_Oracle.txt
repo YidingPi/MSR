@@ -1,0 +1,3 @@
+Full Name: oracle/python-cx_Oracle
+Updated - Created (days): 2823 days
+Pushed - Created (days): 2702 days

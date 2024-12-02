@@ -1,0 +1,12 @@
+Full Name: KrisiYordanova/python-task
+Description: None
+created_at: 2021-12-19T07:58:51Z
+updated_at: 2021-12-19T08:23:39Z
+pushed_at: 2021-12-19T08:23:37Z
+Language: Python
+URL: https://github.com/KrisiYordanova/python-task
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

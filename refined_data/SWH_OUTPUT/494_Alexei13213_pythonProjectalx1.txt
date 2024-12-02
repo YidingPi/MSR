@@ -1,0 +1,12 @@
+Full Name: Alexei13213/pythonProjectalx1
+Description: None
+created_at: 2022-01-22T16:46:06Z
+updated_at: 2022-02-20T12:16:42Z
+pushed_at: 2022-01-25T15:32:00Z
+Language: Python
+URL: https://github.com/Alexei13213/pythonProjectalx1
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

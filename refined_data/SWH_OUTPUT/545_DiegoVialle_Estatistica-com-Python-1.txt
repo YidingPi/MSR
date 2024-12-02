@@ -1,0 +1,12 @@
+Full Name: DiegoVialle/Estatistica-com-Python-1
+Description: Este curso na Alura abordou os seguintes tópicos: Qual o seu tipo de dado? / Distribuição de frequência / Medidas de tendência central / Medidas separatrizes / Medidas de dispersão / Projeto final
+created_at: 2020-05-02T22:08:39Z
+updated_at: 2020-05-02T22:25:32Z
+pushed_at: 2020-05-02T22:23:39Z
+Language: Jupyter Notebook
+URL: https://github.com/DiegoVialle/Estatistica-com-Python-1
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Estatistica-com-Python-1

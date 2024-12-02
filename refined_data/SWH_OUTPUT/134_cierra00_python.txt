@@ -1,0 +1,12 @@
+Full Name: cierra00/python
+Description: INF 350 Introduction to Python
+created_at: 2022-07-30T17:43:58Z
+updated_at: 2022-07-30T19:28:15Z
+pushed_at: 2022-07-30T19:28:12Z
+Language: Python
+URL: https://github.com/cierra00/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

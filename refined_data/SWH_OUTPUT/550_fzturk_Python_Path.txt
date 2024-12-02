@@ -1,0 +1,15 @@
+Full Name: fzturk/Python_Path
+Description:  flatten-and-reverse-functions
+created_at: 2022-09-13T18:01:09Z
+updated_at: 2022-09-13T18:01:10Z
+pushed_at: 2022-09-13T18:17:46Z
+Language: None
+URL: https://github.com/fzturk/Python_Path
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python_Path
+flatten-and-reverse-functions
+To learn python you can click (https://app.patika.dev/)
+

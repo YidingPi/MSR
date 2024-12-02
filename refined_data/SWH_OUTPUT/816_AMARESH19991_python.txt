@@ -1,0 +1,12 @@
+Full Name: AMARESH19991/python
+Description: None
+created_at: 2022-10-26T08:41:17Z
+updated_at: 2022-11-07T11:51:36Z
+pushed_at: 2022-10-26T08:41:18Z
+Language: None
+URL: https://github.com/AMARESH19991/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# sample

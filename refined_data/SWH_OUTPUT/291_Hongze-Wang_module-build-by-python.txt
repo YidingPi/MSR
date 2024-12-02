@@ -1,0 +1,13 @@
+Full Name: Hongze-Wang/module-build-by-python
+Description: Something maybe useful
+created_at: 2019-01-06T02:08:19Z
+updated_at: 2019-10-30T05:44:39Z
+pushed_at: 2019-10-30T05:44:38Z
+Language: Jupyter Notebook
+URL: https://github.com/Hongze-Wang/module-build-by-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# module build by python
+

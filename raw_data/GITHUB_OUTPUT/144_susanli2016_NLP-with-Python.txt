@@ -1,0 +1,15 @@
+ID: 144
+Full Name: susanli2016/NLP-with-Python
+Description: Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
+Created At: 2017-08-03T04:18:42Z
+Updated At: 2024-11-28T06:32:14Z
+Pushed At: 2024-03-28T14:37:21Z
+Language: Jupyter Notebook
+URL: https://github.com/susanli2016/NLP-with-Python
+Forks: 2018
+Stars: 2748
+Topics: 
+README:
+# NLP with Python
+Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
+

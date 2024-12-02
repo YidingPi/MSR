@@ -1,0 +1,16 @@
+Full Name: renanmpn/python_design_patterns
+Description: Exercises from book:
+created_at: 2016-10-06T11:59:25Z
+updated_at: 2016-10-07T19:34:59Z
+pushed_at: 2016-11-29T17:12:06Z
+Language: Python
+URL: https://github.com/renanmpn/python_design_patterns
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python Design Patterns
+
+My exercises about the book: Mastering Python Design Patterns by Sakis Kasampalis
+
+

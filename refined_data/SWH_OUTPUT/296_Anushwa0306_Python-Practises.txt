@@ -1,0 +1,12 @@
+Full Name: Anushwa0306/Python-Practises
+Description: None
+created_at: 2021-07-24T20:23:47Z
+updated_at: 2021-07-26T12:08:41Z
+pushed_at: 2021-07-26T12:08:39Z
+Language: Jupyter Notebook
+URL: https://github.com/Anushwa0306/Python-Practises
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,10 @@
+Score: 0.5771
+seeditsolution/pythonprogram None  # pythonprogram
+
+
+it is a new python program
+its help for beginners
+#python
+#beginners
+#code
+#2020

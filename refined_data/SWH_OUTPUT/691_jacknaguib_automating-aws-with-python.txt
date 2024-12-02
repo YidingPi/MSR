@@ -1,0 +1,28 @@
+Full Name: jacknaguib/automating-aws-with-python
+Description: None
+created_at: 2018-09-01T08:34:59Z
+updated_at: 2018-09-09T10:50:05Z
+pushed_at: 2022-01-21T19:40:33Z
+Language: Python
+URL: https://github.com/jacknaguib/automating-aws-with-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# automating-aws-with-python
+
+Repository for automating AWS with python
+
+## 01-webotron
+
+Webotron is a script that will sync a local directory to an s3 bucket, and optionally configure Route 53 and Cloudfront as well
+
+### Features
+
+Webotron currently has the following Features
+
+- List buckets
+- List contents of a bucket
+- Create and setup web bucket
+- Sync directory tree to bucket
+

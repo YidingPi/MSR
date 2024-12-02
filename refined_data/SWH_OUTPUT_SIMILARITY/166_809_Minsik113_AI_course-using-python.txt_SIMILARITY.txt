@@ -1,0 +1,4 @@
+Score: 0.5099
+Minsik113/AI_course-using-python 2021 06 01 ~ AI course - using python  "# AI_course-using-python" 
+<h1>AI-course 파이썬 과제</h1>
+<h3>2021/06/01~</h3>

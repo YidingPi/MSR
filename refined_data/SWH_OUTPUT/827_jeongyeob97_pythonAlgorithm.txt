@@ -1,0 +1,12 @@
+Full Name: jeongyeob97/pythonAlgorithm
+Description: None
+created_at: 2021-01-22T08:46:20Z
+updated_at: 2021-12-10T11:47:13Z
+pushed_at: 2022-02-02T14:33:21Z
+Language: Python
+URL: https://github.com/jeongyeob97/pythonAlgorithm
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

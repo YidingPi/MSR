@@ -1,0 +1,19 @@
+ID: 853
+Full Name: babyshen/Python
+Description: 一些小的python脚本
+Created At: 2016-09-27T14:15:07Z
+Updated At: 2023-10-02T07:30:50Z
+Pushed At: 2019-08-26T08:03:27Z
+Language: Python
+URL: https://github.com/babyshen/Python
+Forks: 54
+Stars: 11
+Topics: 
+README:
+# Python
+# Author:babyshen
+
+E-mail:455416841@qq.com
+
+QQ群:219636001
+

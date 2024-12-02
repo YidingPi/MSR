@@ -1,0 +1,20 @@
+Full Name: kelvanince1/python-blackjack
+Description: None
+created_at: 2017-01-04T17:28:52Z
+updated_at: 2017-01-04T17:29:39Z
+pushed_at: 2018-02-20T22:42:06Z
+Language: Python
+URL: https://github.com/kelvanince1/python-blackjack
+Forks: 0
+Stars: 0
+Topics: 
+README:
+Blackjack created using Python3. 
+Play it in your terminal. 
+
+1) Copy my code into your text editor.
+2) In your terminal or command line, type 'python filename.py' (where filename is whatever name you save my code as.
+3) Play the game.
+
+You may need to install Python3 if you don't have it on your computer. 
+

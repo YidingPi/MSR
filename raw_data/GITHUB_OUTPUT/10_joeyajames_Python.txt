@@ -1,0 +1,32 @@
+ID: 10
+Full Name: joeyajames/Python
+Description: Python code for YouTube videos.
+Created At: 2015-06-15T02:32:30Z
+Updated At: 2024-12-01T22:43:17Z
+Pushed At: 2024-05-15T05:21:53Z
+Language: Jupyter Notebook
+URL: https://github.com/joeyajames/Python
+Forks: 1347
+Stars: 1651
+Topics: 
+README:
+#This is a open source project.
+# Python 3
+These files are mainly intended to accompany my series of YouTube tutorial videos here, 
+https://www.youtube.com/user/joejamesusa
+and are mainly intended for educational purposes.
+You are invited to subscribe to my video channel-Joe James, and to download and use any code in 
+this Python repository, according to the MIT License. 
+Feel free to post any comments on my YouTube channel.
+I am very happy to see you there on my you tube channel. excited!!!!!!!!!
+## Subscribe to my channel for more tutorial videos. 
+
+This source code is easy to understand and reliable for self study and you will learn them easily, try to practice more coding by making algorithms yourself and you can become a better Python programmer, and remember "Try to learn something about everything and everything about something".
+
+Thank you for reviewing my repositories and keep practicing.
+Joe James.
+Fremont, CA.
+Copyright (C) 2015-2021, Joe James
+
+## Happy coding guys!😀
+

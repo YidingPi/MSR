@@ -1,0 +1,16 @@
+Full Name: shrutii2/Matrix-2D-array-in-Python
+Description: Python, the most basic language for a data structure array or 2D array i.e matrix.
+created_at: 2022-07-06T11:58:30Z
+updated_at: 2022-07-06T11:59:57Z
+pushed_at: 2022-07-06T12:07:37Z
+Language: Python
+URL: https://github.com/shrutii2/Matrix-2D-array-in-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Matrix-2D-array-in-Python
+Python, the most basic language for a data structure array or 2D array i.e matrix.
+Here, the entire matrix's coding programme is covered with an effective time and space complexity. 
+Problems are taken from Love Babbar's sheet and Hackerrank's data structure matrix.
+

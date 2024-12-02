@@ -1,0 +1,3 @@
+Score: 0.2919
+dewayudiana/python-Klasifikasi-buah-manggis classification mangosteen with Convolutional Neural Network (CNN)  # python-Klasifikasi-buah-manggis
+classification mangosteen with Convolutional Neural Network (CNN)

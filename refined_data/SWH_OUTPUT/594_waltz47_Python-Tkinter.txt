@@ -1,0 +1,17 @@
+Full Name: waltz47/Python-Tkinter
+Description: tkinter GUI
+created_at: 2020-10-29T11:30:46Z
+updated_at: 2022-08-16T15:14:35Z
+pushed_at: 2022-08-16T15:14:32Z
+Language: Python
+URL: https://github.com/waltz47/Python-Tkinter
+Forks: 0
+Stars: 0
+Topics: pubnub, python3, sql, tkinter
+README:
+## Python-Tkinter<br/>
+Messenger APP with tkinter and pubnub.<br/>
+Requirements: <br/>
+Modules: tkinter, pubnub, pillow/PIL, pymysql, tkcolorpicker <br/>
+A Pubnub publish and subscribe key<br/>
+

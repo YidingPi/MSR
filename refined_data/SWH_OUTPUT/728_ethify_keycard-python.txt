@@ -1,0 +1,42 @@
+Full Name: ethify/keycard-python
+Description: Python SDK for the status.im keycard
+created_at: 2019-09-02T11:35:35Z
+updated_at: 2019-09-02T11:37:51Z
+pushed_at: 2019-09-02T11:37:49Z
+Language: None
+URL: https://github.com/ethify/keycard-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# keycard-python
+Python SDK for the status.im keycard
+
+`keycard-python` is Python Package built to interact with the [Status Keycard](https://github.com/status-im/status-keycard).
+
+If you only need a tool to initialize your card, check out [keycard-cli](https://github.com/status-im/keycard-cli).
+
+## Keycard commands
+
+- [ ] SELECT
+- [ ] INIT
+- [ ] OPEN SECURE CHANNEL
+- [ ] MUTUALLY AUTHENTICATE
+- [ ] PAIR
+- [ ] UNPAIR
+- [ ] GET STATUS
+- [ ] SET NDEF
+- [ ] VERIFY PIN
+- [ ] CHANGE PIN
+- [ ] UNBLOCK PIN
+- [ ] LOAD KEY
+- [ ] DERIVE KEY
+- [ ] GENERATE MNEMONIC
+- [ ] REMOVE KEY
+- [ ] GENERATE KEY
+- [ ] INIT
+- [ ] DUPLICATE KEY
+- [ ] SIGN
+- [ ] SET PINLESS PATH
+- [ ] EXPORT KEY
+

@@ -1,0 +1,25 @@
+ID: 620
+Full Name: RockTeach/PythonCourse
+Description: None
+Created At: 2017-12-16T05:05:59Z
+Updated At: 2024-08-09T07:15:01Z
+Pushed At: 2019-05-23T15:39:56Z
+Language: None
+URL: https://github.com/RockTeach/PythonCourse
+Forks: 154
+Stars: 150
+Topics: python
+README:
+# Summary
+
+## Course
+课程内容请移步 <a href=https://github.com/jackfrued/Python-100-Days>Python100天</a>
+
+
+## Welfare
+
+* [科学上网](welfare/ke-xue-shang-wang.md)
+
+
+
+

@@ -1,0 +1,2 @@
+Score: 0.3902
+sumstot/Python-Flight-Scanner A simple flight scanner script I made using python and automated using selenium for brave browser  

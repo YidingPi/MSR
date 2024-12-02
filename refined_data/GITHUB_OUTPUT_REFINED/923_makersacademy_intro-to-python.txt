@@ -1,0 +1,13 @@
+ID: 923
+Full Name: makersacademy/intro-to-python
+Description: None
+Created At: 2023-04-20T19:07:31Z
+Updated At: 2024-11-22T07:57:33Z
+Pushed At: 2024-10-06T20:18:05Z
+Language: Python
+URL: https://github.com/makersacademy/intro-to-python
+Forks: 806
+Stars: 55
+Topics: 
+README:
+

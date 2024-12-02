@@ -1,0 +1,13 @@
+ID: 300
+Full Name: derekbanas/Python4Finance
+Description: I get many questions about how to analyze the Stock Market with Python. I am creating a new playlist of videos that will completely cover Python for Finance. 
+Created At: 2021-08-19T14:38:33Z
+Updated At: 2024-11-26T13:22:12Z
+Pushed At: 2023-05-04T05:46:34Z
+Language: Jupyter Notebook
+URL: https://github.com/derekbanas/Python4Finance
+Forks: 274
+Stars: 486
+Topics: 
+README:
+

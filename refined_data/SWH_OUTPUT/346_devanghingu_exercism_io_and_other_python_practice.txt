@@ -1,0 +1,12 @@
+Full Name: devanghingu/exercism_io_and_other_python_practice
+Description: None
+created_at: 2019-12-31T11:52:28Z
+updated_at: 2020-04-09T14:00:39Z
+pushed_at: 2020-04-09T14:00:37Z
+Language: Python
+URL: https://github.com/devanghingu/exercism_io_and_other_python_practice
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

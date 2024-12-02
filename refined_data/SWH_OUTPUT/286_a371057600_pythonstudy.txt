@@ -1,0 +1,14 @@
+Full Name: a371057600/pythonstudy
+Description: 好东西是需要分享的
+created_at: 2019-05-16T14:25:08Z
+updated_at: 2019-05-16T14:35:00Z
+pushed_at: 2022-12-07T23:53:38Z
+Language: HTML
+URL: https://github.com/a371057600/pythonstudy
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# pythonstudy
+## 好东西需要一起分享，这里是爬虫的课件，懒得去下载的可以直接里面看，这里是循序渐进的学习，方便我自己作记录的课程代码。
+

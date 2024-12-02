@@ -1,0 +1,16 @@
+Full Name: amandladev/Ransomware-python
+Description: None
+created_at: 2021-07-01T04:24:23Z
+updated_at: 2021-07-01T04:33:06Z
+pushed_at: 2021-07-01T04:33:03Z
+Language: Python
+URL: https://github.com/amandladev/Ransomware-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Ransomware con python
+
+Se puede crear un virus Ransomware de manera muy sencilla a través del uso de la libreria Fernet para la encriptación y OS para acceder a archivos del equipo. 
+En el proyecto se incluye el file encriptador y tambien el desencriptador. 
+

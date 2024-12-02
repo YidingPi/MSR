@@ -1,0 +1,17 @@
+ID: 20
+Full Name: michaelliao/learn-python3
+Description: Learn Python 3 Sample Code
+Created At: 2015-05-15T05:29:05Z
+Updated At: 2024-12-02T08:08:26Z
+Pushed At: 2024-05-27T18:28:21Z
+Language: None
+URL: https://github.com/michaelliao/learn-python3
+Forks: 4830
+Stars: 6270
+Topics: python, python3
+README:
+Python 3 教程
+============
+
+[Python 3 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+

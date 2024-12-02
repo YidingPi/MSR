@@ -1,0 +1,2 @@
+Score: 0.4209
+epsilvio/Phone-Price-Prediction-App-Python- Simple mobile phone price predicting application made in Python with the use of Linear Regression  

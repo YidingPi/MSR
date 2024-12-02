@@ -1,0 +1,4 @@
+Score: 0.3590
+igorek993/All_the_projects_from_my_python_course My python course projects (part of this repo is in Russian as it's from a Russian university)  # My python course projects
+These are all the projects that I had to build on my own in order to pass my python course in one of the Russian universities called SkillBox. 
+The first tasks are quite simple while the last lessons show what I have achieved and what kind of knowledge I have gained for such a short period of time.

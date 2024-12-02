@@ -1,0 +1,15 @@
+ID: 98
+Full Name: susanli2016/Machine-Learning-with-Python
+Description: Python code for common Machine Learning Algorithms
+Created At: 2017-05-26T08:55:48Z
+Updated At: 2024-12-02T01:43:52Z
+Pushed At: 2024-03-10T15:08:55Z
+Language: Jupyter Notebook
+URL: https://github.com/susanli2016/Machine-Learning-with-Python
+Forks: 4820
+Stars: 4350
+Topics: decision-trees, hierarchical-clustering, kmeans-clustering, knn-classification, lda, linear-regression, logistic-regression, naive-bayes-classifier, pca, polynomial-regression, random-forest, svm, svr, xgboost-algorithm
+README:
+# Machine-Learning-with-Python
+Python codes for common Machine Learning Algorithms
+

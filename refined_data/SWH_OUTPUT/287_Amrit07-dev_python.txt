@@ -1,0 +1,12 @@
+Full Name: Amrit07-dev/python
+Description: None
+created_at: 2020-12-31T11:53:08Z
+updated_at: 2023-04-05T00:04:05Z
+pushed_at: 2023-04-07T00:26:20Z
+Language: Python
+URL: https://github.com/Amrit07-dev/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python

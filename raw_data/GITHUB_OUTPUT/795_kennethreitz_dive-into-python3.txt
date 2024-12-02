@@ -1,0 +1,13 @@
+ID: 795
+Full Name: kennethreitz/dive-into-python3
+Description: Maintained version of Dive Into Python 3, because Mark Pilgrim disappeared. :-/
+Created At: 2011-10-05T02:24:41Z
+Updated At: 2024-03-01T10:23:11Z
+Pushed At: 2022-04-12T19:21:29Z
+Language: JavaScript
+URL: https://github.com/kennethreitz/dive-into-python3
+Forks: 82
+Stars: 133
+Topics: 
+README:
+

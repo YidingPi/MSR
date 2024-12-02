@@ -1,0 +1,18 @@
+ID: 486
+Full Name: madscheme/introducing-python
+Description: An introduction to Python
+Created At: 2012-12-30T16:16:21Z
+Updated At: 2024-11-20T01:47:02Z
+Pushed At: 2020-10-01T06:23:51Z
+Language: Python
+URL: https://github.com/madscheme/introducing-python
+Forks: 418
+Stars: 764
+Topics: 
+README:
+Introducing Python -- Second Edition
+=================
+
+This repository contains the programs featured in 
+the second edition of the book _Introducing Python_.
+

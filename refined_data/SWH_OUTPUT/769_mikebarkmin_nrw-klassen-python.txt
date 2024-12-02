@@ -1,0 +1,52 @@
+Full Name: mikebarkmin/nrw-klassen-python
+Description: Python Implementationen der Java-Klassen für das Zentralabitur in NRW ab 2018
+created_at: 2019-07-25T06:24:53Z
+updated_at: 2019-10-10T21:46:30Z
+pushed_at: 2019-08-02T15:01:23Z
+Language: Python
+URL: https://github.com/mikebarkmin/nrw-klassen-python
+Forks: 0
+Stars: 0
+Topics: nrw, python
+README:
+# NRW Klassen
+
+Python Implementationen der Java-Klassen für das Zentralabitur in NRW ab 2018
+
+* Stand 2018-01-18
+
+# Status
+
+## Datenstrukturen
+
+### Linear
+
+- [x] List
+- [x] Queue
+- [x] Stack
+
+### Baum
+
+- [x] BinarySearchTree
+- [x] BinaryTree
+- [x] ComparableContent
+
+### Graph
+
+- [x] Edge
+- [x] Graph
+- [x] Vertex
+
+## Datenbanklassen
+
+- [x] MySQL
+- [x] SQLite
+- [ ] MSAccess (wird nicht unterstützt)
+
+## Netzklassen
+
+- [x] Client
+- [x] Connection
+- [x] Server
+ 
+

@@ -1,0 +1,21 @@
+Full Name: EazyPvP/notes-python
+Description: Take notes easily. As if you couldn't already.
+created_at: 2020-03-07T00:47:05Z
+updated_at: 2020-03-07T01:29:12Z
+pushed_at: 2020-03-07T02:14:07Z
+Language: Python
+URL: https://github.com/EazyPvP/notes-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# notes-python
+Take notes easily. As if you couldn't already.
+
+Feel free to modify the 33 lines of code to add your text editor.
+
+# Setup
+Simply, extract the zip file and add the directory to path. Run the `setup.py`, restart all terminal instances and type `notenow` and it should open up your prefered text editor. All notes are saved in the folder the script is run in.
+
+
+

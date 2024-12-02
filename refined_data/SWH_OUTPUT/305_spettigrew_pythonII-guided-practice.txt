@@ -1,0 +1,12 @@
+Full Name: spettigrew/pythonII-guided-practice
+Description: None
+created_at: 2020-06-08T21:38:42Z
+updated_at: 2020-06-09T22:02:48Z
+pushed_at: 2020-06-09T22:02:45Z
+Language: Python
+URL: https://github.com/spettigrew/pythonII-guided-practice
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

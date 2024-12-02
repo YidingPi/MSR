@@ -1,0 +1,3 @@
+Full Name: watson-developer-cloud/python-sdk
+Updated - Created (days): 3338 days
+Pushed - Created (days): 3352 days

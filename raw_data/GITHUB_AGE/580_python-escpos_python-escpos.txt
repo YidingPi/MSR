@@ -1,0 +1,3 @@
+Full Name: python-escpos/python-escpos
+Updated - Created (days): 3540 days
+Pushed - Created (days): 3531 days

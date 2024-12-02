@@ -1,0 +1,12 @@
+Full Name: Alenkiycvetochek/Python---seminar-1
+Description: None
+created_at: 2023-01-01T17:15:40Z
+updated_at: 2023-01-01T17:43:17Z
+pushed_at: 2023-01-01T18:35:55Z
+Language: Python
+URL: https://github.com/Alenkiycvetochek/Python---seminar-1
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

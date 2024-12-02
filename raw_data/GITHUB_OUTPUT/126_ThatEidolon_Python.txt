@@ -1,0 +1,15 @@
+ID: 126
+Full Name: ThatEidolon/Python
+Description: Scratch space for various python lessons I am trying to work through
+Created At: 2015-04-25T00:11:50Z
+Updated At: 2024-08-12T19:17:12Z
+Pushed At: 2020-10-02T17:00:40Z
+Language: Python
+URL: https://github.com/ThatEidolon/Python
+Forks: 108
+Stars: 119
+Topics: 
+README:
+# Python
+Scratch space for learning python
+

@@ -1,0 +1,2 @@
+Score: 0.3240
+komalchavan1418/simple-linear-regression-using-python None  

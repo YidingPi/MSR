@@ -1,0 +1,25 @@
+ID: 365
+Full Name: Visualize-ML/Book1_Python-For-Beginners
+Description: Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；请多多批评指正！
+Created At: 2022-11-17T16:02:36Z
+Updated At: 2024-12-02T01:51:08Z
+Pushed At: 2024-09-11T14:47:06Z
+Language: Jupyter Notebook
+URL: https://github.com/Visualize-ML/Book1_Python-For-Beginners
+Forks: 971
+Stars: 4981
+Topics: 
+README:
+《统计至简》五折入口：
+https://zhuanlan.zhihu.com/p/634253719
+<br>
+《数学要素》五折入口：
+https://zhuanlan.zhihu.com/p/620243026
+<br>
+《矩阵力量》五折入口：
+https://zhuanlan.zhihu.com/p/634253719
+
+看个人情况，开源资源，永久有效哈。
+
+纠错多的同学会得到赠书，以示感谢。
+

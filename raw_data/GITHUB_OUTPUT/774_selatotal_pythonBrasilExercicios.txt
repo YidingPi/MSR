@@ -1,0 +1,20 @@
+ID: 774
+Full Name: selatotal/pythonBrasilExercicios
+Description: Exercícios resolvidos do site Python Brasil
+Created At: 2014-04-21T22:51:09Z
+Updated At: 2024-11-13T03:00:59Z
+Pushed At: 2020-10-26T16:09:12Z
+Language: Python
+URL: https://github.com/selatotal/pythonBrasilExercicios
+Forks: 123
+Stars: 216
+Topics: 
+README:
+Exercícios resolvidos de Python. Lista disponível no site do Python Brasil:
+
+http://wiki.python.org.br/ListaDeExercicios
+
+Tutorial Python:
+
+http://www.tutorialspoint.com/python/index.htm
+

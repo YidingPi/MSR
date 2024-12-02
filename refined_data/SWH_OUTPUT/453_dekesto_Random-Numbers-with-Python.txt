@@ -1,0 +1,12 @@
+Full Name: dekesto/Random-Numbers-with-Python
+Description: Random numbers from input with Python 3
+created_at: 2018-11-16T04:46:27Z
+updated_at: 2018-11-16T04:46:33Z
+pushed_at: 2018-11-16T04:46:32Z
+Language: Python
+URL: https://github.com/dekesto/Random-Numbers-with-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

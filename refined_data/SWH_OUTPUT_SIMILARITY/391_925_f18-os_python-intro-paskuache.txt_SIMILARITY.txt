@@ -1,0 +1,3 @@
+Score: 0.4336
+f18-os/python-intro-paskuache python-intro-paskuache created by GitHub Classroom  It is located under the os-demos folder and the main script is myShell.py
+This code only opens a shell and exits when the user types the command exit.

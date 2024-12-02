@@ -1,0 +1,17 @@
+Full Name: erkankarakoc/python_kodlarim
+Description: Python kodlarımı paylaştığım ortam
+created_at: 2022-12-05T13:23:18Z
+updated_at: 2022-12-05T19:40:07Z
+pushed_at: 2022-12-05T19:40:02Z
+Language: Jupyter Notebook
+URL: https://github.com/erkankarakoc/python_kodlarim
+Forks: 1
+Stars: 0
+Topics: 
+README:
+# python_kodlarim
+Python kodlarımı paylaştığım ortam
+
+#Yazar
+ERKAN KARAKOÇ
+

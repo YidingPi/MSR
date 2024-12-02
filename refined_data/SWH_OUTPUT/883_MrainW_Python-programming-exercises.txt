@@ -1,0 +1,12 @@
+Full Name: MrainW/Python-programming-exercises
+Description: 100+ Python challenging programming exercises
+created_at: 2019-05-16T07:15:48Z
+updated_at: 2019-05-16T07:15:51Z
+pushed_at: 2019-05-11T02:02:53Z
+Language: None
+URL: https://github.com/MrainW/Python-programming-exercises
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,29 @@
+ID: 192
+Full Name: MichalDanielDobrzanski/DeepLearningPython
+Description: neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
+Created At: 2016-07-29T18:09:27Z
+Updated At: 2024-11-26T07:05:31Z
+Pushed At: 2023-11-27T13:07:11Z
+Language: Python
+URL: https://github.com/MichalDanielDobrzanski/DeepLearningPython
+Forks: 1265
+Stars: 2797
+Topics: 
+README:
+## Overview
+
+### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
+
+These scrips are updated ones from the **neuralnetworksanddeeplearning.com** gitHub repository in order to work with Python 3.5.2
+
+The testing file (**test.py**) contains all three networks (network.py, network2.py, network3.py) from the book and it is the starting point to run (i.e. *train and evaluate*) them.
+
+## Just type at shell: **python3.5 test.py**
+
+In test.py there are examples of networks configurations with proper comments. I did that to relate with particular chapters from the book.
+
+### License
+Disributed under MIT License. [Link](LICENSE.md).
+
+
+

@@ -1,0 +1,14 @@
+Full Name: flavioepimentel/CRUD-python
+Description: My first CRUD
+created_at: 2021-04-14T22:34:11Z
+updated_at: 2022-03-24T19:44:19Z
+pushed_at: 2022-03-24T19:44:17Z
+Language: Python
+URL: https://github.com/flavioepimentel/CRUD-python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# CRUD-python
+My first CRUD
+

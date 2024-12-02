@@ -1,0 +1,12 @@
+Full Name: xiaobinworker/pythonProject1
+Description: None
+created_at: 2022-04-12T00:21:20Z
+updated_at: 2022-04-12T00:26:22Z
+pushed_at: 2022-04-12T00:39:21Z
+Language: Python
+URL: https://github.com/xiaobinworker/pythonProject1
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

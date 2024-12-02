@@ -1,0 +1,20 @@
+Full Name: s529296/python_and_flax
+Description: None
+created_at: 2020-01-29T17:21:14Z
+updated_at: 2020-05-05T18:33:21Z
+pushed_at: 2020-05-05T18:33:19Z
+Language: Python
+URL: https://github.com/s529296/python_and_flax
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Python and Flax
+## Group Members: 
+* Sneha Ojha [github](https://github.com/osneha)
+* Noah Chase [github](https://github.com/s529296)
+* Enid Maharjan [github](https://github.com/strygwyr555)
+* Susan Maharjan [github](https://github.com/susanmaharjan)
+
+
+

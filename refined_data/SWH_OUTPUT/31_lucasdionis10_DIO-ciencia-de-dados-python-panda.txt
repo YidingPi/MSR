@@ -1,0 +1,12 @@
+Full Name: lucasdionis10/DIO-ciencia-de-dados-python-panda
+Description: Repositório para armazenar arquivos relacionados às aulas práticas do Bootcamp de Ciências de Dados usando Python e Pandas
+created_at: 2022-10-19T01:57:28Z
+updated_at: 2022-10-19T01:58:41Z
+pushed_at: 2022-10-19T01:58:37Z
+Language: Jupyter Notebook
+URL: https://github.com/lucasdionis10/DIO-ciencia-de-dados-python-panda
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

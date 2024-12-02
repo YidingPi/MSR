@@ -1,0 +1,22 @@
+ID: 413
+Full Name: jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews
+Description: Files for Udemy Course on Algorithms and Data Structures
+Created At: 2015-07-03T21:27:29Z
+Updated At: 2024-12-01T09:56:43Z
+Pushed At: 2023-12-26T19:49:05Z
+Language: Jupyter Notebook
+URL: https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews
+Forks: 2367
+Stars: 2541
+Topics: 
+README:
+# Python for Algorithms, Data-Structures, and Interviews!
+#### Welcome to the repository for the Udemy Course: Python for Algorithms, Data Structures, and Interviews!
+
+This is the ultimate course in preparing you for your technical interviews and landing the job of your dreams!
+
+Get the entire course, including full video content, solution walkthroughs, discussion forums, instructor support, 
+and much more for only $20 by using the [discount link](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/?couponCode=github_discount)!
+
+
+

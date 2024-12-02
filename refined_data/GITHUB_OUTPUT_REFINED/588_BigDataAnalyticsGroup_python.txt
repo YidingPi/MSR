@@ -1,0 +1,25 @@
+ID: 588
+Full Name: BigDataAnalyticsGroup/python
+Description: Python Tutorials
+Created At: 2020-03-27T08:13:42Z
+Updated At: 2024-05-20T19:49:52Z
+Pushed At: 2022-05-12T12:59:41Z
+Language: Jupyter Notebook
+URL: https://github.com/BigDataAnalyticsGroup/python
+Forks: 50
+Stars: 28
+Topics: 
+README:
+# Python Introduction
+
+A short intro to Python for Java/C++ developers.
+
+Videos (in German) are available on [youtube](https://www.youtube.com/watch?v=1S4Cgtkxqhs&list=PLC4UZxBVGKte4XagApdryLsnIXpjZWSAn).
+
+To run the notebooks, install the corresponding Python requirements.
+```sh
+pip install -r requirements.txt
+```
+
+Jens Dittrich, [Big Data Analytics Group](https://bigdata.uni-saarland.de/), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+

@@ -1,0 +1,13 @@
+Full Name: mmcintyre1/advent_of_code_2020_python
+Description: None
+created_at: 2020-12-01T20:58:39Z
+updated_at: 2020-12-22T02:25:40Z
+pushed_at: 2020-12-22T02:25:37Z
+Language: Python
+URL: https://github.com/mmcintyre1/advent_of_code_2020_python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# AOC 2020 
+This is a repository for the Advent of Code 2020 challenges written in python, found here https://adventofcode.com/2020

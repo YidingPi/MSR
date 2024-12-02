@@ -1,0 +1,6 @@
+Score: 0.5306
+fabianamasini/python-games Project from Alura's Python 3 course.  # python-games
+
+Useful documentation:
+https://docs.python.org/3/library/string.html#formatexamples
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498

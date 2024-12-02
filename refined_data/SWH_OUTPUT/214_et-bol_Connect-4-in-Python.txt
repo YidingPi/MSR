@@ -1,0 +1,14 @@
+Full Name: et-bol/Connect-4-in-Python
+Description: Connect 4 game created with python tkinter gui library
+created_at: 2019-12-11T00:09:26Z
+updated_at: 2019-12-11T00:10:19Z
+pushed_at: 2019-12-11T00:10:15Z
+Language: Python
+URL: https://github.com/et-bol/Connect-4-in-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Connect-4-in-Python
+Connect 4 game created with python tkinter gui library
+

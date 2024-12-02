@@ -1,0 +1,3 @@
+Full Name: jrjohansson/scientific-python-lectures
+Updated - Created (days): 4385 days
+Pushed - Created (days): 3971 days

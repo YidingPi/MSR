@@ -1,0 +1,12 @@
+Full Name: ivantuzita/Heroku-Python-Prime-Key
+Description: None
+created_at: 2022-05-17T18:36:03Z
+updated_at: 2022-05-17T18:37:34Z
+pushed_at: 2022-05-17T18:37:30Z
+Language: Python
+URL: https://github.com/ivantuzita/Heroku-Python-Prime-Key
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

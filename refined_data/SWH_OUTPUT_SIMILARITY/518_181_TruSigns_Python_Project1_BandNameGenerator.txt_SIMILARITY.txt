@@ -1,0 +1,2 @@
+Score: 0.3885
+TruSigns/Python_Project1_BandNameGenerator This is my first project dealing with Python  

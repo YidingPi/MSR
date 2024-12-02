@@ -1,0 +1,12 @@
+Full Name: koshin117/python-learning
+Description: None
+created_at: 2021-03-29T05:15:13Z
+updated_at: 2021-08-20T13:23:42Z
+pushed_at: 2021-04-08T05:55:03Z
+Language: Python
+URL: https://github.com/koshin117/python-learning
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-learning

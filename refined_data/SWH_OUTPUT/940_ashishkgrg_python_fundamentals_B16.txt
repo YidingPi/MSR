@@ -1,0 +1,12 @@
+Full Name: ashishkgrg/python_fundamentals_B16
+Description: All my practise files
+created_at: 2020-03-31T15:11:10Z
+updated_at: 2020-04-08T15:29:27Z
+pushed_at: 2020-04-08T15:29:25Z
+Language: Jupyter Notebook
+URL: https://github.com/ashishkgrg/python_fundamentals_B16
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

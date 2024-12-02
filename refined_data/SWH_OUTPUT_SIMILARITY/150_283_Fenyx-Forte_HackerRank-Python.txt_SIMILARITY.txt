@@ -1,0 +1,2 @@
+Score: 0.5173
+Fenyx-Forte/HackerRank-Python Minhas soluções de questões de programação em python da plataforma HackerRank.  Saiba mais em meu [Portfólio](https://fenyx-forte.github.io/hackerrank_python.html)

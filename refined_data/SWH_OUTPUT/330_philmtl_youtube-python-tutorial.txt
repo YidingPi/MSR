@@ -1,0 +1,12 @@
+Full Name: philmtl/youtube-python-tutorial
+Description: following https://www.youtube.com/watch?v=rfscVS0vtbw
+created_at: 2018-10-19T01:36:54Z
+updated_at: 2018-10-19T01:44:35Z
+pushed_at: 2018-10-19T01:44:34Z
+Language: Python
+URL: https://github.com/philmtl/youtube-python-tutorial
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

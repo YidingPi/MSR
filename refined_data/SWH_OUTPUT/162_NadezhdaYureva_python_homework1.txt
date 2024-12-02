@@ -1,0 +1,12 @@
+Full Name: NadezhdaYureva/python_homework1
+Description: None
+created_at: 2022-09-06T18:32:52Z
+updated_at: 2022-09-06T18:36:17Z
+pushed_at: 2022-09-06T18:36:13Z
+Language: Python
+URL: https://github.com/NadezhdaYureva/python_homework1
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

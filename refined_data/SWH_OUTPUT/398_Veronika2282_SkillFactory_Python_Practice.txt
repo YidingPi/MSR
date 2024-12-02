@@ -1,0 +1,14 @@
+Full Name: Veronika2282/SkillFactory_Python_Practice
+Description: a repository for Python programming practice
+created_at: 2021-01-21T21:06:54Z
+updated_at: 2021-02-03T20:34:39Z
+pushed_at: 2021-02-03T20:34:37Z
+Language: Python
+URL: https://github.com/Veronika2282/SkillFactory_Python_Practice
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# SkillFactory_Python_Practice
+a repository for Python programming practice
+

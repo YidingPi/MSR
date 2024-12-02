@@ -1,0 +1,15 @@
+Full Name: aliazmn/python-dataclass
+Description: None
+created_at: 2022-01-29T13:37:22Z
+updated_at: 2024-03-03T12:35:20Z
+pushed_at: 2022-09-17T08:51:22Z
+Language: Python
+URL: https://github.com/aliazmn/python-dataclass
+Forks: 0
+Stars: 3
+Topics: 
+README:
+# python-dataclass
+
+hey its a sample code for python data classes about musics for music lovers like me 
+

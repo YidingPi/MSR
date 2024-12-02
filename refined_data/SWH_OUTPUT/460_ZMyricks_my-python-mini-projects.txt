@@ -1,0 +1,14 @@
+Full Name: ZMyricks/my-python-mini-projects
+Description: snippets of code for fun mini python projects. a great learning moment! :)
+created_at: 2022-07-30T17:27:02Z
+updated_at: 2022-08-10T03:10:20Z
+pushed_at: 2022-08-01T00:09:08Z
+Language: Python
+URL: https://github.com/ZMyricks/my-python-mini-projects
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# my-python-mini-projects
+snippets of code for fun mini python projects. a great learning moment! :)
+

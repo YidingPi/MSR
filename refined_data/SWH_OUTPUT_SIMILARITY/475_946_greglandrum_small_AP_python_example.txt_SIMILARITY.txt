@@ -1,0 +1,2 @@
+Score: 0.4052
+greglandrum/small_AP_python_example simple example scripts for using python in KNIME Analytics platform  

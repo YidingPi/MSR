@@ -1,0 +1,18 @@
+Full Name: abbisQQ/Python-3-Keylogger
+Description: A python 3 keylogger in a few lines of code.
+created_at: 2017-10-18T14:48:49Z
+updated_at: 2017-10-18T14:56:41Z
+pushed_at: 2017-10-18T14:57:43Z
+Language: Python
+URL: https://github.com/abbisQQ/Python-3-Keylogger
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-3-Keylogger
+A python 3 keylogger in a few lines of code.
+
+
+It will create a txt file store the keystrokes and in the next startup send that file with email-attachment.
+Then the txt file will be cleared and the new keystores will be saved.
+

@@ -1,0 +1,23 @@
+ID: 924
+Full Name: bspaans/python-mingus
+Description: Mingus is a music package for Python
+Created At: 2014-12-16T22:13:34Z
+Updated At: 2024-11-30T08:31:59Z
+Pushed At: 2024-04-21T22:15:47Z
+Language: Python
+URL: https://github.com/bspaans/python-mingus
+Forks: 167
+Stars: 864
+Topics: 
+README:
+mingus
+======
+
+mingus is a package for Python used by programmers, musicians, composers
+and researchers to make and analyse music.
+
+Install with `pip install mingus`
+
+[Browse the documentation](http://bspaans.github.io/python-mingus/)
+
+

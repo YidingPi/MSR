@@ -1,0 +1,12 @@
+Full Name: Friday6661-Dev/Function_Python
+Description: None
+created_at: 2021-09-07T09:38:47Z
+updated_at: 2021-09-07T09:38:51Z
+pushed_at: 2021-09-07T09:38:48Z
+Language: None
+URL: https://github.com/Friday6661-Dev/Function_Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Function_Python

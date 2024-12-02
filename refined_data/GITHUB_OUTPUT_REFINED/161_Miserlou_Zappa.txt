@@ -1,0 +1,14 @@
+ID: 161
+Full Name: Miserlou/Zappa
+Description: Serverless Python
+Created At: 2016-01-20T21:57:04Z
+Updated At: 2024-11-29T14:54:15Z
+Pushed At: 2023-03-23T13:59:31Z
+Language: Python
+URL: https://github.com/Miserlou/Zappa
+Forks: 1200
+Stars: 11884
+Topics: api-gateway, aws-lambda, bottle, django, flask, lambda, pyramid, python, serverless, serverless-framework, zappa
+README:
+Project moved to https://github.com/zappa/Zappa. Versions after 0.52.0 are published from there. Thank you Rich Jones for all your work on creating Zappa and maintaining it for years!
+

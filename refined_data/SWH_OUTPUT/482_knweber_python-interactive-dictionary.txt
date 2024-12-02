@@ -1,0 +1,12 @@
+Full Name: knweber/python-interactive-dictionary
+Description: An interactive dictionary search using the CLI
+created_at: 2018-05-04T16:58:44Z
+updated_at: 2018-05-04T16:59:23Z
+pushed_at: 2018-05-04T16:59:22Z
+Language: Python
+URL: https://github.com/knweber/python-interactive-dictionary
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

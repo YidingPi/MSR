@@ -1,0 +1,12 @@
+Full Name: greglandrum/small_AP_python_example
+Description: simple example scripts for using python in KNIME Analytics platform
+created_at: 2020-04-27T12:00:49Z
+updated_at: 2020-04-27T12:04:33Z
+pushed_at: 2020-04-27T12:04:31Z
+Language: Python
+URL: https://github.com/greglandrum/small_AP_python_example
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

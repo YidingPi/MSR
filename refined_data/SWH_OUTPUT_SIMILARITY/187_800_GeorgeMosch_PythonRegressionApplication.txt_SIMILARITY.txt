@@ -1,0 +1,3 @@
+Score: 0.5011
+GeorgeMosch/PythonRegressionApplication Machine learning algorithm to a dataset using Python libraries  # PythonRegressionApplication2
+Machine learning algorithm to a dataset using Python libraries

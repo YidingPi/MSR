@@ -1,0 +1,12 @@
+Full Name: iryna-zhukava/python_test
+Description: None
+created_at: 2022-07-27T10:19:40Z
+updated_at: 2022-07-27T10:24:26Z
+pushed_at: 2022-07-29T13:10:39Z
+Language: Python
+URL: https://github.com/iryna-zhukava/python_test
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_test

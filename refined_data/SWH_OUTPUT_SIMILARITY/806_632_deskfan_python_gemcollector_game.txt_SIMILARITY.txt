@@ -1,0 +1,2 @@
+Score: 0.2446
+deskfan/python_gemcollector_game Move the unicorn around the screen and collect gems for points. Use arrow keys or joystick.  # kids-game

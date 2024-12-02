@@ -1,0 +1,14 @@
+Full Name: param-unik/python_assigments
+Description: This is Python Assignments Repo for iNeuron 
+created_at: 2022-01-31T09:42:44Z
+updated_at: 2022-02-21T11:46:45Z
+pushed_at: 2022-04-18T01:26:06Z
+Language: Jupyter Notebook
+URL: https://github.com/param-unik/python_assigments
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# python_assigments
+This is Python Assignments Repo for iNeuron 
+

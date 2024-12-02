@@ -1,0 +1,2 @@
+Score: 0.2420
+Hereiam123/BrowserMob-Proxy-Selenium-and-Python Trying to get correct har file information from Browser, using BrowserMob proxy, Selenium and Python  

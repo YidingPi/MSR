@@ -1,0 +1,22 @@
+ID: 589
+Full Name: kyclark/biofx_python
+Description: Code for Mastering Python for Bioinformatics (O'Reilly, 2021, ISBN 9781098100889)
+Created At: 2020-10-17T14:12:33Z
+Updated At: 2024-12-01T21:26:26Z
+Pushed At: 2022-02-07T04:14:40Z
+Language: Python
+URL: https://github.com/kyclark/biofx_python
+Forks: 573
+Stars: 207
+Topics: 
+README:
+# Mastering Python for Bioinformatics
+
+This is the repository for the book [Mastering Python for Bioinformatics](https://learning.oreilly.com/library/view/mastering-python-for/9781098100872/) (O'Reilly, 2021, ISBN 9781098100889).
+
+See [O'Reilly's website](https://get.oreilly.com/ind_mastering-python-for-bioinformatics-ch1.html) for a free dowload of the preface and first chapter.
+
+# Author
+
+Ken Youens-Clark <kyclark@gmail.com>
+

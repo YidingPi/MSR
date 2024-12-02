@@ -1,0 +1,14 @@
+Full Name: POWERFULZHENG/Python-learning
+Description: Python-demo
+created_at: 2022-02-11T04:57:36Z
+updated_at: 2022-02-11T04:59:45Z
+pushed_at: 2022-02-11T04:59:42Z
+Language: Python
+URL: https://github.com/POWERFULZHENG/Python-learning
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-learning
+Python-demo
+

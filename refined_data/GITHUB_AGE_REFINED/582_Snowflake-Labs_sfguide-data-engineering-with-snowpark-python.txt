@@ -1,0 +1,3 @@
+Full Name: Snowflake-Labs/sfguide-data-engineering-with-snowpark-python
+Updated - Created (days): 663 days
+Pushed - Created (days): 626 days

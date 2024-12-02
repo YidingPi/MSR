@@ -1,0 +1,20 @@
+Score: 0.4777
+harryhaaren/pythonWorkshop Example code snippets gathered together to give a python workshop.  Python Workshop
+
+The code / resources in this repository were used to give an introductory
+workshop to python. The code in the examples dir were collected from sites,
+and updated / tested to work with python2 / 3, and tagged appropriately.
+
+
+The following list of modules are needed to run some Python2 examples: 
+-gtk (pygtk2)
+-cffi
+-urllib2
+-PIL
+-UnitTest
+-pygame
+-mysql
+
+
+Feel free to fork & send merge requests with fixes / updates,
+Cheers, -Harry

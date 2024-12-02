@@ -1,0 +1,13 @@
+Full Name: liangzechao/PythonSklearnML
+Description: Python与Sklearn机器学习
+created_at: 2019-06-17T12:14:52Z
+updated_at: 2019-06-25T01:48:09Z
+pushed_at: 2019-06-25T01:48:08Z
+Language: Python
+URL: https://github.com/liangzechao/PythonSklearnML
+Forks: 0
+Stars: 0
+Topics: 
+README:
+![](https://latex.vimsky.com/test.image.latex.php?fmt=svg&val=%255Cinline%2520%255Cdpi%257B200%257D%2520%255Cbg_white%2520%255Clarge%2520f%2520%253D%2520a*x%255E2%2520%26plus%3B%2520b*x%2520%26plus%3B%2520w&dl=1)
+

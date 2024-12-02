@@ -1,0 +1,14 @@
+Full Name: AKAGB/Leetcode-Python
+Description: Leetcode算法练习
+created_at: 2017-11-12T02:38:29Z
+updated_at: 2019-02-12T15:01:33Z
+pushed_at: 2019-02-12T15:01:31Z
+Language: Python
+URL: https://github.com/AKAGB/Leetcode-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Leetcode-Python
+
+Leetcode练习，Python3实现。

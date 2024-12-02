@@ -1,0 +1,3 @@
+Score: 0.1920
+lindman-carl/portfolioreturns An app for evaluating stock portfolio returns in the past  # portfolioreturns
+An app for evaluating stock portfolio returns in the past

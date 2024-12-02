@@ -1,0 +1,32 @@
+ID: 528
+Full Name: superonesfazai/python
+Description: 🌶  day by day
+Created At: 2017-07-20T15:57:52Z
+Updated At: 2024-10-31T05:40:58Z
+Pushed At: 2020-05-27T04:30:09Z
+Language: Jupyter Notebook
+URL: https://github.com/superonesfazai/python
+Forks: 34
+Stars: 81
+Topics: 
+README:
+```bash
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝                  
+```
+[![Build Status](https://travis-ci.org/EasyWeChat/site.svg?branch=master)](https://github.com/superonesfazai/python)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://github.com/superonesfazai/python)
+[![License!](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/superonesfazai/python)
+[![GitHub stars](https://img.shields.io/github/stars/superonesfazai/python.svg)](https://github.com/superonesfazai/python/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/superonesfazai/python.svg)](https://github.com/superonesfazai/python/network)
+[![GitHub issues](https://img.shields.io/github/issues/superonesfazai/python.svg)](https://github.com/superonesfazai/python/issues)
+[![Github commit merge status](https://img.shields.io/github/commit-status/badges/shields/master/5d4ab86b1b5ddfb3c4a70a70bd19932c52603b8c.svg)]()
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/superonesfazai/python.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsuperonesfazai%2Fpython)
+
+- give me a star or a fork, my friend!
+
+![](https://i.loli.net/2019/09/24/m4kUH1SOpj7GtD5.png)

@@ -1,0 +1,23 @@
+ID: 997
+Full Name: seeditsolution/pythonprogram
+Description: None
+Created At: 2020-10-01T08:07:54Z
+Updated At: 2023-11-06T12:37:57Z
+Pushed At: 2022-10-20T04:02:57Z
+Language: Python
+URL: https://github.com/seeditsolution/pythonprogram
+Forks: 539
+Stars: 17
+Topics: 
+README:
+# pythonprogram
+
+
+it is a new python program
+its help for beginners
+#python
+#beginners
+#code
+#2020
+
+

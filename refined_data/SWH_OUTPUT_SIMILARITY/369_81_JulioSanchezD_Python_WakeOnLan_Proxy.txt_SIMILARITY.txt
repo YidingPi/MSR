@@ -1,0 +1,5 @@
+Score: 0.4397
+JulioSanchezD/Python_WakeOnLan_Proxy Python Script used for forwarding wake on lan packet from WAN to LAN  # WoL-PythonProxy
+Python script used for forwarding magic packets from WAN to LAN.
+
+Includes some level of security.

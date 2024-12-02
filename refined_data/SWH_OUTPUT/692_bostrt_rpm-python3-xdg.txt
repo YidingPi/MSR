@@ -1,0 +1,12 @@
+Full Name: bostrt/rpm-python3-xdg
+Description: NO LONGER MAINTAINED. Open an issue for questions.
+created_at: 2019-10-16T03:50:51Z
+updated_at: 2019-10-16T14:53:56Z
+pushed_at: 2019-10-16T03:52:58Z
+Language: None
+URL: https://github.com/bostrt/rpm-python3-xdg
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,2 @@
+Score: 0.5340
+jesusmares82-hub/contador_de_palabras_python Script que lee un archivo de texto y retorna las 10 palabras más repetidas. Usando listas, diccionarios, ciclos, funciones, try/except.  

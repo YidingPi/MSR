@@ -1,0 +1,16 @@
+Full Name: zobrathemanish/face-detection-RT-python-JS
+Description: None
+created_at: 2019-07-08T09:55:10Z
+updated_at: 2019-10-07T07:31:21Z
+pushed_at: 2022-06-21T22:18:10Z
+Language: Python
+URL: https://github.com/zobrathemanish/face-detection-RT-python-JS
+Forks: 0
+Stars: 0
+Topics: 
+README:
+flask-video-streaming
+=====================
+
+Supporting code for my article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
+

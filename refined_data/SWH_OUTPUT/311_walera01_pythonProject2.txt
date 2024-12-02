@@ -1,0 +1,12 @@
+Full Name: walera01/pythonProject2
+Description: None
+created_at: 2022-04-21T17:33:19Z
+updated_at: 2022-04-21T17:33:19Z
+pushed_at: 2022-04-21T17:33:20Z
+Language: None
+URL: https://github.com/walera01/pythonProject2
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

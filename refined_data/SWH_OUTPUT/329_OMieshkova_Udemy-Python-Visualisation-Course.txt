@@ -1,0 +1,12 @@
+Full Name: OMieshkova/Udemy-Python-Visualisation-Course
+Description: Lecturer: JMPORTILLA
+created_at: 2015-11-19T16:11:52Z
+updated_at: 2015-10-21T14:24:22Z
+pushed_at: 2015-09-04T02:11:39Z
+Language: None
+URL: https://github.com/OMieshkova/Udemy-Python-Visualisation-Course
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

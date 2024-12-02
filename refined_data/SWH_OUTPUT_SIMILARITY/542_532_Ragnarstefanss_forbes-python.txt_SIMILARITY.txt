@@ -1,0 +1,2 @@
+Score: 0.3807
+Ragnarstefanss/forbes-python Working with Forbes 400 data from ( https://github.com/jesseokeya/Forbes400 )  

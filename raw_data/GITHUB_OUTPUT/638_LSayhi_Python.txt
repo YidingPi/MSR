@@ -1,0 +1,15 @@
+ID: 638
+Full Name: LSayhi/Python
+Description: Some python answer codes for “python编程从入门到实践” by LSayhi
+Created At: 2017-12-06T08:36:15Z
+Updated At: 2024-09-29T07:16:52Z
+Pushed At: 2017-12-17T15:42:38Z
+Language: Python
+URL: https://github.com/LSayhi/Python
+Forks: 33
+Stars: 64
+Topics: 
+README:
+# LearnPython
+Some python answer codes for “python编程从入门到实践” by LSayhi
+

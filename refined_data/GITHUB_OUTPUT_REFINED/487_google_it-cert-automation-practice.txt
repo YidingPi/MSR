@@ -1,0 +1,20 @@
+ID: 487
+Full Name: google/it-cert-automation-practice
+Description: Google IT Automation with Python Professional Certificate - Practice files
+Created At: 2019-12-17T19:04:12Z
+Updated At: 2024-11-27T19:23:37Z
+Pushed At: 2024-08-21T14:58:21Z
+Language: Python
+URL: https://github.com/google/it-cert-automation-practice
+Forks: 44787
+Stars: 890
+Topics: 
+README:
+# Google IT Automation with Python Professional Certificate - Practice files
+
+This repository contains the practice files used throughout the courses that are
+part of the Google IT Automation with Python Professional Certificate
+
+There's a separate folder for each course.
+
+

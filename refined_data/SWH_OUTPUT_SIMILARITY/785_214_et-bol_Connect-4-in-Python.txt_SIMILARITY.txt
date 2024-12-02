@@ -1,0 +1,3 @@
+Score: 0.2648
+et-bol/Connect-4-in-Python Connect 4 game created with python tkinter gui library  # Connect-4-in-Python
+Connect 4 game created with python tkinter gui library

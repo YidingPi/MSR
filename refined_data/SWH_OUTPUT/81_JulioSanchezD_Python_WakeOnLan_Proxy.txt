@@ -1,0 +1,16 @@
+Full Name: JulioSanchezD/Python_WakeOnLan_Proxy
+Description: Python Script used for forwarding wake on lan packet from WAN to LAN
+created_at: 2019-04-29T06:06:01Z
+updated_at: 2019-05-11T02:49:32Z
+pushed_at: 2019-05-11T02:49:31Z
+Language: Python
+URL: https://github.com/JulioSanchezD/Python_WakeOnLan_Proxy
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# WoL-PythonProxy
+Python script used for forwarding magic packets from WAN to LAN.
+
+Includes some level of security.
+

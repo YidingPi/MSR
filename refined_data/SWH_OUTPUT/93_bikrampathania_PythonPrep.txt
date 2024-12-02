@@ -1,0 +1,24 @@
+Full Name: bikrampathania/PythonPrep
+Description: Python coding practice
+created_at: 2020-05-02T13:06:36Z
+updated_at: 2020-08-02T16:06:33Z
+pushed_at: 2020-08-02T16:06:31Z
+Language: Python
+URL: https://github.com/bikrampathania/PythonPrep
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonPrep
+**Python coding practice**
+
+*filename_HR: my HackerRank solutions*
+
+*filename_HE: my HackerEarch solutions*
+
+*filename_UD: my Udemy exercise solutions*
+
+*filename_CC: my CodeChef solutions*
+
+*filename: Practice code*
+

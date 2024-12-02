@@ -1,0 +1,32 @@
+ID: 153
+Full Name: g0t0wasd/python
+Description: Examples of programs written in Python on pythonicway.com blog
+Created At: 2014-12-20T10:02:54Z
+Updated At: 2024-08-20T18:41:55Z
+Pushed At: 2023-12-02T21:04:27Z
+Language: Python
+URL: https://github.com/g0t0wasd/python
+Forks: 119
+Stars: 60
+Topics: 
+README:
+python
+======
+
+Examples of programs written in Python.
+Sources for http://pythonicway.com/
+
+Contents: 
+
+1.Arcade games:
+   - Pong game
+   - Snake Game
+   - Minesweeper
+
+2.Terminal Games:
+   - XO game
+ 
+3.GUI programs:
+   - Quadratic Calc using Tkinter
+   - Simple Paint-like application in Python with Tkinter
+

@@ -1,0 +1,3 @@
+Full Name: Kreftas/Connect-Four-AI-Python
+Updated - Created (days): 143 days
+Pushed - Created (days): 143 days

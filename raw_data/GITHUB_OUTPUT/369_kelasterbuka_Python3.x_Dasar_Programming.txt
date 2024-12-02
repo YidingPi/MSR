@@ -1,0 +1,14 @@
+ID: 369
+Full Name: kelasterbuka/Python3.x_Dasar_Programming
+Description: Belajar Python 3.x Bahasa Indonesia [Kelas Terbuka]
+Created At: 2018-03-01T07:44:56Z
+Updated At: 2024-11-27T15:31:23Z
+Pushed At: 2022-12-22T16:45:13Z
+Language: Python
+URL: https://github.com/kelasterbuka/Python3.x_Dasar_Programming
+Forks: 322
+Stars: 502
+Topics: dasarpemrograman, kelasterbuka, python, tutorial
+README:
+python3.x-Dasar-Programming-
+

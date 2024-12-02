@@ -1,0 +1,27 @@
+Full Name: miniministar/pythonlearn
+Description: None
+created_at: 2021-05-05T13:05:14Z
+updated_at: 2021-06-09T03:24:40Z
+pushed_at: 2021-06-09T03:24:37Z
+Language: Python
+URL: https://github.com/miniministar/pythonlearn
+Forks: 0
+Stars: 0
+Topics: 
+README:
+#python练习
+
+- [ ] Python操作kafka文档
+- [ ] HDFS学习
+- [ ] Python操作hdfs文档
+
+| 目标                   | 模块       | 完成 |
+| ---------------------- | ---------- | ---- |
+| 基本数据类型，基本语法 | learn01    | done |
+| 类，继承，方法重写     | test_class | done |
+| io操作                 | test_file  | done |
+| MySQL数据库读写        | test_mysql | done |
+| kafka发布订阅          | test_kafka | done |
+| hdfs                   |            |      |
+|                        |            |      |
+

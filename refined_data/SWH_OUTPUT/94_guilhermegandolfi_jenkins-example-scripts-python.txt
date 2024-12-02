@@ -1,0 +1,12 @@
+Full Name: guilhermegandolfi/jenkins-example-scripts-python
+Description: None
+created_at: 2022-08-20T01:32:46Z
+updated_at: 2022-10-01T19:12:06Z
+pushed_at: 2022-10-01T19:03:12Z
+Language: Dockerfile
+URL: https://github.com/guilhermegandolfi/jenkins-example-scripts-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

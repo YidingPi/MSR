@@ -1,0 +1,14 @@
+Full Name: f18-os/python-intro-paskuache
+Description: python-intro-paskuache created by GitHub Classroom
+created_at: 2018-09-03T04:03:16Z
+updated_at: 2018-11-29T18:27:25Z
+pushed_at: 2018-09-20T04:16:40Z
+Language: Python
+URL: https://github.com/f18-os/python-intro-paskuache
+Forks: 0
+Stars: 0
+Topics: 
+README:
+It is located under the os-demos folder and the main script is myShell.py
+This code only opens a shell and exits when the user types the command exit.
+

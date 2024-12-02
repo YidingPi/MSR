@@ -1,0 +1,21 @@
+ID: 490
+Full Name: starksecurity/Pierian-Data-Complete-Python-3-Bootcamp
+Description: None
+Created At: 2018-06-01T09:38:21Z
+Updated At: 2024-11-29T16:04:37Z
+Pushed At: 2023-10-09T13:43:03Z
+Language: Jupyter Notebook
+URL: https://github.com/starksecurity/Pierian-Data-Complete-Python-3-Bootcamp
+Forks: 1808
+Stars: 866
+Topics: 
+README:
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
+

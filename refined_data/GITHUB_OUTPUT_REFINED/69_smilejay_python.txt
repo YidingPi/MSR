@@ -1,0 +1,25 @@
+ID: 69
+Full Name: smilejay/python
+Description: some of Jay's shared python codes
+Created At: 2011-12-06T01:13:24Z
+Updated At: 2024-09-09T14:53:09Z
+Pushed At: 2024-05-19T16:14:48Z
+Language: Python
+URL: https://github.com/smilejay/python
+Forks: 175
+Stars: 157
+Topics: 
+README:
+#### This is the README file of python.git in Jay's git repos hosted on github.com
+* https://github.com/smilejay/python.git
+* git://github.com/smilejay/python.git
+
+#### My homepage on github.com: https://github.com/smilejay
+```shell
+Just for fun.
+       thanks,
+          Jay.
+```
+
+#### Also, you can contact me via my blog: http://smilejay.com/
+

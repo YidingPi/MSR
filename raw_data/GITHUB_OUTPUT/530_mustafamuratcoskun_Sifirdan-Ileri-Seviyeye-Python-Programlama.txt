@@ -1,0 +1,19 @@
+ID: 530
+Full Name: mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama
+Description: Udemy üzerindeki Python kurslarında kullanılan materyaller
+Created At: 2017-06-18T13:48:55Z
+Updated At: 2024-11-30T19:09:00Z
+Pushed At: 2022-11-07T23:03:05Z
+Language: Jupyter Notebook
+URL: https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama
+Forks: 780
+Stars: 1970
+Topics: 
+README:
+# Sıfırdan İleri Seviyeye Python Programlama
+
+
+Udemy üzerindeki [Sıfırdan İleri Seviyeye Python Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/?couponCode=PYTHON6) kursundaki Çalışma Notebookları ve Kullanılan Kodlar
+
+
+

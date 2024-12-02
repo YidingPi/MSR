@@ -1,0 +1,3 @@
+Score: 0.4428
+susanli2016/Machine-Learning-with-Python Python code for common Machine Learning Algorithms decision-trees, hierarchical-clustering, kmeans-clustering, knn-classification, lda, linear-regression, logistic-regression, naive-bayes-classifier, pca, polynomial-regression, random-forest, svm, svr, xgboost-algorithm # Machine-Learning-with-Python
+Python codes for common Machine Learning Algorithms

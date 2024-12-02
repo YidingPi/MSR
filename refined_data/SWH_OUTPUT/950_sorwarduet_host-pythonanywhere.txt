@@ -1,0 +1,22 @@
+Full Name: sorwarduet/host-pythonanywhere
+Description: None
+created_at: 2020-12-02T14:28:08Z
+updated_at: 2020-12-02T14:56:45Z
+pushed_at: 2020-12-02T14:56:42Z
+Language: None
+URL: https://github.com/sorwarduet/host-pythonanywhere
+Forks: 0
+Stars: 0
+Topics: 
+README:
+## How Django project host python anywhere
+
+Step 1:
+Create account https://www.pythonanywhere.com/.
+
+Step 2.
+Two way host django projects
+    a) Upload using sip file
+    b) Using github or gitlab
+
+

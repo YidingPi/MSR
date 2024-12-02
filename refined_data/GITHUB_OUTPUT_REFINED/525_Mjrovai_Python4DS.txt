@@ -1,0 +1,17 @@
+ID: 525
+Full Name: Mjrovai/Python4DS
+Description: Jupyter Notebooks used on my DataScience projects
+Created At: 2018-04-17T16:09:00Z
+Updated At: 2024-11-21T03:25:14Z
+Pushed At: 2021-06-14T21:09:28Z
+Language: Jupyter Notebook
+URL: https://github.com/Mjrovai/Python4DS
+Forks: 211
+Stars: 179
+Topics: 
+README:
+# Python4DS
+Here you will find the most important Jupyter Notebooks used on my DataScience projects
+<br>
+<img src='https://github.com/Mjrovai/Python4DS/blob/master/Fake%20News/mjrovai_python.jpg'>
+

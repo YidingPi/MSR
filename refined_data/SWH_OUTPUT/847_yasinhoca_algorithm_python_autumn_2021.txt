@@ -1,0 +1,12 @@
+Full Name: yasinhoca/algorithm_python_autumn_2021
+Description: None
+created_at: 2022-06-24T12:31:47Z
+updated_at: 2022-06-24T12:35:25Z
+pushed_at: 2022-06-24T12:34:36Z
+Language: Python
+URL: https://github.com/yasinhoca/algorithm_python_autumn_2021
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

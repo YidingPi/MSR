@@ -1,0 +1,12 @@
+Full Name: sitimaimunah565/belajar-python-2021
+Description: None
+created_at: 2021-01-22T00:19:32Z
+updated_at: 2021-01-30T01:41:18Z
+pushed_at: 2021-01-30T01:41:16Z
+Language: Python
+URL: https://github.com/sitimaimunah565/belajar-python-2021
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# belajar-python-2021

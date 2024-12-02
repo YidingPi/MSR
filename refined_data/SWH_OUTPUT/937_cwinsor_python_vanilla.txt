@@ -1,0 +1,12 @@
+Full Name: cwinsor/python_vanilla
+Description: None
+created_at: 2021-04-29T01:06:13Z
+updated_at: 2021-04-29T01:06:16Z
+pushed_at: 2021-04-29T01:06:13Z
+Language: None
+URL: https://github.com/cwinsor/python_vanilla
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_vanilla

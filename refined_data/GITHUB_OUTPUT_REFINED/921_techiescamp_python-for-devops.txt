@@ -1,0 +1,24 @@
+ID: 921
+Full Name: techiescamp/python-for-devops
+Description: Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
+Created At: 2022-08-20T10:17:18Z
+Updated At: 2024-11-27T07:55:53Z
+Pushed At: 2024-03-13T11:35:05Z
+Language: Python
+URL: https://github.com/techiescamp/python-for-devops
+Forks: 327
+Stars: 414
+Topics: boto3, devops, devops-automation, devops-scripts, python, python-for-devops, python-scripts, python3, scripting
+README:
+# Python for DevOps
+
+If you want to understand the importance of python for DevOps, please read the [detailed python for DevOps guide](https://devopscube.com/python-for-devops/).
+
+## Python Learning Resources
+
+If you are looking for a guided way to learn Python from scratch., I recommend the following resources.
+
+1. [learnpython.org](https://www.learnpython.org/)
+2. [Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch?aff=KNLz)
+3. [Python for Beginners – Full Video Course](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+

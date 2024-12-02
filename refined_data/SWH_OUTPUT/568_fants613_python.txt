@@ -1,0 +1,12 @@
+Full Name: fants613/python
+Description: some python program
+created_at: 2014-04-10T07:36:52Z
+updated_at: 2014-04-10T07:36:52Z
+pushed_at: 2014-04-10T07:36:52Z
+Language: None
+URL: https://github.com/fants613/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

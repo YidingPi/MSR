@@ -1,0 +1,12 @@
+Full Name: 461847686qq/python-projects
+Description: python练手项目
+created_at: 2017-11-20T06:28:45Z
+updated_at: 2017-11-20T06:28:45Z
+pushed_at: 2017-11-20T06:46:31Z
+Language: None
+URL: https://github.com/461847686qq/python-projects
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

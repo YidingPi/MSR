@@ -1,0 +1,15 @@
+Full Name: anbern2019/Python-samples
+Description: Exercises and more
+created_at: 2019-07-12T09:09:24Z
+updated_at: 2019-07-18T15:33:11Z
+pushed_at: 2019-07-18T15:33:09Z
+Language: Jupyter Notebook
+URL: https://github.com/anbern2019/Python-samples
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-samples
+Exercises and more \n
+Image processing, Mapping, curve fitting
+

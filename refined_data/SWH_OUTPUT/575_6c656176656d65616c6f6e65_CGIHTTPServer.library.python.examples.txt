@@ -1,0 +1,12 @@
+Full Name: 6c656176656d65616c6f6e65/CGIHTTPServer.library.python.examples
+Description: python CGIHTTPServer module examples
+created_at: 2015-07-07T16:15:10Z
+updated_at: 2015-07-07T16:15:10Z
+pushed_at: 2015-07-07T16:15:11Z
+Language: None
+URL: https://github.com/6c656176656d65616c6f6e65/CGIHTTPServer.library.python.examples
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

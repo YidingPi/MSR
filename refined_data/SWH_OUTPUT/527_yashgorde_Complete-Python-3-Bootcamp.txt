@@ -1,0 +1,21 @@
+Full Name: yashgorde/Complete-Python-3-Bootcamp
+Description: Course Files for Complete Python 3 Bootcamp Course on Udemy
+created_at: 2022-10-03T19:25:41Z
+updated_at: 2022-10-03T19:19:36Z
+pushed_at: 2022-09-22T06:10:17Z
+Language: None
+URL: https://github.com/yashgorde/Complete-Python-3-Bootcamp
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+Copyright(©) by Pierian Data Inc.
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
+

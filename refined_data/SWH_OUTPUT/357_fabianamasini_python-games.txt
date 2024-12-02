@@ -1,0 +1,17 @@
+Full Name: fabianamasini/python-games
+Description: Project from Alura's Python 3 course.
+created_at: 2019-12-10T19:32:08Z
+updated_at: 2020-02-19T16:14:40Z
+pushed_at: 2020-02-19T16:14:37Z
+Language: Python
+URL: https://github.com/fabianamasini/python-games
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-games
+
+Useful documentation:
+https://docs.python.org/3/library/string.html#formatexamples
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+

@@ -1,0 +1,2 @@
+Score: 0.4681
+taharam/pythonproblem1 pythonプログラミングの練習問題。従業員の名前や国名、身長や年収などのリストを作成するプログラム  

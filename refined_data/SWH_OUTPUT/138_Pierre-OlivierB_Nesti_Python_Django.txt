@@ -1,0 +1,14 @@
+Full Name: Pierre-OlivierB/Nesti_Python_Django
+Description: project: e-commerce
+created_at: 2022-05-05T12:50:29Z
+updated_at: 2024-07-25T08:55:23Z
+pushed_at: 2022-05-24T19:30:21Z
+Language: Python
+URL: https://github.com/Pierre-OlivierB/Nesti_Python_Django
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Nesti_Python_Django
+project: e-commerce
+

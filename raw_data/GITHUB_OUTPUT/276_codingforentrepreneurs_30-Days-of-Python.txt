@@ -1,0 +1,21 @@
+ID: 276
+Full Name: codingforentrepreneurs/30-Days-of-Python
+Description: Learn Python for the next 30 (or so) Days. 
+Created At: 2016-03-09T22:47:10Z
+Updated At: 2024-11-29T10:54:18Z
+Pushed At: 2024-02-27T14:01:47Z
+Language: HTML
+URL: https://github.com/codingforentrepreneurs/30-Days-of-Python
+Forks: 1344
+Stars: 2149
+Topics: api, automation, csv, fastapi, flask, jupyter, pandas, python, python3, rest-api, selenium, selenium-webdriver, tutorial, web-scraping
+README:
+[![30 Days of Python Logo](https://static.codingforentrepreneurs.com/media/projects/30-days-python-38/images/share/30_Days_of_Python_-_Share.jpg)](https://www.codingforentrepreneurs.com/projects/30-days-python-38)
+
+# 30 Days of Python
+
+For the next 30 days, learn the Python Programming language. Watch the official tutorial series on [CFE](https://www.codingforentrepreneurs.com/projects/30-days-python-38) or [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6).
+
+> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 30 Days of Python using Python 3.6 has been moved to [here](https://github.com/codingforentrepreneurs/30-Days-of-Python-3.6). Happy Coding!
+
+

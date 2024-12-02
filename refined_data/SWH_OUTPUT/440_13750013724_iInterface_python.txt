@@ -1,0 +1,23 @@
+Full Name: 13750013724/iInterface_python
+Description: None
+created_at: 2021-02-14T09:43:20Z
+updated_at: 2021-02-14T10:02:28Z
+pushed_at: 2021-02-14T10:02:26Z
+Language: Python
+URL: https://github.com/13750013724/iInterface_python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+**接口功能自动化测试程序（Python版）**
+运行环境：
+- python3
+- pytest
+- allure report
+- git
+
+依赖准备：
+pip install allure-pytest
+
+运行命令：
+pytest -sv test/weather_test.py --alluredir ./allure-results

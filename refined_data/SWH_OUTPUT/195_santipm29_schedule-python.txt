@@ -1,0 +1,34 @@
+Full Name: santipm29/schedule-python
+Description: None
+created_at: 2019-09-05T15:16:47Z
+updated_at: 2019-09-05T18:37:55Z
+pushed_at: 2019-09-05T18:37:54Z
+Language: Python
+URL: https://github.com/santipm29/schedule-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Schedule Python 3.7
+
+## Create virtualenv
+```bash
+virtualenv venv
+```
+## Activate virtualenv
+```bash
+.\venv\Scripts\activate.ps1
+```
+or
+```bash
+.\venv\Scripts\activate.bat
+```
+## Installation
+```bash
+pip install -r requirements.txt
+```
+## Test
+```bash
+py .\main.py
+```
+

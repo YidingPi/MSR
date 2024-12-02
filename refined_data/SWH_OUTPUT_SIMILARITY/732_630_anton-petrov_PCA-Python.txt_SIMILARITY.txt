@@ -1,0 +1,2 @@
+Score: 0.3091
+anton-petrov/PCA-Python Example for Principal Component Analysis in an image with python, scikit-learn and scikit-image.  

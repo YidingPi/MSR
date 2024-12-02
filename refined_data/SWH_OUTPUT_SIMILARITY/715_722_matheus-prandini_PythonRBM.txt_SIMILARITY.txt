@@ -1,0 +1,2 @@
+Score: 0.3181
+matheus-prandini/PythonRBM Simple RBM implemented from scratch with numpy  

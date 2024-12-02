@@ -1,0 +1,13 @@
+Full Name: Singlarpit456/week-1-python-cipherschools
+Description: None
+created_at: 2022-11-30T18:40:56Z
+updated_at: 2022-11-30T18:40:56Z
+pushed_at: 2022-11-30T18:44:36Z
+Language: None
+URL: https://github.com/Singlarpit456/week-1-python-cipherschools
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# week-1-python-cipherschools
+

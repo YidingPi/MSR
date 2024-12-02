@@ -1,0 +1,2 @@
+Score: 0.5610
+derekbanas/Python4Finance I get many questions about how to analyze the Stock Market with Python. I am creating a new playlist of videos that will completely cover Python for Finance.  

@@ -1,0 +1,29 @@
+Full Name: henryslzhao/python-smart-crop
+Description: Smart crops images uisng OpenCV
+created_at: 2018-03-04T05:56:20Z
+updated_at: 2018-03-04T05:56:23Z
+pushed_at: 2017-05-26T10:06:17Z
+Language: Python
+URL: https://github.com/henryslzhao/python-smart-crop
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-smart-crop
+
+Smart crops images uisng OpenCV
+
+Uses the algorithms described in https://github.com/thumbor/thumbor/wiki/Detection-algorithms but actually combining both methods. We try to detect faces on the image, then, in any case we detect features. We then combine both results with different weights, so face detection is, in this case 3,33 times stronger than feature detection.
+
+## Installing
+
+Requires python-opencv, install the dependency on debian with `apt install python-opencv`.
+
+Install the command using PIP: `pip install git+https://github.com/epixelic/python-smart-crop`
+
+Tested on Debian 8 and Ubuntu WSL.
+
+Usage: `smartcrop -W 1140 -H 400 -i input.jpg -o output.jpg`
+
+See `smartcrop --help`
+

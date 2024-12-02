@@ -1,0 +1,4 @@
+Score: 0.3788
+DevadathanS/Alexa-using-Python This is a sample version of Alexa.  # Alexa-using-Python
+This is a sample version of Alexa.
+You can copy this and paste it in your 'IDE' after pip installing the packages mentioned above in the file.

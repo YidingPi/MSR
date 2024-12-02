@@ -1,0 +1,23 @@
+Full Name: qlixed/spam-module-python2
+Description: The basic example of the spam module for python2
+created_at: 2017-03-17T02:26:52Z
+updated_at: 2017-03-17T03:09:13Z
+pushed_at: 2017-03-17T03:18:30Z
+Language: C
+URL: https://github.com/qlixed/spam-module-python2
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# spam-module-python2
+The basic example of the spam module for python2
+
+Created to:
+ - Understand the differences within the python2 and python3 versions of the python-c api
+ - Check how to create a module compatible with python2 **and** python3.
+
+The related repos:  
+spam-module-python2: https://github.com/qlixed/spam-module-python2 - Python 2 only.  
+spam-module-python3: https://github.com/qlixed/spam-module-python3 - Python 3 only.  
+spam-module-python2-3: https://github.com/qlixed/spam-module-python2-3 - Python 2 and Python 3 compatible.  
+

@@ -1,0 +1,14 @@
+Full Name: imnotEnvy/python-chanllenge-solution
+Description: http://www.pythonchallenge.com/ 的Solution
+created_at: 2017-06-19T08:52:36Z
+updated_at: 2017-06-19T14:10:01Z
+pushed_at: 2017-06-19T14:10:00Z
+Language: Python
+URL: https://github.com/imnotEnvy/python-chanllenge-solution
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-chanllenge-solution
+http://www.pythonchallenge.com/ 的Solution
+

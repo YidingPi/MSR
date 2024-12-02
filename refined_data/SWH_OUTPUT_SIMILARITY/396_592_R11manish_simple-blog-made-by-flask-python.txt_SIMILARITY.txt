@@ -1,0 +1,3 @@
+Score: 0.4323
+R11manish/simple-blog-made-by-flask-python this is simple bog made by python using flask module.....it is just my learning project  # simple-blog-made-by-flask-python
+this is simple bog made by python using flask module.....it is just my learning project

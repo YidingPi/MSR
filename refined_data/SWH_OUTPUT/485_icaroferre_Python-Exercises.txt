@@ -1,0 +1,18 @@
+Full Name: icaroferre/Python-Exercises
+Description: Simple python programs I wrote while trying to learn more about the language.
+created_at: 2016-06-30T23:36:28Z
+updated_at: 2021-05-02T03:23:48Z
+pushed_at: 2016-07-01T01:25:53Z
+Language: Python
+URL: https://github.com/icaroferre/Python-Exercises
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Python Excersices
+
+These are some python programs I wrote while trying to learn more about the language.
+
+##bpm2hzms
+This is a simple program that converts BPM values to Hz or ms values.
+

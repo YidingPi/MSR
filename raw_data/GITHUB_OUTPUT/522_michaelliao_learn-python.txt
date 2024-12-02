@@ -1,0 +1,15 @@
+ID: 522
+Full Name: michaelliao/learn-python
+Description: 小白的Python入门教程：部分章节源码
+Created At: 2013-11-28T05:36:42Z
+Updated At: 2024-06-21T13:36:50Z
+Pushed At: 2019-01-26T13:56:33Z
+Language: Python
+URL: https://github.com/michaelliao/learn-python
+Forks: 478
+Stars: 450
+Topics: python, python3
+README:
+learn-python
+============
+

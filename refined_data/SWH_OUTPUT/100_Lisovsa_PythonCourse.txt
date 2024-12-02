@@ -1,0 +1,14 @@
+Full Name: Lisovsa/PythonCourse
+Description: None
+created_at: 2021-11-05T20:17:57Z
+updated_at: 2021-11-05T21:23:41Z
+pushed_at: 2021-12-02T08:15:09Z
+Language: None
+URL: https://github.com/Lisovsa/PythonCourse
+Forks: 0
+Stars: 0
+Topics: 
+README:
+ # PythonCourse
+
+ Репозиторий для курса по питону с девочками.

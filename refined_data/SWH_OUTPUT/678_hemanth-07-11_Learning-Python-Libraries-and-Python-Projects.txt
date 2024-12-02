@@ -1,0 +1,14 @@
+Full Name: hemanth-07-11/Learning-Python-Libraries-and-Python-Projects
+Description: This Repo contains the work of mine, while learning various Python libraries and working with different modules. All from basics and few small projects are also added. 
+created_at: 2020-12-23T16:11:11Z
+updated_at: 2023-04-12T03:21:53Z
+pushed_at: 2022-06-29T16:17:23Z
+Language: Python
+URL: https://github.com/hemanth-07-11/Learning-Python-Libraries-and-Python-Projects
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Learning-Python-Libraries and Building Python Projects
+This Repo contains the work of mine, while learning various Python libraries and working with different modules. All from basics and few small projects are also added. 
+

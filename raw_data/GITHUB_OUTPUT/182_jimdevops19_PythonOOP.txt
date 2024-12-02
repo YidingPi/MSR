@@ -1,0 +1,15 @@
+ID: 182
+Full Name: jimdevops19/PythonOOP
+Description: The Original Code repository for my Python OOP Series
+Created At: 2021-08-29T07:18:32Z
+Updated At: 2024-11-28T19:34:22Z
+Pushed At: 2022-06-07T20:14:29Z
+Language: Python
+URL: https://github.com/jimdevops19/PythonOOP
+Forks: 362
+Stars: 498
+Topics: 
+README:
+# PythonOOP
+The Original Code repository for my Python OOP Series
+

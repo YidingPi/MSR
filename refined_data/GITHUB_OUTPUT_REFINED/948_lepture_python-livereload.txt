@@ -1,0 +1,43 @@
+ID: 948
+Full Name: lepture/python-livereload
+Description: livereload server in python
+Created At: 2012-05-03T16:38:39Z
+Updated At: 2024-11-28T16:30:03Z
+Pushed At: 2024-11-07T12:52:36Z
+Language: Python
+URL: https://github.com/lepture/python-livereload
+Forks: 150
+Stars: 1021
+Topics: 
+README:
+# LiveReload
+
+Reload webpages on changes, without hitting refresh in your browser.
+
+## Installation
+
+<!-- start install -->
+
+LiveReload is for web developers who know Python. It is available on [PyPI].
+
+```
+$ pip install livereload
+```
+
+[pypi]: https://pypi.python.org/pypi/livereload
+
+<!-- end install -->
+
+## Documentation
+
+[LiveReload's documentation is hosted on ReadTheDocs][docs].
+
+[docs]: https://livereload.readthedocs.io/en/latest/
+
+## Security Report
+
+To report a security vulnerability, please use the [Tidelift security contact].
+Tidelift will coordinate the fix and disclosure.
+
+[tidelift security contact]: https://tidelift.com/security
+

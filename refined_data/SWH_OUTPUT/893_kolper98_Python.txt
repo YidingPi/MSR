@@ -1,0 +1,12 @@
+Full Name: kolper98/Python
+Description: None
+created_at: 2021-10-30T18:18:36Z
+updated_at: 2021-10-30T18:18:36Z
+pushed_at: 2021-10-30T18:18:36Z
+Language: None
+URL: https://github.com/kolper98/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

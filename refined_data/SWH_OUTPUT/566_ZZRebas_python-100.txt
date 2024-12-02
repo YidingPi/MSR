@@ -1,0 +1,15 @@
+Full Name: ZZRebas/python-100
+Description: 参考链接：https://github.com/darkprinx/break-the-ice-with-python
+created_at: 2021-06-15T09:20:24Z
+updated_at: 2022-02-09T06:48:45Z
+pushed_at: 2021-07-01T07:08:18Z
+Language: Python
+URL: https://github.com/ZZRebas/python-100
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-100题，掌握python基础用法
+参考链接：https://github.com/darkprinx/break-the-ice-with-python
+每日完成3~4个题
+

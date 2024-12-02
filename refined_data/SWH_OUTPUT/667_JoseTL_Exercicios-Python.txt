@@ -1,0 +1,15 @@
+Full Name: JoseTL/Exercicios-Python
+Description: Exercicios básico do Python
+created_at: 2020-06-02T17:55:05Z
+updated_at: 2020-07-16T14:39:53Z
+pushed_at: 2020-09-27T14:33:47Z
+Language: Python
+URL: https://github.com/JoseTL/Exercicios-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Exercicios-do-Python-Basico
+
+Exercicios básico do Python
+

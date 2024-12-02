@@ -1,0 +1,5 @@
+Score: 0.4214
+jaimemartinagui/sierpinski-triangle-in-python Two ways of generating Sierpinski Triangle in Python: Recursion and Iteration.  # Sierpinski Triangle in Python
+Two ways of generating Sierpinski Triangle in Python: Recursion and Iteration.
+
+![Sierpinski triangle](/img/Sierpinski.png)

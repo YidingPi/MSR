@@ -1,0 +1,15 @@
+Full Name: PythonNut/quantum-information.jl
+Description: Simple things to help understand Physics 84: Quantum Information
+created_at: 2019-02-07T05:09:02Z
+updated_at: 2019-02-07T08:18:10Z
+pushed_at: 2019-02-07T08:18:09Z
+Language: Julia
+URL: https://github.com/PythonNut/quantum-information.jl
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Quantum Information Helpers
+
+Just a collection of things to help me understand Physics 84 and quickly perform calculations related to the course.
+

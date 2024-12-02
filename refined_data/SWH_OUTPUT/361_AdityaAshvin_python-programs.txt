@@ -1,0 +1,12 @@
+Full Name: AdityaAshvin/python-programs
+Description: some of the python programs that I have done.
+created_at: 2020-01-15T15:05:37Z
+updated_at: 2020-01-16T17:15:01Z
+pushed_at: 2020-01-16T17:14:59Z
+Language: Python
+URL: https://github.com/AdityaAshvin/python-programs
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

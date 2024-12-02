@@ -1,0 +1,19 @@
+Full Name: nikban95/30-Days-of-Code
+Description: None
+created_at: 2016-02-13T12:19:36Z
+updated_at: 2019-12-04T20:04:08Z
+pushed_at: 2019-12-04T20:01:53Z
+Language: Python
+URL: https://github.com/nikban95/30-Days-of-Code
+Forks: 0
+Stars: 0
+Topics: 
+README:
+### 30 Days of Code Challenge
+
+#### What this is about?
+- It is 30 Days of code challenge present on hackerrank(https://www.hackerrank.com/domains/tutorials/30-days-of-code) where 1 problems is solved daily for 30 days to improve your coding skills in a particular language.
+- You can find the challenge solution for different languages in the respective folders.
+
+Feel free to contribute!!!
+

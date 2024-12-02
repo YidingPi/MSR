@@ -1,0 +1,32 @@
+Full Name: harryhaaren/pythonWorkshop
+Description: Example code snippets gathered together to give a python workshop.
+created_at: 2013-11-13T12:52:46Z
+updated_at: 2014-02-24T07:06:07Z
+pushed_at: 2013-11-13T13:18:27Z
+Language: Python
+URL: https://github.com/harryhaaren/pythonWorkshop
+Forks: 1
+Stars: 0
+Topics: 
+README:
+
+    Python Workshop
+
+The code / resources in this repository were used to give an introductory
+workshop to python. The code in the examples dir were collected from sites,
+and updated / tested to work with python2 / 3, and tagged appropriately.
+
+
+The following list of modules are needed to run some Python2 examples: 
+-gtk (pygtk2)
+-cffi
+-urllib2
+-PIL
+-UnitTest
+-pygame
+-mysql
+
+
+Feel free to fork & send merge requests with fixes / updates,
+Cheers, -Harry
+

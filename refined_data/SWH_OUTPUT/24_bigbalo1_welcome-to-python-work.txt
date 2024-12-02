@@ -1,0 +1,12 @@
+Full Name: bigbalo1/welcome-to-python-work
+Description: None
+created_at: 2022-10-25T13:09:32Z
+updated_at: 2022-10-25T13:13:42Z
+pushed_at: 2022-10-26T14:51:54Z
+Language: Jupyter Notebook
+URL: https://github.com/bigbalo1/welcome-to-python-work
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# welcome-to-python-work

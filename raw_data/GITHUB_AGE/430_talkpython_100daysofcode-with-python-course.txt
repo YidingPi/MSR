@@ -1,0 +1,3 @@
+Full Name: talkpython/100daysofcode-with-python-course
+Updated - Created (days): 2543 days
+Pushed - Created (days): 2307 days

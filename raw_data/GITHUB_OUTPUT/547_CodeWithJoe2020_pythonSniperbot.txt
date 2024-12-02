@@ -1,0 +1,15 @@
+ID: 547
+Full Name: CodeWithJoe2020/pythonSniperbot
+Description: Sniper Bot that waits for a specific pair to be created, once detected bot buys token for the amount specified
+Created At: 2021-07-09T11:34:56Z
+Updated At: 2024-10-31T12:51:42Z
+Pushed At: 2022-10-22T11:50:45Z
+Language: Python
+URL: https://github.com/CodeWithJoe2020/pythonSniperbot
+Forks: 174
+Stars: 155
+Topics: 
+README:
+# pythonSniperbot
+Sniper Bot that waits for a specific pair to be created, once detected bot buys token for the amount specified
+

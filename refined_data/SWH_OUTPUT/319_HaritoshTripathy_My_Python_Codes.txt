@@ -1,0 +1,12 @@
+Full Name: HaritoshTripathy/My_Python_Codes
+Description: Python codes that I used to learn Python
+created_at: 2022-06-05T12:45:12Z
+updated_at: 2022-06-05T12:47:17Z
+pushed_at: 2022-06-05T12:47:14Z
+Language: Python
+URL: https://github.com/HaritoshTripathy/My_Python_Codes
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

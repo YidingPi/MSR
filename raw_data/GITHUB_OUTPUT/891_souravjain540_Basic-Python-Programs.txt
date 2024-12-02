@@ -1,0 +1,25 @@
+ID: 891
+Full Name: souravjain540/Basic-Python-Programs
+Description: This repository will contain basic python programming questions and their solutions.
+Created At: 2022-06-07T11:29:09Z
+Updated At: 2024-11-25T06:50:55Z
+Pushed At: 2024-08-03T07:21:36Z
+Language: Python
+URL: https://github.com/souravjain540/Basic-Python-Programs
+Forks: 403
+Stars: 283
+Topics: good-first-issue, good-first-pr, good-first-project, hacktoberfest, python
+README:
+# Basic-Python-Programs
+This repository will contain basic python programming questions and their solutions.
+
+# Do give us a Star 
+
+# Contributions
+
+- Add a new program which don't exist earlier
+- It should be in .py extenstion
+- Please run the program and check if there are no errors before making the PR
+- Review other PR's as well
+- No Spamming allowed, make sure to include all programs in one PR.
+

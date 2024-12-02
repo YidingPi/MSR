@@ -1,0 +1,14 @@
+Full Name: brunomoellerr/python-calculator
+Description: None
+created_at: 2022-03-19T19:44:43Z
+updated_at: 2022-03-19T19:44:49Z
+pushed_at: 2022-03-19T19:44:46Z
+Language: Python
+URL: https://github.com/brunomoellerr/python-calculator
+Forks: 0
+Stars: 0
+Topics: 
+README:
+## Python Calculator
+
+not all the buttons work. This calculator only has basic functions and it was made for PyQT studies purposes.

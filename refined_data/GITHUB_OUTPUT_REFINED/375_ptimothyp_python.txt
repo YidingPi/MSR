@@ -1,0 +1,14 @@
+ID: 375
+Full Name: ptimothyp/python
+Description: python learning programs
+Created At: 2010-11-29T15:09:06Z
+Updated At: 2023-06-10T17:51:53Z
+Pushed At: 2020-10-24T15:40:16Z
+Language: Python
+URL: https://github.com/ptimothyp/python
+Forks: 36
+Stars: 20
+Topics: 
+README:
+This just contains learner python programs.
+

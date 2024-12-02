@@ -1,0 +1,16 @@
+Full Name: menonkartikeya/menonkartikeya-Tkinter-Python-GUI-Projects
+Description: My Python GUI Projects' Source codes
+created_at: 2020-10-31T06:12:54Z
+updated_at: 2022-03-27T04:48:46Z
+pushed_at: 2022-03-27T05:00:17Z
+Language: Python
+URL: https://github.com/menonkartikeya/menonkartikeya-Tkinter-Python-GUI-Projects
+Forks: 0
+Stars: 2
+Topics: 
+README:
+# menonkartikeya-Tkinter-Python-GUI-Projects
+
+Some GUI (Graphical User Interface) projects I made using Python's Tkinter module/package.
+And for database, I have used SQLite (though, originally I used MySQL) in almost every project of this repository.
+

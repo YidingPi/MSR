@@ -1,0 +1,3 @@
+Full Name: KathyOlsen/DC-Housing-Exercise-Using-Z-Score-Standardization-and-Min-Max-Scaling-in-Python-3.7
+Updated - Created (days): 0 days
+Pushed - Created (days): 0 days

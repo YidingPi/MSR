@@ -1,0 +1,18 @@
+Full Name: gtdoubledouble/python-proxy
+Description: None
+created_at: 2014-07-29T10:30:08Z
+updated_at: 2014-07-29T10:31:04Z
+pushed_at: 2014-07-29T10:36:47Z
+Language: Python
+URL: https://github.com/gtdoubledouble/python-proxy
+Forks: 1
+Stars: 0
+Topics: 
+README:
+Python Proxy
+============
+
+A proxy built from Python sockets
+Takes care of both normal and chunked transfers
+Works on most sites, but not on YouTube.
+

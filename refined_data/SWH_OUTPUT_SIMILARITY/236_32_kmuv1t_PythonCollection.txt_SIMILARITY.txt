@@ -1,0 +1,2 @@
+Score: 0.4838
+kmuv1t/PythonCollection A Collection of simple Python exercises from an old course :)  

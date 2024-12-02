@@ -1,0 +1,15 @@
+ID: 397
+Full Name: mk-codingspace/Python
+Description: None
+Created At: 2021-03-04T02:10:28Z
+Updated At: 2024-05-13T20:40:06Z
+Pushed At: 2023-02-21T13:53:10Z
+Language: Python
+URL: https://github.com/mk-codingspace/Python
+Forks: 78
+Stars: 24
+Topics: 
+README:
+This is a repository holding code for Python Projects. Please visit my Youtube channel at
+https://www.youtube.com/channel/UCXSKsJMfXnw3aWBa3DjBUCg
+

@@ -1,0 +1,16 @@
+Full Name: HarikeshPratapSingh/python-question-classifier
+Description: A machine learning model to classify python questions for beginners into different sub-classes
+created_at: 2022-07-22T16:48:44Z
+updated_at: 2023-05-07T10:23:24Z
+pushed_at: 2022-07-22T16:53:01Z
+Language: Jupyter Notebook
+URL: https://github.com/HarikeshPratapSingh/python-question-classifier
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# python-question-classifier
+A machine learning model to classify python questions for beginners into different sub-classes
+
+I am still experimenting with it to come up with new ways to make it better
+

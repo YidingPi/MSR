@@ -1,0 +1,4 @@
+Score: 0.4860
+StanKozlov/python_course None  ﻿# python_course
+Quack Quack
+Kozlov Stanislav

@@ -1,0 +1,18 @@
+Full Name: kumar-kalyan/python-pong-game
+Description: Python Pong game 
+created_at: 2022-07-07T16:16:34Z
+updated_at: 2022-07-07T20:03:33Z
+pushed_at: 2022-07-07T20:05:14Z
+Language: Python
+URL: https://github.com/kumar-kalyan/python-pong-game
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-pong-game
+Python Pong game 
+Press W & S for moving the left paddel 
+press Upper and down arrow  for moving the right paddel 
+
+This is my first game using python graphics
+

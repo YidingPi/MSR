@@ -1,0 +1,3 @@
+Full Name: adafruit/Adafruit_Python_DHT
+Updated - Created (days): 3825 days
+Pushed - Created (days): 1983 days

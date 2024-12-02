@@ -1,0 +1,12 @@
+Full Name: stefanushinardi/swa-python
+Description: None
+created_at: 2020-09-25T23:13:48Z
+updated_at: 2020-09-25T23:13:57Z
+pushed_at: 2020-09-25T23:13:54Z
+Language: None
+URL: https://github.com/stefanushinardi/swa-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

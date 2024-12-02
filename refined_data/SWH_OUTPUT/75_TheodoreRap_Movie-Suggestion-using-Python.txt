@@ -1,0 +1,19 @@
+Full Name: TheodoreRap/Movie-Suggestion-using-Python
+Description: Python Recommendation Program
+created_at: 2022-06-14T11:06:10Z
+updated_at: 2022-06-14T18:18:25Z
+pushed_at: 2022-06-22T13:27:38Z
+Language: Python
+URL: https://github.com/TheodoreRap/Movie-Suggestion-using-Python
+Forks: 0
+Stars: 0
+Topics: config, github-config, matplotlib-pyplot, pandas, pandas-python, python, recommendation
+README:
+# Movie Suggestion using Python
+
+Movie recommendation based on the common interest of users
+
+Using "matplotlib.pyplot" and "pandas" modules
+
+* csv files not included
+

@@ -1,0 +1,14 @@
+Full Name: assyrian7/PythonWebsiteScanner
+Description: None
+created_at: 2015-12-16T05:25:37Z
+updated_at: 2016-10-08T11:23:49Z
+pushed_at: 2015-12-17T07:31:15Z
+Language: Python
+URL: https://github.com/assyrian7/PythonWebsiteScanner
+Forks: 1
+Stars: 1
+Topics: 
+README:
+This repository contains python code for scanning websites and storing 
+that data. 
+

@@ -1,0 +1,4 @@
+Score: 0.4420
+renanmpn/python_design_patterns Exercises from book:  # Python Design Patterns
+
+My exercises about the book: Mastering Python Design Patterns by Sakis Kasampalis

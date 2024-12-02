@@ -1,0 +1,20 @@
+ID: 760
+Full Name: seeways/PythonDemo
+Description: My Python Demo
+Created At: 2017-11-20T01:17:11Z
+Updated At: 2024-10-23T06:52:45Z
+Pushed At: 2018-03-23T06:49:30Z
+Language: Python
+URL: https://github.com/seeways/PythonDemo
+Forks: 106
+Stars: 204
+Topics: demo, flask, python3, spider, web
+README:
+# PythonDemo
+
+廖雪峰老师博客上的所有练习和作业都包含在该项目中了
+
+另外有一些额外拓展的demo
+
+如果你觉得不错或者对你有帮助，请帮我点个star吧
+

@@ -1,0 +1,24 @@
+ID: 483
+Full Name: tdamdouni/Pythonista
+Description: Collection of Python Scripts written for Pythonista iOS App 
+Created At: 2015-12-17T11:41:01Z
+Updated At: 2024-11-17T09:13:55Z
+Pushed At: 2023-02-02T09:02:54Z
+Language: Python
+URL: https://github.com/tdamdouni/Pythonista
+Forks: 248
+Stars: 1079
+Topics: python-scripts, python2, python3, pythonista, pythonista-ios
+README:
+# Pythonista
+
+Collection of Python Scripts written for [Pythonista iOS App](http://omz-software.com/pythonista/).
+
+I try to sort these scripts into @Folders after functionality, purpose or use for.
+
+The most of them are forked from other github repositories but referenced at the beginning of each script, others are collected from the [omz:forum](https://forum.omz-software.com), or other coding communities.
+
+I maintain this repo as a backup for all my Pythonista Scripts.
+
+Changes, Forks and Pulls are welcomed for the wealth of the Pythonista Community.
+

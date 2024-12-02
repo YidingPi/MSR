@@ -1,0 +1,2 @@
+Score: 0.3342
+Vandana123456gouda/Python-code-to-reading-an-image-using-OpenCV- None  # Python-code-to-reading-an-image-using-OpenCV-

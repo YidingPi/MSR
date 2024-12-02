@@ -1,0 +1,17 @@
+Full Name: nikhilworld2604/Web-Scrapping-for-Healthcare-using-Python
+Description: vghvh
+created_at: 2021-09-30T06:00:47Z
+updated_at: 2021-09-30T06:08:06Z
+pushed_at: 2021-09-30T06:08:03Z
+Language: Jupyter Notebook
+URL: https://github.com/nikhilworld2604/Web-Scrapping-for-Healthcare-using-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Web-Scrapping-for-Healthcare-using-Python
+
+Developed and gather the data from 51 pharma websites such as Product Name, Company Name, email id, Contact No, City, Address, Cas No. Converted all the website into text and also converted non-English text to English text.
+
+Libraries-Pandas, NumPy, Beautiful Soup, Spacy, googletrans, chemdataextractor,geopy
+

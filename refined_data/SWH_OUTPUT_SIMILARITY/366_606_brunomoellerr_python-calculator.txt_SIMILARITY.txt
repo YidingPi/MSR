@@ -1,0 +1,4 @@
+Score: 0.4406
+brunomoellerr/python-calculator None  ## Python Calculator
+
+not all the buttons work. This calculator only has basic functions and it was made for PyQT studies purposes.

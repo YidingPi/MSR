@@ -1,0 +1,12 @@
+Full Name: komalchavan1418/simple-linear-regression-using-python
+Description: None
+created_at: 2021-12-03T11:28:59Z
+updated_at: 2021-12-03T11:29:52Z
+pushed_at: 2021-12-03T11:29:50Z
+Language: Jupyter Notebook
+URL: https://github.com/komalchavan1418/simple-linear-regression-using-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

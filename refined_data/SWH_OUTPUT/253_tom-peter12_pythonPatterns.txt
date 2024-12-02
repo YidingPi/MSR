@@ -1,0 +1,14 @@
+Full Name: tom-peter12/pythonPatterns
+Description: Printing patterns with Python
+created_at: 2020-12-14T21:44:06Z
+updated_at: 2020-12-14T21:45:24Z
+pushed_at: 2020-12-14T21:45:22Z
+Language: Python
+URL: https://github.com/tom-peter12/pythonPatterns
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# pythonPatterns
+Printing patterns with Python
+

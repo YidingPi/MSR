@@ -1,0 +1,37 @@
+ID: 23
+Full Name: Yonv1943/Python
+Description: Demo and other Python3 code
+Created At: 2018-06-08T04:36:49Z
+Updated At: 2024-11-26T09:50:37Z
+Pushed At: 2024-01-06T13:57:20Z
+Language: Python
+URL: https://github.com/Yonv1943/Python
+Forks: 356
+Stars: 671
+Topics: 
+README:
+# Python
+
+
+git clone https://github.com/Yonv1943/Python
+
+git config --global user.email "*@qq.com"
+
+git config --global user.name "Yonv"
+
+
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+
+
+git remote add origin git@github.com:Yonv1943/Python.git
+
+git push -u origin master
+
+
+

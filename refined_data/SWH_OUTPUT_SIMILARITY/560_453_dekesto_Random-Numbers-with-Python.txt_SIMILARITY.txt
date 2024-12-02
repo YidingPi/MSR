@@ -1,0 +1,2 @@
+Score: 0.3760
+dekesto/Random-Numbers-with-Python Random numbers from input with Python 3  

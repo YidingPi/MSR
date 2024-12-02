@@ -1,0 +1,23 @@
+ID: 415
+Full Name: Anjan50/Python
+Description: Different type of program list and project
+Created At: 2020-10-05T10:33:13Z
+Updated At: 2024-05-28T08:23:47Z
+Pushed At: 2023-10-29T16:16:51Z
+Language: SCSS
+URL: https://github.com/Anjan50/Python
+Forks: 87
+Stars: 18
+Topics: hacktoberfest, hacktoberfest2021, python
+README:
+# Python
+Different type of program list and project
+## Add files in proper folder only
+
+## Contributors 🦸
+
+<p align="center">
+  <a href="https://github.com/Anjan50/python/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=Anjan50/python" /></a>
+</p>
+
+

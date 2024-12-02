@@ -1,0 +1,14 @@
+Full Name: dmnhwjin/python_prog
+Description: python编程的练习
+created_at: 2018-09-30T09:41:47Z
+updated_at: 2018-10-10T02:31:56Z
+pushed_at: 2018-10-10T02:31:55Z
+Language: Python
+URL: https://github.com/dmnhwjin/python_prog
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_prog
+python编程的练习
+

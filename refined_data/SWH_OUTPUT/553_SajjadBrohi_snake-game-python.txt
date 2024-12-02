@@ -1,0 +1,43 @@
+Full Name: SajjadBrohi/snake-game-python
+Description: None
+created_at: 2019-11-26T14:00:27Z
+updated_at: 2020-08-27T11:35:56Z
+pushed_at: 2020-08-27T11:35:54Z
+Language: Python
+URL: https://github.com/SajjadBrohi/snake-game-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Snake Game
+
+Everyone's favorite Snake Xenzia game created in Python as a fun challenge. 
+
+![Picture of game](https://i.imgur.com/oTnITfx.png)
+
+## How to play
+
+**Using an IDE**
+
+The recommended way to run the game. Run the 'game.py' file inside PyCharm or any IDE that supports Python.
+
+**Using the terminal**
+
+Before using the source code, you will need to install tkinter using the following code:
+
+```
+sudo apt-get install python3-tk 
+```
+
+Download the source code and run the game through the terminal by opening game.py on python3 as follows:
+
+```
+python3 game.py
+```
+
+## Uses
+
+1. tkinter (GUI)
+
+2. Object Oriented Programming (MVC Pattern)
+

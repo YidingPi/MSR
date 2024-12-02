@@ -1,0 +1,5 @@
+Score: 0.4154
+cpalileo/Python-16Day-Crashcourse None  # Python-16Day-Crashcourse
+
+Day 1 Challenge: Beer Brand Maker
+Day 2 Challenge: Commission Calculator

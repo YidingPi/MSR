@@ -1,0 +1,17 @@
+Full Name: himakiran/Python_Scripts
+Description: Python scripts related to infosec and automation
+created_at: 2018-10-15T19:43:50Z
+updated_at: 2018-10-15T19:51:24Z
+pushed_at: 2018-10-15T19:51:23Z
+Language: Python
+URL: https://github.com/himakiran/Python_Scripts
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python_Scripts
+
+## This folder contains all the pythons cripts i have coded as a part of my learning
+## python for infosec/data-science and pure automation of daily tasks.
+
+

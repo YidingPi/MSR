@@ -1,0 +1,16 @@
+Full Name: wasimkhana/PythonRegEx
+Description: The regular expression are explained
+created_at: 2020-10-06T09:52:11Z
+updated_at: 2022-09-07T09:42:10Z
+pushed_at: 2020-10-06T10:13:37Z
+Language: Python
+URL: https://github.com/wasimkhana/PythonRegEx
+Forks: 0
+Stars: 3
+Topics: 
+README:
+# PythonRegEx
+The regular expression are explained for beginners and others who want to revise.
+Here you will know about the different symbols that are used for regular expression in python.
+simple examples are given that you may easly understand.
+

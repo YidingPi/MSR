@@ -1,0 +1,8 @@
+Score: 0.3466
+TheodoreRap/Movie-Suggestion-using-Python Python Recommendation Program config, github-config, matplotlib-pyplot, pandas, pandas-python, python, recommendation # Movie Suggestion using Python
+
+Movie recommendation based on the common interest of users
+
+Using "matplotlib.pyplot" and "pandas" modules
+
+* csv files not included

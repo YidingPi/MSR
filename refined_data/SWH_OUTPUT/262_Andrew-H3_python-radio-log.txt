@@ -1,0 +1,15 @@
+Full Name: Andrew-H3/python-radio-log
+Description: A program for logging radio contacts.
+created_at: 2017-08-10T18:20:30Z
+updated_at: 2023-04-15T22:19:21Z
+pushed_at: 2017-08-15T02:43:20Z
+Language: Python
+URL: https://github.com/Andrew-H3/python-radio-log
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-radio-log
+A program for logging radio contacts.
+Just a simple python program for logging radio contacts. Using csv to store logs.
+

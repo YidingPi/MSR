@@ -1,0 +1,3 @@
+Full Name: wemake-services/wemake-python-styleguide
+Updated - Created (days): 2459 days
+Pushed - Created (days): 2459 days

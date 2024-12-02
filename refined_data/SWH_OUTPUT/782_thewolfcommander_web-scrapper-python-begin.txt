@@ -1,0 +1,15 @@
+Full Name: thewolfcommander/web-scrapper-python-begin
+Description: A simple beginner web scrapper in python
+created_at: 2020-04-16T13:14:55Z
+updated_at: 2020-04-18T09:11:23Z
+pushed_at: 2022-12-08T09:34:51Z
+Language: Python
+URL: https://github.com/thewolfcommander/web-scrapper-python-begin
+Forks: 0
+Stars: 0
+Topics: 
+README:
+
+# Various Web Scrappers to do multiple tasks
+
+

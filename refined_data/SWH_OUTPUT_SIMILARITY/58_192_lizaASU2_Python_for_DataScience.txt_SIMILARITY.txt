@@ -1,0 +1,2 @@
+Score: 0.5759
+lizaASU2/Python_for_DataScience None  # Задания по курсу Python_for_DataScience Гребеньщковой Елизаветы Витальевны

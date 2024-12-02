@@ -1,0 +1,14 @@
+Full Name: tpjsolomon/IBM-Python-Project
+Description: None
+created_at: 2022-10-21T15:51:30Z
+updated_at: 2022-10-21T15:55:18Z
+pushed_at: 2022-10-21T15:55:14Z
+Language: Jupyter Notebook
+URL: https://github.com/tpjsolomon/IBM-Python-Project
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# IBM-Python-Project
+This repository contains my final assignment submission for the IBM Python project.
+

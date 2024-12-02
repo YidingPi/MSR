@@ -1,0 +1,12 @@
+Full Name: ak991983/python_os
+Description: None
+created_at: 2021-05-29T11:54:40Z
+updated_at: 2021-05-31T20:19:33Z
+pushed_at: 2021-05-31T20:21:30Z
+Language: None
+URL: https://github.com/ak991983/python_os
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

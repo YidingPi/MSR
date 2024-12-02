@@ -1,0 +1,13 @@
+ID: 851
+Full Name: yakinkampus/Python_Egitim
+Description: Yakin Kampüs-Yazilim Python kodlari, testleri ve daha fazlasi
+Created At: 2020-07-23T15:11:49Z
+Updated At: 2024-12-01T11:40:35Z
+Pushed At: 2021-09-19T19:14:30Z
+Language: Jupyter Notebook
+URL: https://github.com/yakinkampus/Python_Egitim
+Forks: 281
+Stars: 339
+Topics: 
+README:
+

@@ -1,0 +1,13 @@
+ID: 597
+Full Name: Kartavec/python
+Description: None
+Created At: 2018-06-20T15:56:43Z
+Updated At: 2023-01-31T17:01:29Z
+Pushed At: 2024-07-04T15:59:44Z
+Language: Python
+URL: https://github.com/Kartavec/python
+Forks: 75
+Stars: 4
+Topics: 
+README:
+# python

@@ -1,0 +1,23 @@
+ID: 366
+Full Name: BaneZhang/python
+Description: Learning Python3
+Created At: 2011-04-28T13:18:25Z
+Updated At: 2023-12-13T00:31:47Z
+Pushed At: 2011-04-30T15:23:16Z
+Language: Python
+URL: https://github.com/BaneZhang/python
+Forks: 35
+Stars: 36
+Topics: 
+README:
+学习Python 3过程中的一些随书实例和课后练习，欢迎交流。
+
+Dive Into Python 3
+9781430224150
+
+Programming in Python 3
+9787115245076
+
+Learning Python, Fourth Edition
+9787111326533
+

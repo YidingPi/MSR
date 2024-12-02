@@ -1,0 +1,15 @@
+Full Name: Rameshbaira/python
+Description: python to learn
+created_at: 2021-01-27T15:33:49Z
+updated_at: 2021-01-29T08:33:56Z
+pushed_at: 2021-01-29T08:33:53Z
+Language: None
+URL: https://github.com/Rameshbaira/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python
+python to learn
+pls help
+

@@ -1,0 +1,3 @@
+Score: 0.6341
+Mauluddin92/my-first-python-code None  # my-first-python-code
+ini adalah projeck pertama saya dengan python

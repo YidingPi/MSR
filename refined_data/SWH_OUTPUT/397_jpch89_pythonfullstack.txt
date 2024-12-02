@@ -1,0 +1,14 @@
+Full Name: jpch89/pythonfullstack
+Description: 本仓库存放 Python 全栈学习过程中的代码和笔记。
+created_at: 2018-09-07T03:45:08Z
+updated_at: 2019-05-12T03:24:46Z
+pushed_at: 2019-05-12T03:24:41Z
+Language: JavaScript
+URL: https://github.com/jpch89/pythonfullstack
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# pythonfullstack
+本仓库存放 Python 全栈学习过程中的代码和笔记。
+

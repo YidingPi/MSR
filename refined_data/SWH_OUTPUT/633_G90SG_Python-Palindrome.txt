@@ -1,0 +1,14 @@
+Full Name: G90SG/Python-Palindrome
+Description: None
+created_at: 2020-10-26T09:31:45Z
+updated_at: 2021-02-21T17:40:18Z
+pushed_at: 2021-02-21T17:40:16Z
+Language: Python
+URL: https://github.com/G90SG/Python-Palindrome
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python Palindrome
+Create a Python Program to accept input of a word or string from a user, then advise whether it is a Palindrome
+

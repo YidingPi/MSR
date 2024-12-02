@@ -1,0 +1,39 @@
+Full Name: NikFMatten/PythonFoundations
+Description: Foundations to Python
+created_at: 2022-08-15T16:37:16Z
+updated_at: 2022-08-15T16:39:25Z
+pushed_at: 2022-08-22T15:08:22Z
+Language: Python
+URL: https://github.com/NikFMatten/PythonFoundations
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonFoundations
+Foundations to Python
+
+
+# Using Git
+
+- Right click local repo folder
+- Click 'Git Bash Here'
+
+
+git clone (https:// .... )  # for new repo, place cloned files from new folder into previous folder (remote repo files into local repo files)
+
+git status - Check for staged and untracked changes
+gid add . - add all untracked files to staging (notice the trailing persiod)
+git commit -m "message" - commit staged files
+git pull - pull code from remote repo to local repo
+git push - push commits to remote repo
+
+# Using GitHub
+
+GitHub Access Token:
+Click upper right Profile icon, Settings
+Bottom Left, "<> Developer settings"
+Left side, "Personal access tokens"
+Generate new token
+Note - what is the access token for?
+Select Scopes - allow access to what permissions
+Generate Token

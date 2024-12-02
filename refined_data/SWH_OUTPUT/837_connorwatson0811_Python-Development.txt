@@ -1,0 +1,15 @@
+Full Name: connorwatson0811/Python-Development
+Description: This repository contains multiple programs that I have implemented using Python.
+created_at: 2017-11-23T03:36:04Z
+updated_at: 2021-04-02T13:58:33Z
+pushed_at: 2021-03-17T03:35:27Z
+Language: Python
+URL: https://github.com/connorwatson0811/Python-Development
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python Code
+
+This repository contains multiple programs that I have implemented using Python. These weren't for any course necessarily, just some scripts that I worked on.
+

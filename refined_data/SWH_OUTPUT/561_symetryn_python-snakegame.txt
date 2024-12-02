@@ -1,0 +1,12 @@
+Full Name: symetryn/python-snakegame
+Description: Simple snake game with python and pygame
+created_at: 2019-02-15T09:20:26Z
+updated_at: 2019-11-06T09:43:24Z
+pushed_at: 2019-02-15T09:26:51Z
+Language: Python
+URL: https://github.com/symetryn/python-snakegame
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

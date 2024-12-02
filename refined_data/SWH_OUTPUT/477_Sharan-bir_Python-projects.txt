@@ -1,0 +1,12 @@
+Full Name: Sharan-bir/Python-projects
+Description: None
+created_at: 2023-09-14T17:40:18Z
+updated_at: 2023-09-14T17:48:51Z
+pushed_at: 2023-09-14T17:48:48Z
+Language: Python
+URL: https://github.com/Sharan-bir/Python-projects
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

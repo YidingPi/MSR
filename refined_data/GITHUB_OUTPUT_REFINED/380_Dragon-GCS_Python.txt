@@ -1,0 +1,15 @@
+ID: 380
+Full Name: Dragon-GCS/Python
+Description: Public Repository
+Created At: 2020-09-14T10:17:27Z
+Updated At: 2024-11-22T02:58:37Z
+Pushed At: 2021-02-01T14:41:50Z
+Language: Python
+URL: https://github.com/Dragon-GCS/Python
+Forks: 68
+Stars: 38
+Topics: python, tensorflow2
+README:
+# Python
+Python Repository
+

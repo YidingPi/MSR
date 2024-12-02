@@ -1,0 +1,13 @@
+ID: 553
+Full Name: edyoda/python
+Description: Learn Python by Coding
+Created At: 2016-11-12T10:59:18Z
+Updated At: 2023-11-23T20:43:23Z
+Pushed At: 2020-10-01T06:15:04Z
+Language: Jupyter Notebook
+URL: https://github.com/edyoda/python
+Forks: 36
+Stars: 16
+Topics: python
+README:
+

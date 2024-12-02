@@ -1,0 +1,10 @@
+Score: 0.3657
+Tenebraelle/python_class This is the repo for the into to python class  HELLO WORLD
+
+TO UPLOAD TO GITHUB
+
+git Touch - Creates new file
+git add filename.whatever
+git status to confirm
+git commit -> ctrl+x -> enter enter
+git push origin master

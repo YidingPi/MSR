@@ -1,0 +1,15 @@
+Full Name: kimaninyutu/Python-Full-codes
+Description: Deep dive into python learning
+created_at: 2022-08-24T08:45:44Z
+updated_at: 2022-08-24T08:53:36Z
+pushed_at: 2022-08-24T09:09:42Z
+Language: Python
+URL: https://github.com/kimaninyutu/Python-Full-codes
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-Full-codes
+Deep dive into python learning
+
+

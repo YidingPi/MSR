@@ -1,0 +1,14 @@
+Full Name: memente1/Stat-code-in-python
+Description: Some basis statistics code in Python
+created_at: 2017-07-25T11:20:03Z
+updated_at: 2017-07-25T12:38:22Z
+pushed_at: 2017-07-25T12:38:20Z
+Language: Jupyter Notebook
+URL: https://github.com/memente1/Stat-code-in-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Stat-code-in-python
+Some basis statistics code in Python
+

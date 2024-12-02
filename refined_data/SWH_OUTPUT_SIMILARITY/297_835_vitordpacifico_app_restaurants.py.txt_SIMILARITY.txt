@@ -1,0 +1,2 @@
+Score: 0.4622
+vitordpacifico/app_restaurants.py aula alura de pyhon  Restaurant application in python language, just testing for class, not working so much.

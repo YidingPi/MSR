@@ -1,0 +1,14 @@
+Full Name: GeorgeMosch/PythonRegressionApplication
+Description: Machine learning algorithm to a dataset using Python libraries
+created_at: 2016-12-19T15:46:51Z
+updated_at: 2017-01-23T13:38:12Z
+pushed_at: 2017-01-23T13:37:39Z
+Language: Python
+URL: https://github.com/GeorgeMosch/PythonRegressionApplication
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonRegressionApplication2
+Machine learning algorithm to a dataset using Python libraries
+

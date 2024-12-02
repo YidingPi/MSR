@@ -1,0 +1,18 @@
+Full Name: vbsreddy1/python
+Description: Working with Python
+created_at: 2019-11-27T15:47:06Z
+updated_at: 2020-07-23T14:22:42Z
+pushed_at: 2020-07-23T14:22:40Z
+Language: Jupyter Notebook
+URL: https://github.com/vbsreddy1/python
+Forks: 1
+Stars: 3
+Topics: 
+README:
+# Python
+
+
+**Basics** - My Learning with Python
+
+**Challenges** - Programs solved on different platforms.
+

@@ -1,0 +1,21 @@
+ID: 232
+Full Name: WillKoehrsen/Data-Analysis
+Description: Data Science Using Python
+Created At: 2017-03-15T19:13:06Z
+Updated At: 2024-12-01T23:32:48Z
+Pushed At: 2023-07-08T14:08:19Z
+Language: Jupyter Notebook
+URL: https://github.com/WillKoehrsen/Data-Analysis
+Forks: 3643
+Stars: 5225
+Topics: 
+README:
+# Data-Analysis
+Data Science Projects Using Python and a little R. 
+
+This repository is a place to share my code and notebooks for numerous data science projects.
+
+Many of these projects are written up on my [Towards Data Science Medium page](https://medium.com/@williamkoehrsen). 
+
+Reach me on Twitter [@koehrsen_will](https://twitter.com/@koehrsen_will)
+

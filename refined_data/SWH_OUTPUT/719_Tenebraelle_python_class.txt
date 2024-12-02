@@ -1,0 +1,20 @@
+Full Name: Tenebraelle/python_class
+Description: This is the repo for the into to python class
+created_at: 2016-07-23T15:09:55Z
+updated_at: 2016-07-23T15:09:55Z
+pushed_at: 2016-07-23T15:29:07Z
+Language: None
+URL: https://github.com/Tenebraelle/python_class
+Forks: 0
+Stars: 0
+Topics: 
+README:
+HELLO WORLD
+
+TO UPLOAD TO GITHUB
+
+git Touch - Creates new file
+git add filename.whatever
+git status to confirm
+git commit -> ctrl+x -> enter enter
+git push origin master

@@ -1,0 +1,12 @@
+Full Name: xavivars/python-utils
+Description: Some python scripts to edit text
+created_at: 2014-08-07T19:01:56Z
+updated_at: 2014-08-07T19:03:48Z
+pushed_at: 2014-08-07T19:08:39Z
+Language: Python
+URL: https://github.com/xavivars/python-utils
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

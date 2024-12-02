@@ -1,0 +1,10 @@
+Score: 0.2346
+Just1B/pythonista-instagram-tag Little script to scrap posts number from hashtags  ## Instagram tag scrapper
+
+Install the chromedriver on mac :
+
+    brew install chromedriver
+
+Install the python3 dependencies
+
+    pip3 install -r requirements.txt

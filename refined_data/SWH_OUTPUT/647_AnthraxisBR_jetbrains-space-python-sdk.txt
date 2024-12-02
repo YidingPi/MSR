@@ -1,0 +1,50 @@
+Full Name: AnthraxisBR/jetbrains-space-python-sdk
+Description: Jetbrains Space Python SDK (under development)
+created_at: 2019-12-25T23:48:34Z
+updated_at: 2020-02-14T00:47:41Z
+pushed_at: 2020-02-14T00:47:38Z
+Language: Python
+URL: https://github.com/AnthraxisBR/jetbrains-space-python-sdk
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# jetbrains-space-python-sdk
+
+Jetbrains Space Python SDK (under development)
+
+# Generate a Access Token: 
+
+1. Fill .env with your space data
+2. Call helper/generate_space_authorization_code.py
+3. Follow instructions to generate your access token
+
+# Use: 
+    
+Set SPACE_ACCESS_TOKEN in your project .env:
+    
+To import all methods:
+
+    from space import *
+
+To import only specific module:
+
+    from space.project import *
+    
+To import only one specific method:
+    
+    from space.project.administrators.members import add_administrator
+
+# Example of call:
+
+    from space.project.administrators.members import add_administrator
+    projects = Projects()
+    response = add_administrator(projects, projectId='your-project-id', profileId='your-profile-id')
+
+#TODO
+1. Auto refresh token
+2. Most part of routes
+3. Implement Tests
+4. Tutorial
+
+

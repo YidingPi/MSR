@@ -1,0 +1,12 @@
+Full Name: saveliyshatrov/python-vk_api-bot
+Description: None
+created_at: 2020-03-29T15:17:07Z
+updated_at: 2020-04-29T14:39:25Z
+pushed_at: 2020-04-29T14:39:22Z
+Language: Python
+URL: https://github.com/saveliyshatrov/python-vk_api-bot
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

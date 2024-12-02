@@ -1,0 +1,16 @@
+Full Name: chnrv99/Crashing-the-machine-using-Python
+Description: DO NOT RUN IT ON YOUR PC! I am not responsible for any damages that may occur..
+created_at: 2022-08-03T09:17:03Z
+updated_at: 2022-08-03T09:30:34Z
+pushed_at: 2022-08-03T09:32:20Z
+Language: Python
+URL: https://github.com/chnrv99/Crashing-the-machine-using-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Crashing-the-machine-using-Python(just-3-lines!)
+DO NOT RUN IT ON YOUR PC! I am not responsible for any damages that may occur..
+Change it to .exe file for more realism
+Maybe you can store this code on the windows/linux startup files so that everytime the user reboots, his/her system will crash.
+

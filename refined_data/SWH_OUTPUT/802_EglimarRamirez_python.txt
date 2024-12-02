@@ -1,0 +1,14 @@
+Full Name: EglimarRamirez/python
+Description: ejercicios básicos de python realizados durante el curso introductorio
+created_at: 2022-07-14T21:38:03Z
+updated_at: 2022-07-14T23:50:48Z
+pushed_at: 2022-07-22T16:00:12Z
+Language: Jupyter Notebook
+URL: https://github.com/EglimarRamirez/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python
+ejercicios básicos de python realizados durante el curso introductorio
+

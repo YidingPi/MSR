@@ -1,0 +1,15 @@
+Full Name: RedBucketRealty/hello-world-python
+Description: Create and deploy a python helloworld app in flask to get started
+created_at: 2022-05-10T16:17:55Z
+updated_at: 2022-05-10T16:17:55Z
+pushed_at: 2022-05-17T16:20:23Z
+Language: None
+URL: https://github.com/RedBucketRealty/hello-world-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# hello-world-python
+
+Create and deploy a python helloworld app in flask to get started.
+

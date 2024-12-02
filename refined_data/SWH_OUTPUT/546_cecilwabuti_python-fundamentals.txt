@@ -1,0 +1,16 @@
+Full Name: cecilwabuti/python-fundamentals
+Description: understanding the basics of  python
+created_at: 2020-12-27T22:47:30Z
+updated_at: 2020-12-27T23:04:41Z
+pushed_at: 2020-12-27T23:04:39Z
+Language: Python
+URL: https://github.com/cecilwabuti/python-fundamentals
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-fundamentals
+understanding the basics of  python
+Start from the basics for easy understanding of children below age of 15 year to 7 years
+I try to get them into world of programming.
+

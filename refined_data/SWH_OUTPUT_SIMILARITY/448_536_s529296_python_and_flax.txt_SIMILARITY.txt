@@ -1,0 +1,7 @@
+Score: 0.4148
+s529296/python_and_flax None  # Python and Flax
+## Group Members: 
+* Sneha Ojha [github](https://github.com/osneha)
+* Noah Chase [github](https://github.com/s529296)
+* Enid Maharjan [github](https://github.com/strygwyr555)
+* Susan Maharjan [github](https://github.com/susanmaharjan)

@@ -1,0 +1,26 @@
+ID: 166
+Full Name: AllenDowney/ThinkPython2
+Description: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
+Created At: 2015-07-02T16:42:18Z
+Updated At: 2024-11-27T04:38:43Z
+Pushed At: 2024-04-09T22:30:06Z
+Language: TeX
+URL: https://github.com/AllenDowney/ThinkPython2
+Forks: 1656
+Stars: 2512
+Topics: 
+README:
+ThinkPython
+===========
+
+LaTeX source, code examples, and exercise solutions for Think Python, 2nd edition, by Allen Downey.
+
+You can download this book in PDF from [Green Tea Press](http://greenteapress.com/wp/think-python-2e/) or buy it in paper and other formats from [O'Reilly Media](http://shop.oreilly.com/product/0636920045267.do).
+
+To build the book from source you will need a LaTeX installion.  I recommend the TeX Live distribution with the following packages:
+
+* texlive-latex-base
+* texlive-latex-extra
+* texlive-fonts-recommended
+
+

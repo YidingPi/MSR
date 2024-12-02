@@ -1,0 +1,17 @@
+ID: 107
+Full Name: RekhuGopal/PythonHacks
+Description: This repo contains some solved python hacker codes 
+Created At: 2021-04-29T05:57:31Z
+Updated At: 2024-11-30T18:33:03Z
+Pushed At: 2024-11-30T18:32:58Z
+Language: Python
+URL: https://github.com/RekhuGopal/PythonHacks
+Forks: 806
+Stars: 434
+Topics: 
+README:
+# PythonHacks
+This repo contains some solved python codes dedicated for below two cases.
+1)  Some solved hacker code , which developers will face ( has to solve) during hiring process.
+2)  AWS Cloud boto3 module usage - for Lambda and any other services aimed at automation.
+

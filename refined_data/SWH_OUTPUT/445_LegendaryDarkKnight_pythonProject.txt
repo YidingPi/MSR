@@ -1,0 +1,12 @@
+Full Name: LegendaryDarkKnight/pythonProject
+Description: None
+created_at: 2023-01-02T08:27:36Z
+updated_at: 2023-01-02T08:27:36Z
+pushed_at: 2023-01-02T08:27:36Z
+Language: None
+URL: https://github.com/LegendaryDarkKnight/pythonProject
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

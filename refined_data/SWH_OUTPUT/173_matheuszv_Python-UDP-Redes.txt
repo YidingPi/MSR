@@ -1,0 +1,12 @@
+Full Name: matheuszv/Python-UDP-Redes
+Description: Uma aplicação do tipo cliente/servidor que encaminha requisições para o servidor que está executando através dos protocolos UDP/IP no endereço IP 15.228.191.109 e porta 50000.
+created_at: 2024-04-26T22:28:02Z
+updated_at: 2024-05-09T02:27:06Z
+pushed_at: 2024-05-09T02:27:02Z
+Language: Python
+URL: https://github.com/matheuszv/Python-UDP-Redes
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

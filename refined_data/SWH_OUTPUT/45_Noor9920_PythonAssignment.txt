@@ -1,0 +1,14 @@
+Full Name: Noor9920/PythonAssignment
+Description: Assignments
+created_at: 2018-08-18T13:53:37Z
+updated_at: 2018-09-29T18:01:23Z
+pushed_at: 2018-09-29T18:01:22Z
+Language: Python
+URL: https://github.com/Noor9920/PythonAssignment
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonAssignment
+Assignments
+

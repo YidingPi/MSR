@@ -1,0 +1,12 @@
+Full Name: Omprakash5694/Ineuron-python-basic-Assignment
+Description: None
+created_at: 2022-12-07T15:11:10Z
+updated_at: 2022-12-09T06:33:59Z
+pushed_at: 2022-12-13T09:53:08Z
+Language: Jupyter Notebook
+URL: https://github.com/Omprakash5694/Ineuron-python-basic-Assignment
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

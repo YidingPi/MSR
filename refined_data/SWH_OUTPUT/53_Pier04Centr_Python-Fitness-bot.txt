@@ -1,0 +1,17 @@
+Full Name: Pier04Centr/Python-Fitness-bot
+Description: A bot created by me still under development, useful to create a diet for every need, thanks also to the use of some APIs you can get nutritional values on foods
+created_at: 2022-02-12T14:51:06Z
+updated_at: 2022-02-12T14:57:03Z
+pushed_at: 2022-02-12T15:21:02Z
+Language: Python
+URL: https://github.com/Pier04Centr/Python-Fitness-bot
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-Fitness-bot
+A bot created by me still under development, useful to create a diet for every need, thanks also to the use of some APIs you can get nutritional values on foods.
+Currently the choice n2 relative to the macros does not work I am working to resolve the problem
+# Code Usage
+you can use it as you like the code is at your disposal, but if you need to make changes I ask you to share them with me
+

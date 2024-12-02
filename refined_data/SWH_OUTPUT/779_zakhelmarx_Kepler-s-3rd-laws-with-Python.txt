@@ -1,0 +1,14 @@
+Full Name: zakhelmarx/Kepler-s-3rd-laws-with-Python
+Description: Small Python script to solve Kepler's 3rd equation.
+created_at: 2021-11-18T10:19:15Z
+updated_at: 2021-11-18T10:20:47Z
+pushed_at: 2021-11-18T10:20:44Z
+Language: Python
+URL: https://github.com/zakhelmarx/Kepler-s-3rd-laws-with-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Kepler-s-3rd-laws-with-Python
+Small Python script to solve Kepler's 3rd equation.
+

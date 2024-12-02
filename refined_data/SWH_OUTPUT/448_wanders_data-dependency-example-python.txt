@@ -1,0 +1,12 @@
+Full Name: wanders/data-dependency-example-python
+Description: None
+created_at: 2022-03-08T22:10:28Z
+updated_at: 2022-03-08T22:10:50Z
+pushed_at: 2022-03-08T22:13:36Z
+Language: Python
+URL: https://github.com/wanders/data-dependency-example-python
+Forks: 1
+Stars: 0
+Topics: 
+README:
+

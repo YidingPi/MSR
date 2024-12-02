@@ -1,0 +1,58 @@
+ID: 134
+Full Name: vipstone/python
+Description: 关于python的系统学习笔记，深入浅出。
+Created At: 2018-04-05T04:33:04Z
+Updated At: 2024-11-04T23:06:57Z
+Pushed At: 2023-11-09T07:46:12Z
+Language: Python
+URL: https://github.com/vipstone/python
+Forks: 83
+Stars: 209
+Topics: 
+README:
+# 简介 #
+
+此项目为自学Python手记，每个支持点都有代码案例说明。
+
+如果你想系统的学习一下Python那么来看下面的文章就对了，深入浅出，带你进入Python的世界。
+
+# 开发环境 #
+
+- Windows 10
+- Python 3.6
+- Visual Studio Code（IDE）
+
+
+# 文章目录 #
+
+[开发环境搭建](开发环境搭建.md)
+
+[基础](基础.md)
+
+[变量](变量.md)
+
+[数据类型](数据类型.md)
+
+[条件判断和循环](条件判断和循环.md)
+
+[函数和类](函数和类.md)
+
+[模块](模块.md)
+
+[文件操作](文件操作.md)
+
+[异常处理](异常处理.md)
+
+[垃圾回收gc](垃圾回收gc.md)
+
+[多线程](多线程.md)
+
+[时间模块](时间模块.md)
+
+[http模块](http模块.md)
+
+[常用内置模块](常用内置模块.md)
+
+
+
+

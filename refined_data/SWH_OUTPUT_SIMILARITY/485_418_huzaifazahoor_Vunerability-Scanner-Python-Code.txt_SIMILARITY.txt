@@ -1,0 +1,2 @@
+Score: 0.3995
+huzaifazahoor/Vunerability-Scanner-Python-Code This vulnerability scanner is just use for XSS. You can add your functionaities too.  

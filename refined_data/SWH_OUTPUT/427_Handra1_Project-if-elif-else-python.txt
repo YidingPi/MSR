@@ -1,0 +1,19 @@
+Full Name: Handra1/Project-if-elif-else-python
+Description: This project about learning conditions (if, elif, else) in python
+created_at: 2022-03-15T07:04:31Z
+updated_at: 2022-03-15T07:56:56Z
+pushed_at: 2022-03-15T07:07:45Z
+Language: Python
+URL: https://github.com/Handra1/Project-if-elif-else-python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Project-if-elif-else-python
+This project about learning conditions (if, elif, else) in python
+
+Kondisi sering digunakan untuk memberikan pilihan dengan menggunakan if, elif, dan else.
+Percabangan if ini digunakan jika hanya memiliki 1 pernyataan yang akan dijalankan dengan syarat tertentu.
+Percabangan if else digunakan saat memiliki 2 pernyataan dengan syarat tertentu.
+Dan elif igunakan saat memiliki banyak kondisi (lebih dari 2) dan banyak pernyataan (lebih dari 2).
+

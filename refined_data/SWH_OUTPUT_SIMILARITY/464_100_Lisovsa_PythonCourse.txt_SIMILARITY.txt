@@ -1,0 +1,4 @@
+Score: 0.4095
+Lisovsa/PythonCourse None  # PythonCourse
+
+ Репозиторий для курса по питону с девочками.

@@ -1,0 +1,16 @@
+ID: 935
+Full Name: ariahendrawan713/python
+Description: Ini adalah repository untuk latihan dalam mengembangkan praktikum open source systems
+Created At: 2018-04-28T09:10:22Z
+Updated At: 2024-03-28T07:30:17Z
+Pushed At: 2022-02-15T06:48:30Z
+Language: Python
+URL: https://github.com/ariahendrawan713/python
+Forks: 104
+Stars: 1
+Topics: 
+README:
+# python
+Ini adalah repository untuk latihan dalam mengembangkan praktikum open source systems
+Cara menjalankan file python adalah dengan masuk ke terminal lalu ketikkan perintah python namaFILE.py
+

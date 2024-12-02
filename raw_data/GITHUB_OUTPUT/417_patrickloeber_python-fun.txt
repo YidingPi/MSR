@@ -1,0 +1,16 @@
+ID: 417
+Full Name: patrickloeber/python-fun
+Description: Some fun and useful projects with Python
+Created At: 2020-01-05T11:08:36Z
+Updated At: 2024-12-01T21:03:34Z
+Pushed At: 2023-10-11T15:11:59Z
+Language: Jupyter Notebook
+URL: https://github.com/patrickloeber/python-fun
+Forks: 562
+Stars: 744
+Topics: 
+README:
+## Fun and useful projects with Python
+
+You can find the corresponding tutorials on my channel: [https://www.youtube.com/c/PythonEngineer](https://www.youtube.com/c/PythonEngineer)
+

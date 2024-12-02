@@ -1,0 +1,12 @@
+Full Name: pratiksatham/PYTHON
+Description: None
+created_at: 2022-06-08T07:35:18Z
+updated_at: 2022-06-08T07:54:54Z
+pushed_at: 2022-06-08T08:41:41Z
+Language: Jupyter Notebook
+URL: https://github.com/pratiksatham/PYTHON
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

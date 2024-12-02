@@ -1,0 +1,13 @@
+Full Name: Chaplygin-vlad/python_basic_edu
+Description: None
+created_at: 2020-04-27T10:04:20Z
+updated_at: 2020-04-29T17:45:00Z
+pushed_at: 2020-04-29T17:44:58Z
+Language: Python
+URL: https://github.com/Chaplygin-vlad/python_basic_edu
+Forks: 0
+Stars: 0
+Topics: 
+README:
+python_basic_edu
+

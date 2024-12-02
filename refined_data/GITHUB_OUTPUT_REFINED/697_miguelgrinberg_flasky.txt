@@ -1,0 +1,24 @@
+ID: 697
+Full Name: miguelgrinberg/flasky
+Description: Companion code to my O'Reilly book "Flask Web Development", second edition.
+Created At: 2013-12-24T05:38:12Z
+Updated At: 2024-12-01T13:41:54Z
+Pushed At: 2024-06-30T10:53:23Z
+Language: Python
+URL: https://github.com/miguelgrinberg/flasky
+Forks: 4216
+Stars: 8556
+Topics: flask, python
+README:
+Flasky
+======
+
+This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
+
+The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+
+For Readers of the First Edition of the Book
+--------------------------------------------
+
+The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+

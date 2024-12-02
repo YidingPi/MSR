@@ -1,0 +1,12 @@
+Full Name: ykocaogullar/Python_3_Bootcamp
+Description: None
+created_at: 2020-01-06T12:30:20Z
+updated_at: 2020-01-06T12:46:25Z
+pushed_at: 2020-01-06T12:30:21Z
+Language: None
+URL: https://github.com/ykocaogullar/Python_3_Bootcamp
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

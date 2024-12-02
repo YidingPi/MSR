@@ -1,0 +1,12 @@
+Full Name: Maharshpatel1709/Cricket-alerts-in-Python
+Description: None
+created_at: 2021-01-26T11:38:55Z
+updated_at: 2022-07-19T12:36:31Z
+pushed_at: 2021-01-26T11:41:50Z
+Language: Python
+URL: https://github.com/Maharshpatel1709/Cricket-alerts-in-Python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+

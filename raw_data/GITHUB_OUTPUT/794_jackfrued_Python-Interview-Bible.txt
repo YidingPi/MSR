@@ -1,0 +1,13 @@
+ID: 794
+Full Name: jackfrued/Python-Interview-Bible
+Description: Python面试宝典2020版
+Created At: 2020-04-29T03:32:13Z
+Updated At: 2024-12-01T12:27:40Z
+Pushed At: 2022-03-08T09:08:42Z
+Language: None
+URL: https://github.com/jackfrued/Python-Interview-Bible
+Forks: 274
+Stars: 993
+Topics: 
+README:
+

@@ -1,0 +1,12 @@
+Full Name: sohamatgit/python-scripts
+Description: None
+created_at: 2022-07-06T13:28:54Z
+updated_at: 2022-07-06T13:28:54Z
+pushed_at: 2022-07-06T13:28:55Z
+Language: None
+URL: https://github.com/sohamatgit/python-scripts
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-scripts

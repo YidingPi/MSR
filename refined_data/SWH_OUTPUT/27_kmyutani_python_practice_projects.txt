@@ -1,0 +1,12 @@
+Full Name: kmyutani/python_practice_projects
+Description: This contain projects for practice purposes on Python.
+created_at: 2022-11-21T17:22:39Z
+updated_at: 2022-11-21T17:28:08Z
+pushed_at: 2022-11-21T17:42:57Z
+Language: Python
+URL: https://github.com/kmyutani/python_practice_projects
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,12 @@
+Full Name: Tomboyzzz/python
+Description: None
+created_at: 2018-06-20T01:36:52Z
+updated_at: 2018-06-20T02:42:07Z
+pushed_at: 2018-06-20T02:42:06Z
+Language: Jupyter Notebook
+URL: https://github.com/Tomboyzzz/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python1

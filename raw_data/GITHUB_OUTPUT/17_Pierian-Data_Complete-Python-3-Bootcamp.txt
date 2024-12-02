@@ -1,0 +1,22 @@
+ID: 17
+Full Name: Pierian-Data/Complete-Python-3-Bootcamp
+Description: Course Files for Complete Python 3 Bootcamp Course on Udemy
+Created At: 2018-02-12T19:30:10Z
+Updated At: 2024-12-02T03:51:23Z
+Pushed At: 2024-08-09T22:16:00Z
+Language: Jupyter Notebook
+URL: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+Forks: 85493
+Stars: 27609
+Topics: 
+README:
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+Copyright(©) by Pierian Data Inc.
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
+

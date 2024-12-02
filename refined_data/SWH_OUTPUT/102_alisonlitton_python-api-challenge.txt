@@ -1,0 +1,14 @@
+Full Name: alisonlitton/python-api-challenge
+Description: API's homework for UCSD coding bootcamp 
+created_at: 2020-07-09T21:06:35Z
+updated_at: 2020-07-14T05:44:02Z
+pushed_at: 2020-07-14T05:44:00Z
+Language: Jupyter Notebook
+URL: https://github.com/alisonlitton/python-api-challenge
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-api-challenge
+API's homework for UCSD coding bootcamp 
+

@@ -1,0 +1,5 @@
+Score: 0.5102
+priyansh19/HackerRank-Python Python Solution With Problem Statement  # :memo: HackerRank-Python
+ ```python
+ HackerRank Python Solution With Problem Statement 
+```

@@ -1,0 +1,3 @@
+Score: 0.4839
+Temam-Hashim/PYTHON-PROGRAM None  # PYTHON-PROGRAM
+This file contain selected and most useful python program and projects

@@ -1,0 +1,12 @@
+Full Name: nkduc88/Python_coding
+Description: Some small python projects
+created_at: 2022-09-13T05:44:46Z
+updated_at: 2022-09-13T05:48:10Z
+pushed_at: 2022-09-13T05:53:43Z
+Language: Python
+URL: https://github.com/nkduc88/Python_coding
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

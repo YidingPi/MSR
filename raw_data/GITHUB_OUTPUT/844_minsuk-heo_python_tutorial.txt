@@ -1,0 +1,15 @@
+ID: 844
+Full Name: minsuk-heo/python_tutorial
+Description: python tutorial
+Created At: 2017-11-11T03:44:11Z
+Updated At: 2024-08-26T17:23:03Z
+Pushed At: 2020-06-04T06:16:55Z
+Language: Jupyter Notebook
+URL: https://github.com/minsuk-heo/python_tutorial
+Forks: 345
+Stars: 210
+Topics: 
+README:
+# python_tutorial
+python tutorial
+

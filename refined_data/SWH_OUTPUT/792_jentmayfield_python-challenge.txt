@@ -1,0 +1,14 @@
+Full Name: jentmayfield/python-challenge
+Description: Py Me Up, Charlie
+created_at: 2018-11-09T13:10:04Z
+updated_at: 2018-11-10T19:54:27Z
+pushed_at: 2018-11-10T19:54:19Z
+Language: Python
+URL: https://github.com/jentmayfield/python-challenge
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-challenge
+Py Me Up, Charlie
+

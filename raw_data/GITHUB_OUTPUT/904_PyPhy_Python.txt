@@ -1,0 +1,15 @@
+ID: 904
+Full Name: PyPhy/Python
+Description: In this folder my all Python codes are stored.
+Created At: 2019-10-20T13:32:39Z
+Updated At: 2024-11-19T15:23:54Z
+Pushed At: 2021-05-02T07:01:47Z
+Language: Python
+URL: https://github.com/PyPhy/Python
+Forks: 44
+Stars: 15
+Topics: 
+README:
+# Python
+In this folder my all Python codes are stored.
+

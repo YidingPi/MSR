@@ -1,0 +1,15 @@
+ID: 727
+Full Name: zacharski/pg2dm-python
+Description: None
+Created At: 2015-07-01T22:14:38Z
+Updated At: 2024-12-02T05:53:33Z
+Pushed At: 2020-10-01T04:28:41Z
+Language: Python
+URL: https://github.com/zacharski/pg2dm-python
+Forks: 482
+Stars: 878
+Topics: 
+README:
+# pg2dm-python
+
+Python code for the free book [A Programmer's Guide to Data Mining](http://guidetodatamining.com)

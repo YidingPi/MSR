@@ -1,0 +1,12 @@
+Full Name: jianghan0001/python
+Description: None
+created_at: 2017-03-07T03:51:16Z
+updated_at: 2017-03-23T21:40:03Z
+pushed_at: 2017-06-02T14:54:03Z
+Language: Jupyter Notebook
+URL: https://github.com/jianghan0001/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

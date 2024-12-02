@@ -1,0 +1,14 @@
+ID: 747
+Full Name: platzi/curso_Python3
+Description: Repo del curso de Python con Python 3
+Created At: 2018-10-01T17:17:48Z
+Updated At: 2024-01-02T21:46:35Z
+Pushed At: 2020-10-01T10:13:15Z
+Language: Python
+URL: https://github.com/platzi/curso_Python3
+Forks: 143
+Stars: 90
+Topics: 
+README:
+# Platzi ventas (curso de Python)
+

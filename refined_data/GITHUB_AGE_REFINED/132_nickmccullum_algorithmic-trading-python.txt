@@ -1,0 +1,3 @@
+Full Name: nickmccullum/algorithmic-trading-python
+Updated - Created (days): 1584 days
+Pushed - Created (days): 1420 days

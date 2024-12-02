@@ -1,0 +1,3 @@
+Full Name: faif/python-patterns
+Updated - Created (days): 4561 days
+Pushed - Created (days): 4473 days

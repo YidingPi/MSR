@@ -1,0 +1,12 @@
+Full Name: aur-archive/python-docopt
+Description: None
+created_at: 2015-08-17T09:28:09Z
+updated_at: 2015-08-17T09:28:12Z
+pushed_at: 2015-08-17T09:28:11Z
+Language: Shell
+URL: https://github.com/aur-archive/python-docopt
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

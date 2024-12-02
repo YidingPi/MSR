@@ -1,0 +1,14 @@
+Full Name: hati555/python-kadai
+Description: python課題
+created_at: 2020-12-14T19:01:49Z
+updated_at: 2020-12-14T19:03:53Z
+pushed_at: 2020-12-14T19:03:51Z
+Language: Python
+URL: https://github.com/hati555/python-kadai
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-kadai
+python課題
+

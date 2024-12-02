@@ -1,0 +1,3 @@
+Score: 0.4350
+tom-peter12/pythonPatterns Printing patterns with Python  # pythonPatterns
+Printing patterns with Python

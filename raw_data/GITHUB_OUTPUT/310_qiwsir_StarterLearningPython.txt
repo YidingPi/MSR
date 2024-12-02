@@ -1,0 +1,22 @@
+ID: 310
+Full Name: qiwsir/StarterLearningPython
+Description: Learning Python: from Beginner to Master. https://lqlab.readthedocs.io
+Created At: 2015-02-23T08:31:37Z
+Updated At: 2024-10-25T16:15:16Z
+Pushed At: 2024-01-11T00:31:26Z
+Language: Python
+URL: https://github.com/qiwsir/StarterLearningPython
+Forks: 840
+Stars: 1845
+Topics: 
+README:
+# 注意：本书已经停止印刷，请学习者转到：《Python完全自学教程》中学习，这是一本开源免费的在线读物，地址：https://github.com/qiwsir/PythonBook
+
+# 《跟老齐学Python：轻松入门》
+
+本项目为《跟老齐学Python：轻松入门》一书的相关代码。此书是为初学Python的朋友而作，在各大网店有售。
+
+![](./python-book1.png)
+
+# 相关资源
+

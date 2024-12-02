@@ -1,0 +1,13 @@
+ID: 259
+Full Name: zwdnet/PythonPractice
+Description: 极客时间课程《Python核心技术与实战》课程练习实践。
+Created At: 2019-09-15T07:43:54Z
+Updated At: 2024-11-26T02:00:52Z
+Pushed At: 2024-10-06T07:23:35Z
+Language: HTML
+URL: https://github.com/zwdnet/PythonPractice
+Forks: 254
+Stars: 504
+Topics: 
+README:
+

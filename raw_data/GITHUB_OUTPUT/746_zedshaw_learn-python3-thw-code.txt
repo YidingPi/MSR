@@ -1,0 +1,15 @@
+ID: 746
+Full Name: zedshaw/learn-python3-thw-code
+Description: The code to Learn Python3 The Hard Way
+Created At: 2017-02-25T14:46:12Z
+Updated At: 2024-11-05T06:48:32Z
+Pushed At: 2019-05-29T03:03:06Z
+Language: Python
+URL: https://github.com/zedshaw/learn-python3-thw-code
+Forks: 155
+Stars: 313
+Topics: 
+README:
+This should be all the code from the Python 3 version of my book.  If you have changes then you can submit an issue, do a pull request, or email me at help@learncodethehardway.org, or mention it on the forum at https://forum.learncodethehardway.com/
+
+

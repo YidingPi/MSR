@@ -1,0 +1,16 @@
+Full Name: June202210/Python-Capstone-Project-911-calls
+Description: None
+created_at: 2022-12-15T13:32:28Z
+updated_at: 2022-12-15T13:33:24Z
+pushed_at: 2023-01-12T18:10:21Z
+Language: Jupyter Notebook
+URL: https://github.com/June202210/Python-Capstone-Project-911-calls
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-Capstone-Project-911-calls
+ This is a capstone project for analysing Emergency 911 calls dataset with Python. 
+ These emergency calls include fire, traffic, EMS call records for Montgomery County, PA, US.
+ Data is available on Kaggle. https://www.kaggle.com/datasets/mchirico/montcoalert
+

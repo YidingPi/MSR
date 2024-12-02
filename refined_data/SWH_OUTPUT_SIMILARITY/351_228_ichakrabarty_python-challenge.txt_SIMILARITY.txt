@@ -1,0 +1,6 @@
+Score: 0.4454
+ichakrabarty/python-challenge None  # Python-Accounting-Polling-Challenge
+
+Includes PyBank Challenge and PyPoll Challenge.
+
+Both folders for each challenge contain python code and a results file.

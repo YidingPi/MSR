@@ -1,0 +1,4 @@
+Score: 0.4152
+PythonNut/quantum-information.jl Simple things to help understand Physics 84: Quantum Information  # Quantum Information Helpers
+
+Just a collection of things to help me understand Physics 84 and quickly perform calculations related to the course.

@@ -1,0 +1,14 @@
+Full Name: Vanevo00/Python_exercises
+Description: Codewars Python exercises
+created_at: 2019-09-25T07:03:07Z
+updated_at: 2019-11-16T15:39:43Z
+pushed_at: 2019-11-16T15:44:08Z
+Language: Python
+URL: https://github.com/Vanevo00/Python_exercises
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python_exercises
+Codewars Python exercises
+

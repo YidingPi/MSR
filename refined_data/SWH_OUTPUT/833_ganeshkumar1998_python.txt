@@ -1,0 +1,12 @@
+Full Name: ganeshkumar1998/python
+Description: None
+created_at: 2018-06-05T06:36:22Z
+updated_at: 2018-06-05T10:17:04Z
+pushed_at: 2018-06-05T10:17:03Z
+Language: Python
+URL: https://github.com/ganeshkumar1998/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

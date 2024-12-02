@@ -1,0 +1,12 @@
+Full Name: Namratha369/Shapeai_python_data_analytics
+Description: None
+created_at: 2021-06-26T11:42:05Z
+updated_at: 2021-06-26T11:48:12Z
+pushed_at: 2021-06-26T11:48:10Z
+Language: Jupyter Notebook
+URL: https://github.com/Namratha369/Shapeai_python_data_analytics
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

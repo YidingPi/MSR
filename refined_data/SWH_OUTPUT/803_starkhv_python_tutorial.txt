@@ -1,0 +1,14 @@
+Full Name: starkhv/python_tutorial
+Description: Python OOP tutorial by Corey Schafer on YouTube
+created_at: 2017-08-29T12:57:56Z
+updated_at: 2017-08-29T13:03:40Z
+pushed_at: 2017-08-29T13:54:21Z
+Language: Python
+URL: https://github.com/starkhv/python_tutorial
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_tutorial
+Python OOP tutorial by Corey Schafer on YouTube
+

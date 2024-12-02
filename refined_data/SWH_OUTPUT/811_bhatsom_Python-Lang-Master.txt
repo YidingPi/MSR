@@ -1,0 +1,12 @@
+Full Name: bhatsom/Python-Lang-Master
+Description: Python language 1) essentials 2) advanced features and 3) data-science and machine learning  libraries such as Pandas, MatplotLib, NumPy, Scikit-learn etc..
+created_at: 2019-01-21T03:56:45Z
+updated_at: 2020-03-21T15:05:47Z
+pushed_at: 2020-02-18T05:03:26Z
+Language: Python
+URL: https://github.com/bhatsom/Python-Lang-Master
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

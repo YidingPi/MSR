@@ -1,0 +1,14 @@
+Full Name: R11manish/simple-blog-made-by-flask-python
+Description: this is simple bog made by python using flask module.....it is just my learning project
+created_at: 2020-03-18T06:06:53Z
+updated_at: 2023-03-07T07:34:34Z
+pushed_at: 2022-12-05T14:15:44Z
+Language: JavaScript
+URL: https://github.com/R11manish/simple-blog-made-by-flask-python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# simple-blog-made-by-flask-python
+this is simple bog made by python using flask module.....it is just my learning project
+

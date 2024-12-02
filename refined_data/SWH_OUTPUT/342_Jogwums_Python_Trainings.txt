@@ -1,0 +1,17 @@
+Full Name: Jogwums/Python_Trainings
+Description: Set of notebooks for learning python from scratch
+created_at: 2020-04-11T21:54:22Z
+updated_at: 2021-02-04T15:58:20Z
+pushed_at: 2021-02-04T15:58:18Z
+Language: Jupyter Notebook
+URL: https://github.com/Jogwums/Python_Trainings
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python_Trainings
+
+Set of notebooks for learning python from scratch
+
+Notebook format: Jupyter Notebook files written in Python 3.7.7
+

@@ -1,0 +1,12 @@
+Full Name: phuongthaodo/pythontraining
+Description: None
+created_at: 2019-05-02T02:28:49Z
+updated_at: 2019-05-02T02:28:49Z
+pushed_at: 2019-05-02T02:28:50Z
+Language: None
+URL: https://github.com/phuongthaodo/pythontraining
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

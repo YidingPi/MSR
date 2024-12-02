@@ -1,0 +1,19 @@
+Full Name: devanshisingh/Currency-Converter-using-Python
+Description: None
+created_at: 2021-06-30T11:30:58Z
+updated_at: 2021-07-08T14:01:42Z
+pushed_at: 2021-07-08T14:01:40Z
+Language: Python
+URL: https://github.com/devanshisingh/Currency-Converter-using-Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Currency-Converter-using-Python
+
+A simple application to convert curriencies based on the current exchange rate. Utilises the Python libraries 
+<ul>
+  <li>TKinter - To build the GUI for the application</li>
+  <li>Responses - To get the current exchange rates from the ExchangeRate API</li>
+</ul>
+

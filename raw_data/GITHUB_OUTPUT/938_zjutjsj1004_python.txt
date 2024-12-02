@@ -1,0 +1,18 @@
+ID: 938
+Full Name: zjutjsj1004/python
+Description: python学习（基本语法，爬虫，Web）
+Created At: 2017-04-29T09:29:21Z
+Updated At: 2024-11-13T07:07:11Z
+Pushed At: 2024-11-13T07:07:07Z
+Language: Python
+URL: https://github.com/zjutjsj1004/python
+Forks: 27
+Stars: 45
+Topics: 
+README:
+# python
+python学习（基本语法，爬虫，Web）
+
+
+1、python网络数据采集目录，其实就是书籍《python网络数据采集》/《Web Scraping with Python》中的例子
+

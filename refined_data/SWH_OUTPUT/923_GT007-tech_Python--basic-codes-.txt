@@ -1,0 +1,12 @@
+Full Name: GT007-tech/Python--basic-codes-
+Description: They are basic codes in python containing loops and arrays
+created_at: 2021-03-20T16:16:05Z
+updated_at: 2021-03-23T17:17:11Z
+pushed_at: 2021-03-23T17:17:09Z
+Language: Python
+URL: https://github.com/GT007-tech/Python--basic-codes-
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

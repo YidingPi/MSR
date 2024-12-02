@@ -1,0 +1,14 @@
+Full Name: shams33/Python_3_a_tutorial_for_dumbs_by_shams
+Description: Hello guys this is a tutorial provided by me for noobies who tried to learn python but brain fucked by boring teachers and also for the learners who are humiliated by society for having different intelligence
+created_at: 2020-01-21T14:59:11Z
+updated_at: 2020-01-26T20:31:37Z
+pushed_at: 2020-01-26T20:31:36Z
+Language: Python
+URL: https://github.com/shams33/Python_3_a_tutorial_for_dumbs_by_shams
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Python_3_a_tutorial_for_dumbs_by_shams
+Hello guys this is a tutorial provided by me for noobies who tried to learn python but brain fucked by boring teachers and also for the learners who are humiliated by society for having different intelligence
+

@@ -1,0 +1,12 @@
+Full Name: kzimmer495/PythonTraining
+Description: None
+created_at: 2020-03-03T18:46:43Z
+updated_at: 2020-03-03T18:46:43Z
+pushed_at: 2020-03-03T18:46:43Z
+Language: None
+URL: https://github.com/kzimmer495/PythonTraining
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,2 @@
+Score: 0.6232
+UrielMaceri/Python-Principiante None  # Ejercitacion de python dada en la materia "Paradigmas de Programacion" en la universidad UMET

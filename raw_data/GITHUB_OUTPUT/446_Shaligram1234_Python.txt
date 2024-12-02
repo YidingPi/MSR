@@ -1,0 +1,13 @@
+ID: 446
+Full Name: Shaligram1234/Python
+Description: None
+Created At: 2020-05-08T10:51:45Z
+Updated At: 2023-09-21T21:51:29Z
+Pushed At: 2023-09-21T22:26:41Z
+Language: Python
+URL: https://github.com/Shaligram1234/Python
+Forks: 46
+Stars: 14
+Topics: 
+README:
+

@@ -1,0 +1,12 @@
+Full Name: CalinRusu95/Python
+Description: None
+created_at: 2021-09-10T15:49:36Z
+updated_at: 2021-09-10T15:50:18Z
+pushed_at: 2021-09-10T15:50:16Z
+Language: Python
+URL: https://github.com/CalinRusu95/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

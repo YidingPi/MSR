@@ -1,0 +1,12 @@
+Full Name: hitsujinoke/study_python
+Description: None
+created_at: 2018-09-23T11:36:39Z
+updated_at: 2018-10-21T13:35:25Z
+pushed_at: 2018-10-21T13:35:24Z
+Language: Python
+URL: https://github.com/hitsujinoke/study_python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

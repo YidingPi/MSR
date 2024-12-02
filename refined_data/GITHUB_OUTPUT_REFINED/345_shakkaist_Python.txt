@@ -1,0 +1,13 @@
+ID: 345
+Full Name: shakkaist/Python
+Description: None
+Created At: 2017-10-19T03:19:02Z
+Updated At: 2023-03-11T00:20:30Z
+Pushed At: 2024-01-06T12:52:21Z
+Language: Jupyter Notebook
+URL: https://github.com/shakkaist/Python
+Forks: 79
+Stars: 13
+Topics: 
+README:
+

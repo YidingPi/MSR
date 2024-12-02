@@ -1,0 +1,12 @@
+Full Name: igortereshchenko/python_oracle_sqlalchemy
+Description: None
+created_at: 2019-05-29T21:32:17Z
+updated_at: 2020-08-08T10:01:03Z
+pushed_at: 2022-12-08T02:32:19Z
+Language: JavaScript
+URL: https://github.com/igortereshchenko/python_oracle_sqlalchemy
+Forks: 4
+Stars: 1
+Topics: 
+README:
+

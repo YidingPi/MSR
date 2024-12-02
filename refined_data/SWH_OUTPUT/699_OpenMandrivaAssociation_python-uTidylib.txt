@@ -1,0 +1,12 @@
+Full Name: OpenMandrivaAssociation/python-uTidylib
+Description: None
+created_at: 2015-07-23T21:20:53Z
+updated_at: 2024-10-17T00:52:31Z
+pushed_at: 2024-11-23T18:41:52Z
+Language: None
+URL: https://github.com/OpenMandrivaAssociation/python-uTidylib
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,23 @@
+Full Name: Cachemarra/Python-Machine-Learning-Blueprints
+Description: Projects in the Python Machine Learning Blueprints book 2d by Packt
+created_at: 2021-11-21T05:48:06Z
+updated_at: 2021-11-21T19:09:30Z
+pushed_at: 2021-11-22T06:18:40Z
+Language: None
+URL: https://github.com/Cachemarra/Python-Machine-Learning-Blueprints
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Machine Learning Blueprints by Packt
+
+This repository will have practices from the book Python Machine Learning Blueprints by Packt.
+
+All the content will be the material obtained by the book, so the rights aren't mine. Check the 
+book source to know all the details.
+
+If I can, i'll modify the practices to achieve better results or to expand the content.
+Feel free to clone and share your advances and tips! Let's create a better ML community together.
+
+**Repository maintained by [Cachemarra](https://github.com/Cachemarra/Python-Machine-Learning-Blueprints)**
+

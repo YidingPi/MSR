@@ -1,0 +1,5 @@
+Score: 0.4639
+himakiran/Python_Scripts Python scripts related to infosec and automation  # Python_Scripts
+
+## This folder contains all the pythons cripts i have coded as a part of my learning
+## python for infosec/data-science and pure automation of daily tasks.

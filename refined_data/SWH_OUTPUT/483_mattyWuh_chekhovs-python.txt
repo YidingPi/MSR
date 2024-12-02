@@ -1,0 +1,18 @@
+Full Name: mattyWuh/chekhovs-python
+Description: Chekhovs-python is a cookicutter template with preconfigured github python CI/CD.
+created_at: 2020-09-27T01:07:24Z
+updated_at: 2020-11-06T20:50:51Z
+pushed_at: 2020-11-06T20:50:48Z
+Language: Python
+URL: https://github.com/mattyWuh/chekhovs-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# chekhovs-python
+
+`chekhovs-python` is a cookicutter template with preconfigured github python CI/CD.
+When starting a new project there are many possibilities for where it will go.
+As Anton Chekhov has said
+
+> One must never place a loaded rifle on the stage if it isn't going to go off. It's wrong to make promises you don't mean to keep.

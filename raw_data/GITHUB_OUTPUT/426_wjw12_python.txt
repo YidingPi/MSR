@@ -1,0 +1,16 @@
+ID: 426
+Full Name: wjw12/python
+Description: Small programs by python newbie
+Created At: 2015-02-26T03:08:51Z
+Updated At: 2024-09-19T01:26:11Z
+Pushed At: 2022-03-17T01:38:54Z
+Language: Python
+URL: https://github.com/wjw12/python
+Forks: 63
+Stars: 33
+Topics: 
+README:
+# For learning python
+Small programs and exercise code
+Some are copied or revised from various books
+

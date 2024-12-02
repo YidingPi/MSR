@@ -1,0 +1,21 @@
+Full Name: Veena-Wanjari/Python_turtle
+Description: Python with Turtle
+created_at: 2020-08-27T01:07:07Z
+updated_at: 2020-08-27T01:12:13Z
+pushed_at: 2020-08-27T01:12:11Z
+Language: Python
+URL: https://github.com/Veena-Wanjari/Python_turtle
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python_turtle
+
+Python with Turtle
+
+Folder consists of three images using Python and Turtle
+
+1) turtle_image1 
+2) turtle_image2
+3) turtle_image3
+

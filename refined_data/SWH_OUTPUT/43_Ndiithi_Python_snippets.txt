@@ -1,0 +1,19 @@
+Full Name: Ndiithi/Python_snippets
+Description: Small python code snippets for reuse
+created_at: 2017-06-06T17:19:35Z
+updated_at: 2017-06-06T17:24:01Z
+pushed_at: 2017-08-18T14:59:54Z
+Language: Python
+URL: https://github.com/Ndiithi/Python_snippets
+Forks: 1
+Stars: 0
+Topics: 
+README:
+# Python_snippets
+conglomerate of python code snippets that are frequently used
+inludes:
+- Web scrapping scripts
+- Db utilities
+- Web scripts using (flask framework)
+- ORM scrits
+

@@ -1,0 +1,12 @@
+Full Name: EuanMurray/PythonBootcamp
+Description: None
+created_at: 2022-01-11T14:20:27Z
+updated_at: 2022-01-11T14:28:37Z
+pushed_at: 2022-01-11T20:44:28Z
+Language: Jupyter Notebook
+URL: https://github.com/EuanMurray/PythonBootcamp
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

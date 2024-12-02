@@ -1,0 +1,12 @@
+Full Name: SyntacticX/Python_Projects
+Description: Python Projects
+created_at: 2015-05-25T14:47:10Z
+updated_at: 2015-05-25T15:40:47Z
+pushed_at: 2015-05-25T17:12:47Z
+Language: Python
+URL: https://github.com/SyntacticX/Python_Projects
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

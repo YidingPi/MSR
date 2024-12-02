@@ -1,0 +1,2 @@
+Score: 0.4890
+DiegoVialle/Estatistica-com-Python-1 Este curso na Alura abordou os seguintes tópicos: Qual o seu tipo de dado? / Distribuição de frequência / Medidas de tendência central / Medidas separatrizes / Medidas de dispersão / Projeto final  # Estatistica-com-Python-1

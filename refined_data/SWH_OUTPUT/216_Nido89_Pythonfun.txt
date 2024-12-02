@@ -1,0 +1,12 @@
+Full Name: Nido89/Pythonfun
+Description: None
+created_at: 2018-10-30T09:05:52Z
+updated_at: 2018-10-30T10:25:39Z
+pushed_at: 2018-10-30T10:25:37Z
+Language: Python
+URL: https://github.com/Nido89/Pythonfun
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

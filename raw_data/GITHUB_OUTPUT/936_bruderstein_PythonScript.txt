@@ -1,0 +1,28 @@
+ID: 936
+Full Name: bruderstein/PythonScript
+Description: Python Script plugin for Notepad++
+Created At: 2010-07-24T23:26:13Z
+Updated At: 2024-12-02T06:11:10Z
+Pushed At: 2024-12-02T06:11:13Z
+Language: Python
+URL: https://github.com/bruderstein/PythonScript
+Forks: 66
+Stars: 357
+Topics: 
+README:
+# Python Script plugin for Notepad++
+see also http://npppythonscript.sourceforge.net/ (outdated, last update on version 1.0.8, see issue #120)
+
+Build Status
+------------
+
+[![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/bruderstein/PythonScript?branch=master&svg=true)](https://ci.appveyor.com/project/bruderstein/PythonScript)
+[![GitHub release](https://img.shields.io/github/release/bruderstein/PythonScript.svg)]()
+
+Interesting Addon Scripts
+-------------------------
+
+https://github.com/bitagoras/PyPadPlusPlus
+
+https://github.com/pryrt/pyscFilteredViewer
+

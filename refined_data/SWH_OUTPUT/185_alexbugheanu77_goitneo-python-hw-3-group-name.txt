@@ -1,0 +1,12 @@
+Full Name: alexbugheanu77/goitneo-python-hw-3-group-name
+Description: None
+created_at: 2024-04-05T19:35:46Z
+updated_at: 2024-04-06T12:18:33Z
+pushed_at: 2024-04-06T12:18:30Z
+Language: Python
+URL: https://github.com/alexbugheanu77/goitneo-python-hw-3-group-name
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

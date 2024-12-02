@@ -1,0 +1,15 @@
+ID: 40
+Full Name: roytuts/python
+Description: None
+Created At: 2019-04-29T06:47:06Z
+Updated At: 2024-11-16T13:13:14Z
+Pushed At: 2024-07-19T10:14:18Z
+Language: Python
+URL: https://github.com/roytuts/python
+Forks: 306
+Stars: 193
+Topics: 
+README:
+# python
+This repository provides code examples on Python programming. 
+

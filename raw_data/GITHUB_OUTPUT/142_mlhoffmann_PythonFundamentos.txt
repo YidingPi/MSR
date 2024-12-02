@@ -1,0 +1,23 @@
+ID: 142
+Full Name: mlhoffmann/PythonFundamentos
+Description: Repositório do Curso Online Python Fundamentos
+Created At: 2016-09-07T15:15:17Z
+Updated At: 2024-09-27T13:27:10Z
+Pushed At: 2016-08-26T03:55:46Z
+Language: Jupyter Notebook
+URL: https://github.com/mlhoffmann/PythonFundamentos
+Forks: 2450
+Stars: 14
+Topics: 
+README:
+# Python Fundamentos
+
+Data Science Academy - Python Fundamentos para Análise de Dados
+
+Seja Bem-vindo ao Repositório do curso Python Fundamentos para Análise de Dados. Aqui você encontra todos os Jupyter Notebooks usados no curso, bem como os exercícios.
+
+http://www.datascienceacademy.com.br
+
+
+
+

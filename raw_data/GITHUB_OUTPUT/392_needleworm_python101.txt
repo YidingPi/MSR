@@ -1,0 +1,13 @@
+ID: 392
+Full Name: needleworm/python101
+Description: [생능북스]에서 출간될 파이썬 교재 예제 코드입니다
+Created At: 2022-04-27T00:36:36Z
+Updated At: 2024-11-28T01:29:34Z
+Pushed At: 2023-01-01T02:48:05Z
+Language: Python
+URL: https://github.com/needleworm/python101
+Forks: 273
+Stars: 147
+Topics: 
+README:
+

@@ -1,0 +1,12 @@
+Full Name: Dominik12345/Python
+Description: None
+created_at: 2017-11-08T16:10:58Z
+updated_at: 2017-11-08T16:11:36Z
+pushed_at: 2017-12-15T16:22:39Z
+Language: Python
+URL: https://github.com/Dominik12345/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

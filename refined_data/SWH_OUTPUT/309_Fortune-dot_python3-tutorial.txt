@@ -1,0 +1,14 @@
+Full Name: Fortune-dot/python3-tutorial
+Description: This is the python3 tutorial code and examples
+created_at: 2021-02-02T12:20:45Z
+updated_at: 2021-02-02T12:20:49Z
+pushed_at: 2021-02-02T12:30:26Z
+Language: None
+URL: https://github.com/Fortune-dot/python3-tutorial
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python3-tutorial
+This is the python3 tutorial code and examples
+

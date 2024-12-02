@@ -1,0 +1,2 @@
+Score: 0.3539
+matheuszv/Python-UDP-Redes Uma aplicação do tipo cliente/servidor que encaminha requisições para o servidor que está executando através dos protocolos UDP/IP no endereço IP 15.228.191.109 e porta 50000.  

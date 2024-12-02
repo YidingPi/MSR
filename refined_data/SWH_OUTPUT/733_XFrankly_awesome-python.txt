@@ -1,0 +1,18 @@
+Full Name: XFrankly/awesome-python
+Description: A code list of Python chart
+created_at: 2019-04-22T02:42:58Z
+updated_at: 2019-10-12T07:34:24Z
+pushed_at: 2019-10-12T07:33:12Z
+Language: Python
+URL: https://github.com/XFrankly/awesome-python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+Supporting material for:
+
+| Ten Simple Rules for Better Figures
+| code
+| http://innsowl.club/post/25
+| http://innsowl.club/post/26
+

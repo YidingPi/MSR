@@ -1,0 +1,19 @@
+Full Name: KaOS-Community-Packages/python3-sexpdata
+Description: S-expression parser for Python.
+created_at: 2014-05-03T04:00:36Z
+updated_at: 2014-05-03T04:05:18Z
+pushed_at: 2014-05-03T04:05:16Z
+Language: None
+URL: https://github.com/KaOS-Community-Packages/python3-sexpdata
+Forks: 0
+Stars: 0
+Topics: 
+README:
+python3-sexpdata
+================
+
+Description:
+S-expression parser for Python.
+
+http://sexpdata.readthedocs.org
+

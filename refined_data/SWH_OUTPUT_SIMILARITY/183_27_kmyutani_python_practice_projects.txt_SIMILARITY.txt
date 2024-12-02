@@ -1,0 +1,2 @@
+Score: 0.5025
+kmyutani/python_practice_projects This contain projects for practice purposes on Python.  

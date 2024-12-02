@@ -1,0 +1,12 @@
+Full Name: bennyattack/pythonbits
+Description: Code snippets for gettin' shit done
+created_at: 2018-11-12T09:35:27Z
+updated_at: 2018-11-12T09:35:27Z
+pushed_at: 2018-11-12T09:35:27Z
+Language: None
+URL: https://github.com/bennyattack/pythonbits
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

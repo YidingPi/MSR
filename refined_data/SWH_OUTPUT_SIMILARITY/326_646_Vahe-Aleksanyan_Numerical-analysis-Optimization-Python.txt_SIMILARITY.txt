@@ -1,0 +1,2 @@
+Score: 0.4564
+Vahe-Aleksanyan/Numerical-analysis-Optimization-Python None  # Numerical-Analysis-Python

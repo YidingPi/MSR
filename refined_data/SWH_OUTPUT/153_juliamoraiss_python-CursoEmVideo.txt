@@ -1,0 +1,21 @@
+Full Name: juliamoraiss/python-CursoEmVideo
+Description: None
+created_at: 2019-10-08T00:51:48Z
+updated_at: 2020-05-12T18:53:13Z
+pushed_at: 2020-05-12T18:17:46Z
+Language: Python
+URL: https://github.com/juliamoraiss/python-CursoEmVideo
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonExercicios
+
+Exercícios resolvidos nas aulas de Python 3 do Curso em Vídeo no YouTube.
+
+[Mundo 1 - Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
+[Mundo 2 - Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+
+[Mundo 3 - Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+

@@ -1,0 +1,3 @@
+Score: 0.4768
+hemanth-07-11/Learning-Python-Libraries-and-Python-Projects This Repo contains the work of mine, while learning various Python libraries and working with different modules. All from basics and few small projects are also added.  # Learning-Python-Libraries and Building Python Projects
+This Repo contains the work of mine, while learning various Python libraries and working with different modules. All from basics and few small projects are also added.

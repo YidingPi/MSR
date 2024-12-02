@@ -1,0 +1,13 @@
+ID: 45
+Full Name: Zy143L/python
+Description: Python练习
+Created At: 2021-06-26T14:52:47Z
+Updated At: 2024-10-31T02:38:48Z
+Pushed At: 2022-02-07T13:00:04Z
+Language: None
+URL: https://github.com/Zy143L/python
+Forks: 197
+Stars: 398
+Topics: 
+README:
+# 新年快乐

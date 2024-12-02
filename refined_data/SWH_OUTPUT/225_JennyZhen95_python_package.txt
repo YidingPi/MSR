@@ -1,0 +1,14 @@
+Full Name: JennyZhen95/python_package
+Description: Final assignment for python class
+created_at: 2020-03-10T23:22:38Z
+updated_at: 2020-03-10T23:22:42Z
+pushed_at: 2020-03-10T23:22:40Z
+Language: None
+URL: https://github.com/JennyZhen95/python_package
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_package
+Final assignment for python class
+

@@ -1,0 +1,33 @@
+ID: 173
+Full Name: prometheus/client_python
+Description: Prometheus instrumentation library for Python applications
+Created At: 2015-02-10T22:47:25Z
+Updated At: 2024-12-02T06:35:17Z
+Pushed At: 2024-11-20T18:23:13Z
+Language: Python
+URL: https://github.com/prometheus/client_python
+Forks: 801
+Stars: 3998
+Topics: instrumentation, metrics, prometheus, python
+README:
+# Prometheus Python Client
+
+The official Python client for [Prometheus](https://prometheus.io).
+
+## Installation
+
+```
+pip install prometheus-client
+```
+
+This package can be found on [PyPI](https://pypi.python.org/pypi/prometheus_client).
+
+## Documentation
+
+Documentation is available on https://prometheus.github.io/client_python
+
+## Links
+
+* [Releases](https://github.com/prometheus/client_python/releases): The releases page shows the history of the project and acts as a changelog.
+* [PyPI](https://pypi.python.org/pypi/prometheus_client)
+

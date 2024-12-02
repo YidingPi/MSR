@@ -1,0 +1,12 @@
+Full Name: Aaron723/PythonProject
+Description: Some small python project
+created_at: 2019-03-12T01:41:20Z
+updated_at: 2019-03-12T01:43:00Z
+pushed_at: 2019-03-12T01:42:05Z
+Language: Python
+URL: https://github.com/Aaron723/PythonProject
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

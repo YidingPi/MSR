@@ -1,0 +1,12 @@
+Full Name: 7Ilia7/Python
+Description: None
+created_at: 2022-05-10T10:41:58Z
+updated_at: 2022-05-10T10:43:34Z
+pushed_at: 2022-05-10T10:43:31Z
+Language: Python
+URL: https://github.com/7Ilia7/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Pythin

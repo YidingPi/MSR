@@ -1,0 +1,12 @@
+Full Name: amrawni33/python-project
+Description: None
+created_at: 2022-08-11T13:21:14Z
+updated_at: 2022-08-11T13:24:10Z
+pushed_at: 2022-08-12T12:45:24Z
+Language: Python
+URL: https://github.com/amrawni33/python-project
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

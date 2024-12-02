@@ -1,0 +1,15 @@
+Full Name: Soykaa/advanced-python-2022-hse
+Description: None
+created_at: 2022-02-01T12:33:29Z
+updated_at: 2022-03-09T00:56:34Z
+pushed_at: 2022-03-09T18:49:15Z
+Language: Python
+URL: https://github.com/Soykaa/advanced-python-2022-hse
+Forks: 0
+Stars: 0
+Topics: advanced-python, homework, python
+README:
+# advanced-python-2022-hse
+
+Python course tasks
+

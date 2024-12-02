@@ -1,0 +1,15 @@
+Full Name: kkamankun/python-for-coding-test
+Description: 이 저장소는 이것이 취업을 위한 코딩 테스트다 with Python (나동빈 저, 한빛미디어) 알고리즘 유형별 기출문제 소스코드를 저장합니다.
+created_at: 2021-03-17T06:05:38Z
+updated_at: 2021-06-28T15:10:01Z
+pushed_at: 2021-06-28T15:09:58Z
+Language: Python
+URL: https://github.com/kkamankun/python-for-coding-test
+Forks: 0
+Stars: 1
+Topics: 
+README:
+이것이 취업을 위한 코딩 테스트다 with Python
+---
+이것이 취업을 위한 코딩 테스트다 with Python (나동빈 저, 한빛미디어) 알고리즘 유형별 기출문제 소스코드를 저장합니다.
+

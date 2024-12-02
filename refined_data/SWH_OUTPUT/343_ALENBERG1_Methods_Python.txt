@@ -1,0 +1,12 @@
+Full Name: ALENBERG1/Methods_Python
+Description: various methods in python 3.8
+created_at: 2020-10-27T09:32:43Z
+updated_at: 2020-11-24T12:54:38Z
+pushed_at: 2020-11-24T12:54:36Z
+Language: Python
+URL: https://github.com/ALENBERG1/Methods_Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

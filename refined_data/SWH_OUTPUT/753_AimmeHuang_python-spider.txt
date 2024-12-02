@@ -1,0 +1,12 @@
+Full Name: AimmeHuang/python-spider
+Description: distributed crawer sys
+created_at: 2017-08-18T03:41:07Z
+updated_at: 2017-08-18T03:45:38Z
+pushed_at: 2017-08-18T03:45:34Z
+Language: HTML
+URL: https://github.com/AimmeHuang/python-spider
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

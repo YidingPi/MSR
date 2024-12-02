@@ -1,0 +1,19 @@
+ID: 211
+Full Name: mubeta06/python
+Description: python stuff
+Created At: 2012-10-08T03:19:04Z
+Updated At: 2024-08-06T08:56:52Z
+Pushed At: 2020-10-01T04:30:11Z
+Language: Python
+URL: https://github.com/mubeta06/python
+Forks: 85
+Stars: 66
+Topics: 
+README:
+python
+======
+
+libqrencode - ctypes python bindings to libqrencode http://mubeta06.github.io/python/libqrencode/
+
+Signal Processing Library - various MATLAB-like signal processing math http://mubeta06.github.io/python/sp/
+

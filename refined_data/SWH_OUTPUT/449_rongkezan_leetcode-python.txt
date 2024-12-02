@@ -1,0 +1,12 @@
+Full Name: rongkezan/leetcode-python
+Description: None
+created_at: 2022-07-11T15:40:52Z
+updated_at: 2022-07-11T15:43:29Z
+pushed_at: 2022-07-11T15:43:26Z
+Language: Python
+URL: https://github.com/rongkezan/leetcode-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

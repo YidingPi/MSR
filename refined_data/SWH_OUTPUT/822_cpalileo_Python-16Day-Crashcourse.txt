@@ -1,0 +1,16 @@
+Full Name: cpalileo/Python-16Day-Crashcourse
+Description: None
+created_at: 2022-08-31T15:51:47Z
+updated_at: 2022-08-31T15:57:31Z
+pushed_at: 2022-08-31T17:51:33Z
+Language: Python
+URL: https://github.com/cpalileo/Python-16Day-Crashcourse
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-16Day-Crashcourse
+
+Day 1 Challenge: Beer Brand Maker
+Day 2 Challenge: Commission Calculator
+

@@ -1,0 +1,13 @@
+ID: 917
+Full Name: LetsUpgrade/Python-Essentials
+Description: None
+Created At: 2020-05-02T15:07:27Z
+Updated At: 2024-08-11T11:52:12Z
+Pushed At: 2020-09-11T15:42:19Z
+Language: Jupyter Notebook
+URL: https://github.com/LetsUpgrade/Python-Essentials
+Forks: 234
+Stars: 402
+Topics: basic-programming, python, python3
+README:
+

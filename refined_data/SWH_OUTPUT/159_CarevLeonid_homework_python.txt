@@ -1,0 +1,12 @@
+Full Name: CarevLeonid/homework_python
+Description: None
+created_at: 2021-10-12T15:32:52Z
+updated_at: 2021-10-12T16:18:56Z
+pushed_at: 2021-11-10T18:41:05Z
+Language: None
+URL: https://github.com/CarevLeonid/homework_python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# homework_python

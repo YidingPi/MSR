@@ -1,0 +1,2 @@
+Score: 0.5370
+gmovchan/python_bootcamp The Code I wrote while reading the book Python Projects for Beginners by Connor P. Milliken  Hi. Here is code I wrote while reading the 2020 book *Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming by Connor P. Milliken*. It was my first time I took a look at this language. This remnants has deal of sentimental value.

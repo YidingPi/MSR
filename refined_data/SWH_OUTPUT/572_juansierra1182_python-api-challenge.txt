@@ -1,0 +1,12 @@
+Full Name: juansierra1182/python-api-challenge
+Description: None
+created_at: 2023-01-26T14:06:16Z
+updated_at: 2023-01-26T14:53:06Z
+pushed_at: 2023-01-31T00:19:15Z
+Language: Jupyter Notebook
+URL: https://github.com/juansierra1182/python-api-challenge
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

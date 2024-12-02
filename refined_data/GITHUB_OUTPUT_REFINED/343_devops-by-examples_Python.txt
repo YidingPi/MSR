@@ -1,0 +1,15 @@
+ID: 343
+Full Name: devops-by-examples/Python
+Description: Python for Dummies !!
+Created At: 2021-04-05T09:03:43Z
+Updated At: 2024-10-28T04:05:07Z
+Pushed At: 2023-06-14T17:12:32Z
+Language: Python
+URL: https://github.com/devops-by-examples/Python
+Forks: 79
+Stars: 35
+Topics: 
+README:
+# Python
+Python for Dummies !!
+

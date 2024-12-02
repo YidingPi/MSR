@@ -1,0 +1,13 @@
+Full Name: Queky/PythonAI
+Description: Airtifical Intelligence using Python and OpenCV
+created_at: 2018-04-23T07:55:27Z
+updated_at: 2018-04-23T09:32:29Z
+pushed_at: 2022-10-28T14:12:07Z
+Language: Python
+URL: https://github.com/Queky/PythonAI
+Forks: 1
+Stars: 0
+Topics: 
+README:
+All files are from Artificial Intelligence with Python course from Prateek Joshi
+

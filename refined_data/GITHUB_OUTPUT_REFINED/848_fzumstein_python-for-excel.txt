@@ -1,0 +1,21 @@
+ID: 848
+Full Name: fzumstein/python-for-excel
+Description: This is the companion repo of the O'Reilly book "Python for Excel".
+Created At: 2020-04-13T08:16:56Z
+Updated At: 2024-11-29T15:09:48Z
+Pushed At: 2023-04-02T18:53:33Z
+Language: Jupyter Notebook
+URL: https://github.com/fzumstein/python-for-excel
+Forks: 307
+Stars: 584
+Topics: automation, binder, book, excel, notebooks, oreilly, oreilly-books, python
+README:
+# Python for Excel (O'Reilly, 2021)
+
+<img src="https://github.com/fzumstein/python-for-excel/blob/1st-edition/images/cover.png?raw=true" width="350">
+
+This is the companion repository for the O'Reilly book [Python for Excel](https://learning.oreilly.com/library/view/python-for-excel/9781492080992/).
+
+All notebooks can be run in the cloud except `ch09.ipynb` (requires a local installation of Excel):  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fzumstein/python-for-excel/1st-edition?urlpath=tree)
+

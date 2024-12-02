@@ -1,0 +1,12 @@
+Full Name: Anfabei/Midterm_Python_Vaverka
+Description: None
+created_at: 2022-04-05T15:20:47Z
+updated_at: 2022-04-05T15:30:15Z
+pushed_at: 2022-04-05T17:46:07Z
+Language: Jupyter Notebook
+URL: https://github.com/Anfabei/Midterm_Python_Vaverka
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

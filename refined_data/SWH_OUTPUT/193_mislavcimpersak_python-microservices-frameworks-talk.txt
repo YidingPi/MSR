@@ -1,0 +1,17 @@
+Full Name: mislavcimpersak/python-microservices-frameworks-talk
+Description: Talk on Python's web frameworks better suited for microservices based architecture.
+created_at: 2018-01-02T19:01:33Z
+updated_at: 2018-01-08T17:17:31Z
+pushed_at: 2018-01-10T07:47:37Z
+Language: JavaScript
+URL: https://github.com/mislavcimpersak/python-microservices-frameworks-talk
+Forks: 0
+Stars: 0
+Topics: apistar, falcon, hug, microservices, python, sanic, talk
+README:
+Talk entitled *Python Web Frameworks in the Age of Microservices* written for [Python Hrvatska meetup](#) held on January 9, 2018.
+
+Slides can be viewed online [here](https://mislavcimpersak.github.io/python-microservices-frameworks-talk/).
+
+Created using [reveal-js](https://github.com/hakimel/reveal.js/).
+

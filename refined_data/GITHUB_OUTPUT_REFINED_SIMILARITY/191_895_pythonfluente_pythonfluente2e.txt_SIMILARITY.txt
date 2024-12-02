@@ -1,0 +1,74 @@
+Score: 0.4519
+pythonfluente/pythonfluente2e Python Fluente, Segunda Edição asciidoc, book, python :xrefstyle: short
+:note-caption: Nota
+
+# Python Fluente, Segunda Edição
+
+Tradução oficial de https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/[__Fluent Python, Second Edition__].
+Traduzida por https://github.com/pauloc[@pauloc],
+produzida por https://github.com/ramalho[@ramalho],
+e revisada pela comunidade 😉.
+
+----
+ 1  2  3  4  5  6
+██ ██ ██ ██ ██ ██  Parte I ✅
+
+ 7  8  9 10
+██ ██ ██ ██        Parte II ✅
+
+11 12 13 14 15 16
+██ ██ ██ ██ ██ ██  Parte III ✅
+
+17 18 19 20 21
+██ ██ ██ ██ ██     Parte IV ✅
+
+22 23 24          
+██ ██ ██           Parte V ✅
+
+----
+
+█ = capítulo traduzido
+
+## Procedência e licença para copiar
+
+++++
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img
+alt="Licença Creative Commons" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
+++++
+
+Este trabalho está licenciado como +
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR[Creative Commons — Atribuição-NãoComercial-SemDerivações 4.0 Internacional].
+
+Você pode copiar e redistribuir o material em qualquer suporte,
+de acordo com os seguintes termos:
+
+Atribuição::
+Você deve dar o crédito apropriado e prover um link para a
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR[licença].
+
+Não Comercial::
+Você não pode usar o material para fins comerciais.
+
+Sem Derivações::
+Você pode remixar, transformar ou criar a partir do material apenas para uso próprio.
+Para distribuir o material derivado, obtenha permissão por escrito do autor.
+Registre um https://github.com/pythonfluente/pythonfluente2e/issues[__issue__]
+para comunicar sua intenção de redistribuir ou publicar em qualquer meio uma obra derivada
+e aguarde uma resposta do autor.
+
+Para mais detalhes, leia a
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR[licença simplificada]
+e o
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode[texto completo da licença em inglês].
+
+[NOTE]
+====
+Esta *não é uma obra derivada* da tradução de Python Fluente, 1ª edição,
+publicada pela Editora Novatec em 2015. Qualquer coincidência é acidental.
+
+Esta tradução foi feita diretamente do texto original em inglês de
+__Fluent Python, Second Edition__, com autorização da O'Reilly Media.
+====
+
+__Python Fluente, Segunda Edição__ © 2023 Luciano Ramalho.

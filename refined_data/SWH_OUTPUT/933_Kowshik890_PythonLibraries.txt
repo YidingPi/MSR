@@ -1,0 +1,15 @@
+Full Name: Kowshik890/PythonLibraries
+Description: Learning and practising Python Libraries.
+created_at: 2020-11-22T19:38:59Z
+updated_at: 2020-12-28T18:43:21Z
+pushed_at: 2020-12-28T18:43:19Z
+Language: Jupyter Notebook
+URL: https://github.com/Kowshik890/PythonLibraries
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python Libraries
+
+**Learning and practising python libraries by solving anonymous problems.**
+

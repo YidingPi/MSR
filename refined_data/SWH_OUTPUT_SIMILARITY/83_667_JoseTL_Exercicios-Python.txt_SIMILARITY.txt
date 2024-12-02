@@ -1,0 +1,4 @@
+Score: 0.5515
+JoseTL/Exercicios-Python Exercicios básico do Python  # Exercicios-do-Python-Basico
+
+Exercicios básico do Python

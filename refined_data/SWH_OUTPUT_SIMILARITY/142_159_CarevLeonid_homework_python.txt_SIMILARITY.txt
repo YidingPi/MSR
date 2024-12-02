@@ -1,0 +1,2 @@
+Score: 0.5244
+CarevLeonid/homework_python None  # homework_python

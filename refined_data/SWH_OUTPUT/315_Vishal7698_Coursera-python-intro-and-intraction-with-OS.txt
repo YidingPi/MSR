@@ -1,0 +1,16 @@
+Full Name: Vishal7698/Coursera-python-intro-and-intraction-with-OS
+Description: all assignment with all concept
+created_at: 2020-05-25T09:58:44Z
+updated_at: 2024-06-19T19:40:28Z
+pushed_at: 2024-06-19T19:40:25Z
+Language: Jupyter Notebook
+URL: https://github.com/Vishal7698/Coursera-python-intro-and-intraction-with-OS
+Forks: 0
+Stars: 0
+Topics: 
+README:
+#Coursera-python-intro-and-intraction-with-OS
+This Repo contains Solution of the coding problems of courses of coursera which are :
+1. Crash Course on Python authorized by Google
+2. Using Python to Interact with the Operating System authorized by Google
+

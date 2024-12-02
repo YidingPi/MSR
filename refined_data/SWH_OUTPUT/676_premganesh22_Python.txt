@@ -1,0 +1,13 @@
+Full Name: premganesh22/Python
+Description: None
+created_at: 2019-11-13T17:49:01Z
+updated_at: 2020-04-01T00:00:36Z
+pushed_at: 2020-04-01T00:00:33Z
+Language: Jupyter Notebook
+URL: https://github.com/premganesh22/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-
+

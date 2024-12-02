@@ -1,0 +1,12 @@
+Full Name: yee3606/python
+Description: 学习python记录
+created_at: 2018-07-08T03:33:41Z
+updated_at: 2019-10-06T08:02:05Z
+pushed_at: 2019-10-06T08:02:03Z
+Language: Python
+URL: https://github.com/yee3606/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

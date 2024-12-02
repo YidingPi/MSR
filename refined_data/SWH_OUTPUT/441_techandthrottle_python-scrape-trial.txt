@@ -1,0 +1,32 @@
+Full Name: techandthrottle/python-scrape-trial
+Description: None
+created_at: 2022-03-03T05:38:13Z
+updated_at: 2022-03-03T05:39:24Z
+pushed_at: 2022-03-03T05:39:21Z
+Language: Python
+URL: https://github.com/techandthrottle/python-scrape-trial
+Forks: 0
+Stars: 0
+Topics: 
+README:
+This Python script aims gather specific data from Yahoo Finance.
+
+Using the link on the link.txt, it will get all the components and list the following data:
+    
+    * Ticker
+    * Company Name
+    * Previous Close
+    * PE ratio (TTM)
+    * 52 Week High
+    * Total Revenue
+    * Net Income
+    * Total Assets
+    * Total Liabilities
+    * Total Stockholder's Equity
+    * Net tangible assets
+    * Debt to equity ratio
+    * Market Cap
+    * PEG ratio
+    * Price/Sales (ttm)
+    * Price/Book (mrg)
+    * Return on Assets (ttm)

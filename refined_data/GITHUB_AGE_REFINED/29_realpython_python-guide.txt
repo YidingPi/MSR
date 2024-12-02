@@ -1,0 +1,3 @@
+Full Name: realpython/python-guide
+Updated - Created (days): 5010 days
+Pushed - Created (days): 4885 days

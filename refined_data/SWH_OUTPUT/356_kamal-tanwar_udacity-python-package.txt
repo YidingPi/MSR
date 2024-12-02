@@ -1,0 +1,14 @@
+Full Name: kamal-tanwar/udacity-python-package
+Description: A simple python package implementing a Gaussian function. The goal is to get familiar with writing your own classes and methods.
+created_at: 2021-08-06T01:33:07Z
+updated_at: 2021-08-08T01:55:00Z
+pushed_at: 2021-08-08T01:54:58Z
+Language: Jupyter Notebook
+URL: https://github.com/kamal-tanwar/udacity-python-package
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# udacity-python-package
+A simple python package implementing a Gaussian function. The goal is to get familiar with writing your own classes and methods.
+

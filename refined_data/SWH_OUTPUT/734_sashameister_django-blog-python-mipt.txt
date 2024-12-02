@@ -1,0 +1,12 @@
+Full Name: sashameister/django-blog-python-mipt
+Description: Django blog (homework #4) for Python course (MIPT, 21)
+created_at: 2021-12-21T21:06:06Z
+updated_at: 2021-12-22T22:26:59Z
+pushed_at: 2021-12-22T22:26:56Z
+Language: Python
+URL: https://github.com/sashameister/django-blog-python-mipt
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,8 @@
+Score: 0.3288
+jawnaphin/markdown-dsl-for-python None  # Markdown DSL for python
+Generates Gitlab / Github flavoured markdown
+```
+print ("\n".join([h1("Markdown DSL for python"),
+				  "Generates Gitlab / Github flavoured markdown",
+				  code(readme_example)]))
+```

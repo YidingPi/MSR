@@ -1,0 +1,7 @@
+Score: 0.4885
+allenlu2008/PythonDemo 虾神的Python示例代码库  # 虾神的Python Demo代码库
+
+## 更多内容请关注虾神公众号：
+
+
+<img src = "./image/wx.jpg"/>

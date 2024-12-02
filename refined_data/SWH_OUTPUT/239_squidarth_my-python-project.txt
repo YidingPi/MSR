@@ -1,0 +1,12 @@
+Full Name: squidarth/my-python-project
+Description: None
+created_at: 2022-10-12T11:23:44Z
+updated_at: 2022-10-12T11:24:10Z
+pushed_at: 2022-10-12T11:24:05Z
+Language: Python
+URL: https://github.com/squidarth/my-python-project
+Forks: 1
+Stars: 0
+Topics: 
+README:
+

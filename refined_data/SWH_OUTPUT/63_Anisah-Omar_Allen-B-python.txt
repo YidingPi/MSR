@@ -1,0 +1,12 @@
+Full Name: Anisah-Omar/Allen-B-python
+Description: None
+created_at: 2022-02-08T12:19:39Z
+updated_at: 2022-04-02T18:03:48Z
+pushed_at: 2022-04-02T18:17:05Z
+Language: Python
+URL: https://github.com/Anisah-Omar/Allen-B-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Allen-B-python

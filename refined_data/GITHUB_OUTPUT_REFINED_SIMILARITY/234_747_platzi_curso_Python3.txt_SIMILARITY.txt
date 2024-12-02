@@ -1,0 +1,2 @@
+Score: 0.4345
+platzi/curso_Python3 Repo del curso de Python con Python 3  # Platzi ventas (curso de Python)

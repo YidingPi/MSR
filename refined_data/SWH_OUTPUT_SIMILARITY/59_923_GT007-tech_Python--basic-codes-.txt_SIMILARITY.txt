@@ -1,0 +1,2 @@
+Score: 0.5747
+GT007-tech/Python--basic-codes- They are basic codes in python containing loops and arrays  

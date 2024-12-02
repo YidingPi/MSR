@@ -1,0 +1,15 @@
+Full Name: maxrdz/Python-JSON-To-XML-Converter
+Description: A slightly more intermediate project I made with Python. Converts any JSON file into a new XML file!
+created_at: 2020-05-19T23:27:59Z
+updated_at: 2023-04-24T03:45:52Z
+pushed_at: 2020-05-20T01:51:11Z
+Language: Python
+URL: https://github.com/maxrdz/Python-JSON-To-XML-Converter
+Forks: 0
+Stars: 2
+Topics: 
+README:
+# Python-JSON-To-XML-Converter
+A slightly more intermediate project I made with Python. Converts any JSON file into a new XML file!
+# All you need is download the .exe if you are on Windows and run it!
+

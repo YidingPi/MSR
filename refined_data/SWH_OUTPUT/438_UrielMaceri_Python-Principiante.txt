@@ -1,0 +1,13 @@
+Full Name: UrielMaceri/Python-Principiante
+Description: None
+created_at: 2022-09-05T18:25:56Z
+updated_at: 2022-09-05T18:33:35Z
+pushed_at: 2022-11-17T15:44:53Z
+Language: Python
+URL: https://github.com/UrielMaceri/Python-Principiante
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Ejercitacion de python dada en la materia "Paradigmas de Programacion" en la universidad UMET
+

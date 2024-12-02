@@ -1,0 +1,2 @@
+Score: 0.4717
+joaotdela/HackerRank_Python_Math_MinHeight None  

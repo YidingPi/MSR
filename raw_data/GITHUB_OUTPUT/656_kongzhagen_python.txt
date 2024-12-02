@@ -1,0 +1,15 @@
+ID: 656
+Full Name: kongzhagen/python
+Description: all codes
+Created At: 2017-03-16T03:02:29Z
+Updated At: 2023-08-23T08:11:54Z
+Pushed At: 2020-10-02T07:30:28Z
+Language: HTML
+URL: https://github.com/kongzhagen/python
+Forks: 68
+Stars: 11
+Topics: 
+README:
+# python
+all codes
+

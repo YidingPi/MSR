@@ -1,0 +1,12 @@
+Full Name: 2301930436/python
+Description: 一个python的学习资料
+created_at: 2022-03-15T03:22:28Z
+updated_at: 2022-03-15T03:22:28Z
+pushed_at: 2022-03-15T03:22:29Z
+Language: None
+URL: https://github.com/2301930436/python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

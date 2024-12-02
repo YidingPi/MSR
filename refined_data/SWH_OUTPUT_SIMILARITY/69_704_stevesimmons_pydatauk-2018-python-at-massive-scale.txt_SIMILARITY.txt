@@ -1,0 +1,8 @@
+Score: 0.5636
+stevesimmons/pydatauk-2018-python-at-massive-scale My PyData London talk on JPMorgan's Athena trading system, written in Python  # Python at Massive Scale
+
+I gave this talk on JPMorgan's Athena trading system at PyData's London conference in 2018.
+
+The YouTube video is <https://www.youtube.com/watch?v=ZYD9yyMh9Hk>.
+
+Slides will be posted in due course.

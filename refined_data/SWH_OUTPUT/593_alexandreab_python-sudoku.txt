@@ -1,0 +1,17 @@
+Full Name: alexandreab/python-sudoku
+Description: None
+created_at: 2019-01-29T02:47:28Z
+updated_at: 2019-02-10T19:41:54Z
+pushed_at: 2019-02-10T19:41:52Z
+Language: Python
+URL: https://github.com/alexandreab/python-sudoku
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# python-sudoku
+
+[![Build Status](https://travis-ci.com/alexandreab/python-sudoku.svg?branch=master)](https://travis-ci.com/alexandreab/python-sudoku)
+
+[![codecov](https://codecov.io/gh/alexandreab/python-sudoku/branch/master/graph/badge.svg)](https://codecov.io/gh/alexandreab/python-sudoku)
+

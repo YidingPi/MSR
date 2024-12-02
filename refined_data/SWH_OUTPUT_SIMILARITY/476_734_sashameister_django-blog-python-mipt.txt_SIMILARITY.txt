@@ -1,0 +1,2 @@
+Score: 0.4051
+sashameister/django-blog-python-mipt Django blog (homework #4) for Python course (MIPT, 21)  

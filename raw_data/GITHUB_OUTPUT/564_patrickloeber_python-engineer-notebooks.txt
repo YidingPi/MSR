@@ -1,0 +1,13 @@
+ID: 564
+Full Name: patrickloeber/python-engineer-notebooks
+Description: None
+Created At: 2019-05-19T12:39:42Z
+Updated At: 2024-12-01T07:49:43Z
+Pushed At: 2024-02-26T19:50:47Z
+Language: Jupyter Notebook
+URL: https://github.com/patrickloeber/python-engineer-notebooks
+Forks: 522
+Stars: 712
+Topics: 
+README:
+# Collection of Jupyter Notebooks for the website

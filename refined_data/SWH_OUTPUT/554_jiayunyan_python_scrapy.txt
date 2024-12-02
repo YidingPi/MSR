@@ -1,0 +1,12 @@
+Full Name: jiayunyan/python_scrapy
+Description: None
+created_at: 2018-08-06T11:50:29Z
+updated_at: 2018-08-06T12:36:40Z
+pushed_at: 2018-08-06T12:36:39Z
+Language: Python
+URL: https://github.com/jiayunyan/python_scrapy
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_scrapy

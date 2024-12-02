@@ -1,0 +1,13 @@
+ID: 242
+Full Name: parita/python
+Description: random python codes
+Created At: 2011-09-02T08:51:40Z
+Updated At: 2024-01-28T16:10:52Z
+Pushed At: 2020-10-03T11:07:39Z
+Language: Python
+URL: https://github.com/parita/python
+Forks: 44
+Stars: 52
+Topics: 
+README:
+contains random python codes

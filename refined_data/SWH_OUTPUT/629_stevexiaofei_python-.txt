@@ -1,0 +1,35 @@
+Full Name: stevexiaofei/python-
+Description: None
+created_at: 2020-11-11T16:10:29Z
+updated_at: 2020-11-14T09:18:43Z
+pushed_at: 2020-11-29T12:24:34Z
+Language: None
+URL: https://github.com/stevexiaofei/python-
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python note
+
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
+

@@ -1,0 +1,12 @@
+Full Name: aaronkyl/digitalcrafts-python-exercises-flex-02
+Description: None
+created_at: 2018-03-02T01:05:05Z
+updated_at: 2018-03-05T16:29:01Z
+pushed_at: 2018-03-12T19:10:34Z
+Language: Python
+URL: https://github.com/aaronkyl/digitalcrafts-python-exercises-flex-02
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# DigitalCrafts Flex Python Exercises

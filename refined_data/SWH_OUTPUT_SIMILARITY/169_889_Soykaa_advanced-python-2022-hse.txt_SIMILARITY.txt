@@ -1,0 +1,4 @@
+Score: 0.5095
+Soykaa/advanced-python-2022-hse None advanced-python, homework, python # advanced-python-2022-hse
+
+Python course tasks

@@ -1,0 +1,24 @@
+ID: 908
+Full Name: WangLaoShi/Aliyun-Python
+Description: 阿里云天池龙珠计划 Python 项目
+Created At: 2022-02-14T02:41:22Z
+Updated At: 2024-12-02T05:30:28Z
+Pushed At: 2024-06-29T08:19:02Z
+Language: Jupyter Notebook
+URL: https://github.com/WangLaoShi/Aliyun-Python
+Forks: 371
+Stars: 145
+Topics: 
+README:
+# Aliyun-Python
+阿里云天池龙珠计划 Python 项目
+
+请不要吝啬你的点赞，请为本项目点赞 👍🏻👍🏻👍🏻
+
+[关于打卡任务的一些说明，请参考这个文档](https://github.com/WangLaoShi/Aliyun-SQL/blob/main/README.pdf)
+
+Python 项目中使用的 Excel 文件的分享地址
+
+「Python操作Excel-ExcelFiles」https://www.aliyundrive.com/s/dUdYuWzu7eP 提取码: ie69
+点击链接保存。
+

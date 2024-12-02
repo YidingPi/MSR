@@ -1,0 +1,3 @@
+Score: 0.4263
+ultraUnicorn74/Python-Practice None  # Python-Practice
+#### This Program keeps on adding the a stream of numbers entered by the users .The adding stops as soon as the user press the 'q'.

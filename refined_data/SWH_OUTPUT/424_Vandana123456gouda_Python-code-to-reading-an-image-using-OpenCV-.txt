@@ -1,0 +1,12 @@
+Full Name: Vandana123456gouda/Python-code-to-reading-an-image-using-OpenCV-
+Description: None
+created_at: 2020-07-14T14:29:12Z
+updated_at: 2020-07-15T13:03:40Z
+pushed_at: 2020-07-14T14:29:53Z
+Language: Jupyter Notebook
+URL: https://github.com/Vandana123456gouda/Python-code-to-reading-an-image-using-OpenCV-
+Forks: 0
+Stars: 1
+Topics: 
+README:
+# Python-code-to-reading-an-image-using-OpenCV-

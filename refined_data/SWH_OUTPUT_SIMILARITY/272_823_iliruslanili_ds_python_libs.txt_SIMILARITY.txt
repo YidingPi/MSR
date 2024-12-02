@@ -1,0 +1,3 @@
+Score: 0.4712
+iliruslanili/ds_python_libs Курс "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn" GeekBrains  # ds_python_libs
+Курс "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn" GeekBrains

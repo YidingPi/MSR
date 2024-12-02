@@ -1,0 +1,3 @@
+Score: 0.4818
+wdmompo/Python-GeneralLibrary Biblioteca con funciones generales en Python para utilizar en diferentes proyectos.  # Python-GeneralLibrary
+Biblioteca con funciones generales en Python para utilizar en diferentes proyectos.

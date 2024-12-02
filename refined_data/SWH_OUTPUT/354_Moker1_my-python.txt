@@ -1,0 +1,14 @@
+Full Name: Moker1/my-python
+Description: 这是我python脚本存放的地方
+created_at: 2018-05-25T08:13:59Z
+updated_at: 2018-05-25T08:14:01Z
+pushed_at: 2018-05-25T08:14:00Z
+Language: None
+URL: https://github.com/Moker1/my-python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# my-python
+这是我python脚本存放的地方
+

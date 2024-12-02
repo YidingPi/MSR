@@ -1,0 +1,3 @@
+Full Name: cjolowicz/cookiecutter-hypermodern-python
+Updated - Created (days): 1758 days
+Pushed - Created (days): 1561 days

@@ -1,0 +1,37 @@
+ID: 587
+Full Name: thonny/thonny
+Description: Python IDE for beginners
+Created At: 2019-01-01T10:29:50Z
+Updated At: 2024-12-02T05:47:46Z
+Pushed At: 2024-12-01T11:56:29Z
+Language: Python
+URL: https://github.com/thonny/thonny
+Forks: 1030
+Stars: 3160
+Topics: ide, learning-programming, learning-python, python, thonny
+README:
+.. image:: https://github.com/thonny/thonny/blob/master/thonny/res/Ukraine.png
+
+`Support Ukraine! <https://github.com/thonny/thonny/wiki/Support-Ukraine>`_
+
+======
+Thonny
+======
+
+Thonny is a Python `IDE <https://en.wikipedia.org/wiki/Integrated_development_environment>`_ meant for learning programming.
+
+
+End users
+---------
+See https://thonny.org and `wiki <https://github.com/thonny/thonny/wiki>`_ for more info.
+
+
+Contributors
+------------
+Contributions are welcome! See `CONTRIBUTING.rst <https://github.com/thonny/thonny/blob/master/CONTRIBUTING.rst>`_ for more info.
+
+
+Sponsors
+----------
+You can sponsor development of Thonny by sending a donation to Thonny's main author Aivar Annamaa: https://github.com/thonny/thonny/wiki/Sponsors
+

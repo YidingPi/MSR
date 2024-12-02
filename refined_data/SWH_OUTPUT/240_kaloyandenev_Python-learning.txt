@@ -1,0 +1,12 @@
+Full Name: kaloyandenev/Python-learning
+Description: First projects in Python
+created_at: 2020-12-17T12:21:35Z
+updated_at: 2021-05-26T13:31:48Z
+pushed_at: 2021-05-26T13:31:45Z
+Language: Python
+URL: https://github.com/kaloyandenev/Python-learning
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

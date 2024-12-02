@@ -1,0 +1,12 @@
+Full Name: NicRios/Python-MachineLearning
+Description: Assorted Machine Learning Projects in Python - ongoing
+created_at: 2019-08-20T04:36:54Z
+updated_at: 2019-08-26T00:00:23Z
+pushed_at: 2019-08-20T04:48:34Z
+Language: Python
+URL: https://github.com/NicRios/Python-MachineLearning
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

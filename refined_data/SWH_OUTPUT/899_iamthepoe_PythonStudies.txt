@@ -1,0 +1,12 @@
+Full Name: iamthepoe/PythonStudies
+Description: None
+created_at: 2022-06-29T23:18:27Z
+updated_at: 2022-06-30T21:34:11Z
+pushed_at: 2022-06-30T21:34:00Z
+Language: Python
+URL: https://github.com/iamthepoe/PythonStudies
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# PythonStudies

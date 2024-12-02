@@ -1,0 +1,3 @@
+Full Name: lincolnloop/python-qrcode
+Updated - Created (days): 4770 days
+Pushed - Created (days): 4711 days

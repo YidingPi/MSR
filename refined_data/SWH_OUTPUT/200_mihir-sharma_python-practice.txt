@@ -1,0 +1,14 @@
+Full Name: mihir-sharma/python-practice
+Description: Personal python practice record
+created_at: 2016-12-22T17:21:37Z
+updated_at: 2016-12-22T17:21:37Z
+pushed_at: 2016-12-22T18:49:33Z
+Language: None
+URL: https://github.com/mihir-sharma/python-practice
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python-practice
+Personal python practice record
+

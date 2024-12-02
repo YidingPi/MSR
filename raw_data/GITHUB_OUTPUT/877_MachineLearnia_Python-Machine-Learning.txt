@@ -1,0 +1,16 @@
+ID: 877
+Full Name: MachineLearnia/Python-Machine-Learning
+Description: Tous les codes utilisés dans la série YouTube Python Spécial Machine Learning !
+Created At: 2019-09-27T08:16:16Z
+Updated At: 2024-11-29T22:54:43Z
+Pushed At: 2024-08-19T20:38:56Z
+Language: Jupyter Notebook
+URL: https://github.com/MachineLearnia/Python-Machine-Learning
+Forks: 356
+Stars: 390
+Topics: 
+README:
+# Python-Machine-Learning
+Tous les codes utilisés dans la série YouTube Python Spécial Machine Learning :
+https://www.youtube.com/playlist?list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq
+

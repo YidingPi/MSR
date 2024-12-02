@@ -1,0 +1,4 @@
+Score: 0.5020
+ShubhamPal19/Python-projects None  # Python-projects
+
+This repository was created for python programs.

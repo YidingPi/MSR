@@ -1,0 +1,13 @@
+ID: 900
+Full Name: LogicFirstTamil/Python
+Description: All Code snippets in Python Full Course - Logic First Tamil
+Created At: 2021-11-10T19:16:06Z
+Updated At: 2024-12-01T18:03:31Z
+Pushed At: 2024-02-16T21:43:19Z
+Language: HTML
+URL: https://github.com/LogicFirstTamil/Python
+Forks: 30
+Stars: 38
+Topics: 
+README:
+

@@ -1,0 +1,2 @@
+Score: 0.5498
+Queky/PythonAI Airtifical Intelligence using Python and OpenCV  All files are from Artificial Intelligence with Python course from Prateek Joshi

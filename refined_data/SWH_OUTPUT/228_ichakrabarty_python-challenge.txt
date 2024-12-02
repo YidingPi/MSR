@@ -1,0 +1,16 @@
+Full Name: ichakrabarty/python-challenge
+Description: None
+created_at: 2021-05-04T06:19:22Z
+updated_at: 2021-05-08T18:41:43Z
+pushed_at: 2021-05-08T18:41:41Z
+Language: Python
+URL: https://github.com/ichakrabarty/python-challenge
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# Python-Accounting-Polling-Challenge
+
+Includes PyBank Challenge and PyPoll Challenge.
+
+Both folders for each challenge contain python code and a results file.

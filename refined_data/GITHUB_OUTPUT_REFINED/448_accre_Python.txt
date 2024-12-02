@@ -1,0 +1,28 @@
+ID: 448
+Full Name: accre/Python
+Description: Example Python Scripts
+Created At: 2015-05-14T20:26:02Z
+Updated At: 2024-06-28T19:20:54Z
+Pushed At: 2020-10-04T04:26:21Z
+Language: Jupyter Notebook
+URL: https://github.com/accre/Python
+Forks: 62
+Stars: 31
+Topics: 
+README:
+# Python
+
+Scripts demonstrating how to run Python jobs on the 
+ACCRE cluster. Each directory should contain at least
+a Python script and SLURM script, and preferably a README.md
+file providing details about the job, installation instructions,
+etc.
+
+Contributing New Examples
+-------------------------
+
+We encourage users to submit new examples of jobs they have
+successfully run on the cluster. Instructions for submitting
+new examples to this repository are provided here:
+
+http://www.accre.vanderbilt.edu/?page_id=2735

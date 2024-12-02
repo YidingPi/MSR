@@ -1,0 +1,42 @@
+ID: 603
+Full Name: janza/docker-python3-opencv
+Description: 🐋 🐍 👁 Docker image with python 3 and opencv 4.1
+Created At: 2015-09-10T15:23:30Z
+Updated At: 2024-10-23T02:22:53Z
+Pushed At: 2021-04-06T21:09:37Z
+Language: Dockerfile
+URL: https://github.com/janza/docker-python3-opencv
+Forks: 162
+Stars: 333
+Topics: docker, docker-image, opencv, opencv-contrib, python-3
+README:
+[![Docker Automated buil](https://img.shields.io/docker/automated/jjanzic/docker-python3-opencv.svg)]()
+
+Docker image with python 3.7 and opencv 4.1.0
+
+Usage:
+
+    docker run -it jjanzic/docker-python3-opencv python
+    >>> import cv2
+
+Image tagged with `:contrib` contains docker image built with [contrib modules](https://github.com/opencv/opencv_contrib/)
+
+List of available docker tags:
+
+- `opencv-4.1.0` (`latest` branch)
+- `contrib-opencv-4.1.0` (`opencv_contrib` branch)
+- `opencv-4.0.1`
+- `contrib-opencv-4.0.1`
+- `opencv-4.0.0`
+- `contrib-opencv-4.0.0`
+- `opencv-3.4.2`
+- `contrib-opencv-3.4.2`
+- `opencv-3.4.1`
+- `contrib-opencv-3.4.1`
+- `opencv-3.4.0`
+- `contrib-opencv-3.4.0`
+- `opencv-3.3.0`
+- `contrib-opencv-3.3.0`
+- `opencv-3.2.0`
+- `contrib-opencv-3.2.0`
+

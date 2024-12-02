@@ -1,0 +1,3 @@
+Score: 0.6031
+kdaniels0/Python Intro to Python  # python-challenge
+repo for homework 3, done in class

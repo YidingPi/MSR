@@ -1,0 +1,3 @@
+Full Name: markdregan/Bayesian-Modelling-in-Python
+Updated - Created (days): 3370 days
+Pushed - Created (days): 597 days

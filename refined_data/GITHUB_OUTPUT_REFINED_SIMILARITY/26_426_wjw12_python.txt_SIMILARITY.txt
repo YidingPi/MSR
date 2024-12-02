@@ -1,0 +1,6 @@
+Score: 0.5979
+wjw12/python Small programs by python newbie  # For learning python
+
+Small programs and exercise code
+
+Some are copied or revised from various books

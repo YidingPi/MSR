@@ -1,0 +1,12 @@
+Full Name: jnt9000/Python_Grad
+Description: None
+created_at: 2021-10-08T02:16:16Z
+updated_at: 2021-12-10T04:16:43Z
+pushed_at: 2021-12-10T04:16:40Z
+Language: Python
+URL: https://github.com/jnt9000/Python_Grad
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

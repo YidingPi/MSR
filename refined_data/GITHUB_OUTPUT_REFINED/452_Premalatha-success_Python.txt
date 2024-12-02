@@ -1,0 +1,13 @@
+ID: 452
+Full Name: Premalatha-success/Python
+Description: None
+Created At: 2021-11-08T12:20:45Z
+Updated At: 2023-05-18T12:46:15Z
+Pushed At: 2021-12-19T10:18:09Z
+Language: Jupyter Notebook
+URL: https://github.com/Premalatha-success/Python
+Forks: 54
+Stars: 15
+Topics: 
+README:
+

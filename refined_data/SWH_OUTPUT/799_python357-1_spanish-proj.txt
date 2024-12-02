@@ -1,0 +1,36 @@
+Full Name: python357-1/spanish-proj
+Description: application to help learn spanish
+created_at: 2022-02-10T04:39:41Z
+updated_at: 2022-02-10T04:43:41Z
+pushed_at: 2022-02-11T04:58:05Z
+Language: JavaScript
+URL: https://github.com/python357-1/spanish-proj
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# spanish-proj-vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+

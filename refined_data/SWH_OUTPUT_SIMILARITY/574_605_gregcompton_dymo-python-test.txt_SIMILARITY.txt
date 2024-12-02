@@ -1,0 +1,8 @@
+Score: 0.3697
+gregcompton/dymo-python-test None  using this tutorial
+https://www.youtube.com/watch?v=trKAtdVjAus
+
+
+dependencies: 
+
+- pip install pywin32

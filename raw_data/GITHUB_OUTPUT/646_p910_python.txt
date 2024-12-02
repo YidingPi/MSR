@@ -1,0 +1,15 @@
+ID: 646
+Full Name: p910/python
+Description: 微信自动发消息，微信机器人（简易），可以给一个特定的人发送一句特定的消息，后续会继续完善的
+Created At: 2020-05-07T03:32:19Z
+Updated At: 2024-04-02T17:44:09Z
+Pushed At: 2020-05-07T03:41:18Z
+Language: Python
+URL: https://github.com/p910/python
+Forks: 22
+Stars: 15
+Topics: 
+README:
+# python
+微信自动发消息，微信机器人（简易），可以给一个特定的人发送一句特定的消息，后续会继续完善的
+

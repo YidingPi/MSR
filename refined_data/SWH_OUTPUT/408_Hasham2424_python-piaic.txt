@@ -1,0 +1,12 @@
+Full Name: Hasham2424/python-piaic
+Description: practising git
+created_at: 2019-11-24T14:17:28Z
+updated_at: 2019-11-24T14:40:56Z
+pushed_at: 2019-11-24T14:40:54Z
+Language: None
+URL: https://github.com/Hasham2424/python-piaic
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

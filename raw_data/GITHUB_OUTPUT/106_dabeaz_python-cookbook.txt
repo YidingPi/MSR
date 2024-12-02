@@ -1,0 +1,16 @@
+ID: 106
+Full Name: dabeaz/python-cookbook
+Description: Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013. 
+Created At: 2013-04-08T11:01:19Z
+Updated At: 2024-12-01T17:16:37Z
+Pushed At: 2023-09-20T23:36:43Z
+Language: Python
+URL: https://github.com/dabeaz/python-cookbook
+Forks: 1772
+Stars: 3923
+Topics: 
+README:
+python-cookbook
+===============
+
+Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp; Associates, May, 2013. 

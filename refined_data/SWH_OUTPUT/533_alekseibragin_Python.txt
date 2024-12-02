@@ -1,0 +1,13 @@
+Full Name: alekseibragin/Python
+Description: None
+created_at: 2020-10-20T16:31:47Z
+updated_at: 2021-01-17T15:32:19Z
+pushed_at: 2021-01-17T15:32:17Z
+Language: Jupyter Notebook
+URL: https://github.com/alekseibragin/Python
+Forks: 0
+Stars: 1
+Topics: 
+README:
+Python
+

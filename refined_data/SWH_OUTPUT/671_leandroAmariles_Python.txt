@@ -1,0 +1,12 @@
+Full Name: leandroAmariles/Python
+Description: None
+created_at: 2022-03-08T00:33:44Z
+updated_at: 2022-03-08T00:41:07Z
+pushed_at: 2022-03-08T00:33:45Z
+Language: None
+URL: https://github.com/leandroAmariles/Python
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

@@ -1,0 +1,2 @@
+Score: 0.4276
+urchuk2006/Python-Katas None  # Lv-527.PythonCore

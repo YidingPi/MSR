@@ -1,0 +1,12 @@
+Full Name: Reinaldo-Tanaka/Python-4-everybody
+Description: None
+created_at: 2021-04-10T21:35:35Z
+updated_at: 2021-06-23T21:58:29Z
+pushed_at: 2021-06-23T21:58:27Z
+Language: None
+URL: https://github.com/Reinaldo-Tanaka/Python-4-everybody
+Forks: 0
+Stars: 0
+Topics: 
+README:
+

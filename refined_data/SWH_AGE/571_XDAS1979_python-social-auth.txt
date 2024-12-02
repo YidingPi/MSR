@@ -1,0 +1,3 @@
+Full Name: XDAS1979/python-social-auth
+Updated - Created (days): 1787 days
+Pushed - Created (days): -2 days

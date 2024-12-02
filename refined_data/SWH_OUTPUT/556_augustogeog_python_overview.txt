@@ -1,0 +1,15 @@
+Full Name: augustogeog/python_overview
+Description: Python 3 Overview Classes
+created_at: 2020-08-04T20:28:37Z
+updated_at: 2020-09-05T20:22:57Z
+pushed_at: 2020-09-05T20:22:54Z
+Language: Jupyter Notebook
+URL: https://github.com/augustogeog/python_overview
+Forks: 0
+Stars: 0
+Topics: 
+README:
+# python_overview
+Python 3 Overview Classes
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/augustogeog/python_overview/master)
+

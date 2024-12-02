@@ -1,0 +1,6 @@
+Score: 0.6161
+brychelle/python Exercícios em Python  # Meus Exercícios em Python
+
+
+
+Aqui ficam meus exercícios. :)
