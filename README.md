@@ -2,7 +2,17 @@
 # Description
 This repository contains the data, scripts, and documentation for the study "A Study of Repository Characteristics of Search Results from GitHub and Software Heritage Search Tools." The goal of this project is to explore the overlap, metadata differences, and search result relevance of repositories retrieved from GitHub and Software Heritage search tools using the keyword(We use "python" as an example).
 
+# Data Sources
+Data Source: GitHub Repositories from Software Heritage API and GitHub API
+
+Example of Software Heritage API: https://archive.softwareheritage.org/api/1/origin/search/python/?limit=1000&?with_visit=1&visit_type=git
+
+Example of GitHub API: https://api.github.com/search/repositories?q=python
+
+Date of Access: December 1, 2024
+
 # Research Questions
+
 RQ1: How many repositories retrieved from Software Heritage are no longer valid on GitHub?
 
 RQ2: For the same keyword, how many overlapping repositories are retrieved from GitHub and Software Heritage?
@@ -40,9 +50,7 @@ Guidance of Software Heritage token creation: https://archive.softwareheritage.o
 
 Guidance of GitHub token creation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-Data Source: GitHub Repositories from Software Heritage API and GitHub API
 
-Date of Access: December 1, 2024
 
 ## Step 1: Run 1. Github Search.py and Write "python"
 
