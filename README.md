@@ -1,7 +1,8 @@
+Repository-Insights
 # Description
-## This repository contains the data, scripts, and documentation for the study "A Study of Repository Characteristics Using GitHub and Software Heritage Search Tools." The goal of this project is to explore the overlap, metadata differences, and search result relevance of repositories retrieved from GitHub and Software Heritage search tools using the keyword "Python."
+## This repository contains the data, scripts, and documentation for the study "A Study of Repository Characteristics Using GitHub and Software Heritage Search Tools." The goal of this project is to explore the overlap, metadata differences, and search result relevance of repositories retrieved from GitHub and Software Heritage search tools using the keyword(We use "python" as an example).
 
-
+# Mining Process
 ![image](https://github.com/user-attachments/assets/c59923df-3ba7-4ef9-90ed-b2b498d32fc5)
 
 ![image](https://github.com/user-attachments/assets/dec15f3b-7676-4bad-a29c-6c08341e52a4)
