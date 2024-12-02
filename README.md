@@ -1,6 +1,10 @@
 # Description
 ## This repository contains the data, scripts, and documentation for the study "A Study of Repository Characteristics Using GitHub and Software Heritage Search Tools." The goal of this project is to explore the overlap, metadata differences, and search result relevance of repositories retrieved from GitHub and Software Heritage search tools using the keyword "Python."
 
+
+![image](https://github.com/user-attachments/assets/c59923df-3ba7-4ef9-90ed-b2b498d32fc5)
+
+
 Purpose of the Dataset
 The dataset includes:
 
@@ -8,7 +12,7 @@ Raw Data: Search results and metadata collected directly from the APIs of GitHub
 Refined Data: Processed and analyzed data to address research questions on repository overlaps, metadata completeness, and semantic relevance.
 Repository Structure
 The repository is organized as follows:
-![image](https://github.com/user-attachments/assets/ffa152ac-0837-4d2d-8efb-699f896367eb)
+
 
 data/
 raw/: Contains raw datasets retrieved from GitHub and Software Heritage APIs.
