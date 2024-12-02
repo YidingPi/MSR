@@ -180,3 +180,6 @@ Output: Visualization features of Fork and Star are stored in analysis\Star_Fork
 ![Distribution of Updated-Created](https://github.com/user-attachments/assets/5d9b3eee-d6e8-4d71-a2e5-f44dc8b50548)
 ![Distribution of Pushed-Created](https://github.com/user-attachments/assets/9bad0e96-fd34-4136-8958-dffb9cf7c947)
 
+# Licensing
+
+This repository is licensed under the GPL-3.0 license, ensuring open use and modification.
