@@ -122,7 +122,9 @@ In the calculation, we assume that our goal is to find the repositories with the
 Based on assumptions, semantic similarity represents how well the search tool helps us to find matching repositories.
 
 **Function 2 of 5. Similarity Calculation.py (RQ4)**
-Input: Metadata in refined_data\SWH_OUTPUT and refined_data\GITHUB_OUTPUT_REFINED.
+Input: Write keyword "python" to calculate.
+        
+        Metadata in refined_data\SWH_OUTPUT and refined_data\GITHUB_OUTPUT_REFINED.
 
 Output: Repositories that miss metadata are stored in refined_data\GITHUB_OUTPUT_REFINED_NO_DESCRIPTION, refined_data\GITHUB_OUTPUT_REFINED_NO_README, refined_data\SWH_OUTPUT_NO_DESCRIPTION, and refined_data\SWH_OUTPUT_NO_README.
 
