@@ -1,7 +1,0 @@
-The common project names in both folders are:
-coinbase_coinbase-python.txt
-achillean_shodan-python.txt
-
-There are 2 common project names.
-
-The percentage of common projects is: 0.24%
