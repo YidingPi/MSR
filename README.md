@@ -8,6 +8,7 @@ Raw Data: Search results and metadata collected directly from the APIs of GitHub
 Refined Data: Processed and analyzed data to address research questions on repository overlaps, metadata completeness, and semantic relevance.
 Repository Structure
 The repository is organized as follows:
+![image](https://github.com/user-attachments/assets/ffa152ac-0837-4d2d-8efb-699f896367eb)
 
 data/
 raw/: Contains raw datasets retrieved from GitHub and Software Heritage APIs.
