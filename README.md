@@ -120,15 +120,17 @@ _The figure above shows the Repository Structure._
 # Visualization
 
 ### Step 7: Semantic Similarity Visualization (RQ3) (`6. ML-based Similarity Visualization.py`)
-![predicted_scores](https://github.com/user-attachments/assets/e06cc43d-9d4d-4db5-9617-155b3ca4fe3b)
+![predicted_scores](https://github.com/user-attachments/assets/81d685a9-2bac-44c2-8de8-938a2dc5ddfb)
+
 
 _Fitting curve of repositories._  
 
-![score_boxplot](https://github.com/user-attachments/assets/83ee1490-1755-411b-aeee-4a19efa36804)
+![score_boxplot](https://github.com/user-attachments/assets/e8e7813e-929b-4e7b-833a-5d20c1f3afb3)
 
 _Boxplot comparison._  
 
-![score_distribution](https://github.com/user-attachments/assets/71ed7c5a-168f-4bf9-bd30-ecb2cfabe431)
+![score_distribution](https://github.com/user-attachments/assets/9555e3f5-bf52-4a68-ac10-df5ccdaf7d6e)
+
 
 _Distribution of semantic similarity._
 
