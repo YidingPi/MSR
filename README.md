@@ -34,12 +34,14 @@ In keyword selection, we use "python" as an example. Because it's a hot keyword 
 However, you can select any keyword to reproduce this study.
 
 Before starting this study, you need to get your **tokens** of GitHub and Software Heritage and write them in Program **1. Github Search.py and 2. SWH Search.py**.
+![image](https://github.com/user-attachments/assets/1ee512b2-e5db-454c-97c9-4dc31002bd37)
+
 
 Guidance of Software Heritage token creation: https://archive.softwareheritage.org/api/#authentication
 
 Guidance of GitHub token creation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-Data Source: Software Heritage API and GitHub API
+Data Source: GitHub Repositories from Software Heritage API and GitHub API
 
 ## Step 1: Run 1. Github Search.py and Write "python"
 
