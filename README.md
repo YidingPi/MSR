@@ -51,7 +51,6 @@ Guidance of Software Heritage token creation: https://archive.softwareheritage.o
 Guidance of GitHub token creation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
 
-
 ## Step 1: Run 1. Github Search.py and Write "python"
 
 Input: Keyword "python"
