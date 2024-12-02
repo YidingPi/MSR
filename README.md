@@ -64,7 +64,7 @@ _The figure above shows the mining process._
 - **Input:** Keyword "python"  
 - **Output:** URLs of repositories stored in `raw_data/SWH_URLs`.  
 - **Details:**  
-  - Filters results to type **"git"** repositories.  
+  - Filters results to get GitHub repositories from Git-type repositories(including GitHub and GitLab).  
   - 954 repositories are filtered and stored.
 
 ---
