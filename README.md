@@ -38,6 +38,43 @@ Guidance of Software Heritage token creation: https://archive.softwareheritage.o
 
 Guidance of GitHub token creation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
+Data Source: Software Heritage API and GitHub API
+
+## Step 1: Run 1. Github Search.py and Write "python"
+Input: Keyword "python"
+Output: Txt files of metadata and age of repositories from GitHub Search will be stored in raw_data/GITHUB_OUTPUT and raw_data/GITHUB_AGE.
+
+This step uses GitHub API to get metadata and calculate the age of repositories using a keyword search on GitHub.
+We calculate the age using Update Date-Create Date and Push Date-Create Date.
+
+## Step 2: Run 2. SWH Search.py
+Input: Same Keyword as Step 1
+Output: A txt file of URLs of repositories from Software Heritage Search will be stored in raw_data/SWH_URLs.
+
+This step uses Software Heritage API to get URLs of search results on Software Heritage using the same keyword. Because Software Heritage can not directly search the metadata of repositories. 
+
+Software Heritage only allows developers to limit the type of repositories (such as git and pypi) instead of the source of repositories (such as GitHub and GitLab).
+
+So we limit our results type to "git". The results include the repositories from GitLab. We filter the results so that we get 954 repositories as shown in raw_data/SWH_URLs.
+
+
+# Refined dataset (extraction process)
+
+## Step 2: Run 2. SWH Search.py
+Input: Txt file of URLs of repositories from Software Heritage Search will be stored in raw_data/SWH_URLs.
+
+Output: refined_data\SWH_OUTPUT: Store repositories are still valid on GitHub. refined_data\SWH_VALID_COUNTER: Count the number of valid repositories for further usage refined_data\SWH_INVALID:Store repositories are still invalid on GitHub.
+
+In step 2, we also conduct filtering of Software Heritage to filter out repositories that are currently invalid on GitHub. We get 844 repositories in refined_data\SWH_OUTPUT are stored age of repositories in refined_data\SWH_AGE.
+
+## Step 3: Run 3. Random Selection.py
+Input: Get the currently valid number of repositories of Software Heritage from refined_data\SWH_VALID_COUNTER. Randomly Select repositories from raw_data\GITHUB_OUTPUT and raw_data\GITHUB_AGE.
+Output: GitHub Repositories which have the same number of Repositories from Software Heritage
+Currently, there are 844 repositories from Software Search that are still valid. So we randomly select 844 repositories from 1000 repositories from GitHub Search.
+
+So that we can compare the repositories.
+
+
 
 Purpose of the Dataset
 The dataset includes:
