@@ -23,12 +23,21 @@ The figure shows the mining process.
 # Raw dataset (selection process)
 
 Due to our need, we need to request metadata for each repository.
-However, Software Heritage API only allows 1200 requests per hour.
-So we only select 1000 repositories from each platform (2000 repositories in total).
 
-In keyword selection, we use "python" as an example. However, you can select any keyword to reproduce this study.
+However, Software Heritage API only allows 1200 requests per hour.
+
+So we only select 1000 repositories from each platform (2000 repositories in total) here.
+
+In keyword selection, we use "python" as an example. Because it's a hot keyword on GitHub and Software Heritage. 
+
+However, you can select any keyword to reproduce this study.
 
 Before starting this study, you need to get your **tokens** of GitHub and Software Heritage and write them in Program **1. Github Search.py and 2. SWH Search.py**.
+
+Guidance of Software Heritage token creation: https://archive.softwareheritage.org/api/#authentication
+
+Guidance of GitHub token creation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
 
 Purpose of the Dataset
 The dataset includes:
