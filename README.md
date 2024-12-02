@@ -18,7 +18,8 @@ RQ5: What are the differences in repository metadata(stars, forks, age) between 
 The figure shows the mining process.
 
 # Repository Structure
-![image](https://github.com/user-attachments/assets/dec15f3b-7676-4bad-a29c-6c08341e52a4)
+![image](https://github.com/user-attachments/assets/79b191a9-558d-4bf1-af9d-dc250a43a415)
+
 
 # Raw dataset (selection process)
 
@@ -60,12 +61,13 @@ So we limit our results type to "git". The results include the repositories from
 
 # Refined dataset (extraction process)
 
-## Step 2: Run 2. SWH Search.py
+## Step 2: Run 2. SWH Search.py (RQ1)
 Input: Txt file of URLs of repositories from Software Heritage Search will be stored in raw_data/SWH_URLs.
-
 Output: refined_data\SWH_OUTPUT: Store repositories are still valid on GitHub. refined_data\SWH_VALID_COUNTER: Count the number of valid repositories for further usage refined_data\SWH_INVALID:Store repositories are still invalid on GitHub.
 
-In step 2, we also conduct filtering of Software Heritage to filter out repositories that are currently invalid on GitHub. We get 844 repositories in refined_data\SWH_OUTPUT are stored age of repositories in refined_data\SWH_AGE.
+Program 2. SWH Search.py has both functions of extract and refining.
+
+In step 2, we also conduct filtering of Software Heritage to filter out repositories that are currently invalid on GitHub **(RQ1)**. We get 844 repositories in refined_data\SWH_OUTPUT are stored age of repositories in refined_data\SWH_AGE.
 
 ## Step 3: Run 3. Random Selection.py
 Input: Get the currently valid number of repositories of Software Heritage from refined_data\SWH_VALID_COUNTER. Randomly Select repositories from raw_data\GITHUB_OUTPUT and raw_data\GITHUB_AGE.
@@ -73,6 +75,29 @@ Output: GitHub Repositories which have the same number of Repositories from Soft
 Currently, there are 844 repositories from Software Search that are still valid. So we randomly select 844 repositories from 1000 repositories from GitHub Search.
 
 So that we can compare the repositories.
+
+## Step 4: Run 4. Overlap Check.py (RQ2)
+Input: Repositories from refined_data\SWH_OUTPUT and refined_data\GITHUB_OUTPUT_REFINED.
+Output: Information of overlapping repositories is stored in analysis\Overlapping_Repositories.
+In our example which used "python" as the keyword, there are only 2 overlapping repositories.
+
+It shows that search algorithms employed by GitHub and Software Heritage are fundamentally different, which leads to different results even with identical search queries.
+
+## Step 5: Run 5. Similarity Calculation.py (RQ3, RQ4)
+
+Input: Metadata in refined_data\SWH_OUTPUT and refined_data\GITHUB_OUTPUT_REFINED.
+Output: Semantic similarity between search keyword with metadata of repository (name, description, and readme) is stored in refined_data\SWH_OUTPUT_SIMILARITY and refined_data\GITHUB_OUTPUT_REFINED_SIMILARITY.
+        Repositories that miss metadata are stored in refined_data\GITHUB_OUTPUT_REFINED_NO_DESCRIPTION, refined_data\GITHUB_OUTPUT_REFINED_NO_README, refined_data\SWH_OUTPUT_NO_DESCRIPTION, and refined_data\SWH_OUTPUT_NO_README.
+
+We want to know how well the search tool from each platform can help us find matching repositories. So we employ semantic transformer "sentence-transformers/all-MiniLM-L6-v2" from https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2 to convert the metadata of repositories to vector and compare similarity using cosine calculation with search keyword. 
+
+In the calculation, we assume that our goal is to find the repositories with the highest semantic similarity between the metadata of the repository and the search keyword.
+
+So semantic similarity represents how well the search tool helps us to find matching repositories.
+
+## Step 6: Run 6. ML-based Similarity Visualization.py
+# Analysis of refined data
+
 
 
 
