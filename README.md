@@ -65,7 +65,7 @@ _The figure above shows the mining process._
 - **Output:** URLs of repositories stored in `raw_data/SWH_URLs`.  
 - **Details:**  
   - Filters results to get GitHub repositories from Git-type repositories(including GitHub and GitLab).  
-  - 954 repositories are filtered and stored.
+  - 954 repositories are stored from 1000 Git-type repositories.
 
 ---
 
