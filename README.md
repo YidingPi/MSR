@@ -138,7 +138,9 @@ Output: Repositories that miss metadata are stored in refined_data\GITHUB_OUTPUT
 
 In this function, we check what proportion of repositories are missing critical metadata like readme or description.
 
-Result: 341 (40.4%)Repositories from Software Heritage Search miss readme.
+Result: 
+
+        341 (40.4%)Repositories from Software Heritage Search miss readme.
 
         443 (52.5%)Repositories from Software Heritage Search miss description.
 
