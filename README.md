@@ -30,7 +30,7 @@ By addressing these areas, the study aims to provide valuable insights into the 
 - Developers can enhance their search strategies to find the most relevant and high-quality repositories for their projects.
 - Researchers can rely on more accurate data for software analytics, mining, and preservation studies.
 - Platform Maintainers can identify areas for improving search algorithms and metadata standards, ultimately enhancing user experience and archival quality.
-- 
+
 In an era where software evolves rapidly, and the volume of available code grows exponentially, ensuring effective search and preservation mechanisms is more important than ever. This study contributes to the broader goal of optimizing repository discovery and utilization, thereby supporting the ongoing advancement of open-source software and its communities.
 
 
